@@ -1,0 +1,23 @@
+Flour & Chalk Bakery
+
+## Bakes
+Banana Bread  $4
+  banana, flour, butter, eggs, walnuts
+Oat Cookie  $3
+  oats, brown sugar, butter, raisins
+Nutella Crêpe  $7
+  thin pancake, hazelnut chocolate spread
+Sourdough Slice  $3
+  sourdough, butter
+
+## Lunch and drinks
+Hummus and Veggie Wrap  $9
+  hummus, cucumber, tomato, tortilla
+Tuna Sandwich  $8
+  tuna, mayo, bread
+Fruit Cup  $5
+  melon, grapes, pineapple
+Green Smoothie  $6
+  spinach, banana, apple, water
+Black Coffee  $3
+  brewed coffee

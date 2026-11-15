@@ -1,0 +1,25 @@
+Warung Nusantara
+
+## Satay and snacks
+Satay Ayam  $9
+  chicken skewers, peanut sauce
+Gado-Gado  $10
+  blanched vegetables, tofu, tempeh, egg, peanut sauce
+Pisang Goreng  $5
+  banana fritters
+Roti Canai  $5
+  flaky flatbread, curry dip
+
+## Rice and noodles
+Nasi Goreng  $11
+  fried rice, fried egg, sweet soy sauce, chicken
+Mee Goreng  $11
+  fried yellow noodles, egg, vegetables, chili sauce
+Laksa  $13
+  noodle soup, prawns, tofu puffs, chili paste
+Beef Rendang  $15
+  slow-cooked beef in spices and coconut
+Ayam Goreng  $12
+  fried chicken with turmeric and rice
+Es Teh Manis  $3
+  sweet iced tea

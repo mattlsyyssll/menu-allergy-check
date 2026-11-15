@@ -1,0 +1,25 @@
+Cedar Table
+
+## Mezze
+Hummus  $8
+  chickpeas, lemon, garlic
+Baba Ghanoush  $9
+  roasted eggplant, lemon, garlic
+Falafel Plate  $12
+  chickpea fritters, salad
+Tabbouleh  $9
+  parsley, bulgur, tomato, mint
+Fattoush  $10
+  romaine, tomato, radish, toasted pita, sumac
+Labneh  $7
+  strained yogurt, olive oil
+
+## Grill and sweets
+Chicken Shawarma Plate  $16
+  marinated chicken, rice, garlic sauce
+Grilled Lamb Skewers  $18
+  lamb, onion, pepper
+Baklava (3)  $7
+  filo, pistachio, walnut, syrup
+Halva Slice  $5
+  sweet sesame paste with pistachios

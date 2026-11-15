@@ -1,0 +1,453 @@
+{
+ "case": "M05",
+ "pages": {
+  "PROFILE-A": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Soupe à l'oignon gratinée | French onion soup"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Salade niçoise | Niçoise salad"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Quiche lorraine"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Salade verte | Green salad"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Sole meunière"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Moules marinières | Mussels in white wine"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Ratatouille"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Frites maison | Fries"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Crème brûlée"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Tarte aux amandes | Almond tart"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ],
+  "PROFILE-B": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Soupe à l'oignon gratinée | French onion soup"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Salade niçoise | Niçoise salad"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Quiche lorraine"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Salade verte | Green salad"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Sole meunière"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Moules marinières | Mussels in white wine"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Ratatouille"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Frites maison | Fries"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Crème brûlée"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Tarte aux amandes | Almond tart"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   }
+  ],
+  "PROFILE-C": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Soupe à l'oignon gratinée | French onion soup"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Salade niçoise | Niçoise salad"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Quiche lorraine"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Salade verte | Green salad"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Sole meunière"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Moules marinières | Mussels in white wine"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Ratatouille"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Frites maison | Fries"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Crème brûlée"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Tarte aux amandes | Almond tart"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   }
+  ],
+  "PROFILE-D": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Soupe à l'oignon gratinée | French onion soup"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Salade niçoise | Niçoise salad"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Quiche lorraine"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Salade verte | Green salad"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Sole meunière"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Moules marinières | Mussels in white wine"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Ratatouille"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Frites maison | Fries"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Crème brûlée"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Tarte aux amandes | Almond tart"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ]
+ }
+}

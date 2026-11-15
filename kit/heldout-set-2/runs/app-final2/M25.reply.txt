@@ -1,0 +1,137 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Bruschetta al Pomodoro
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Arancini
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Spaghetti Puttanesca
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Spaghetti Carbonara
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gnocchi al Gorgonzola
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Fresh Pasta Special
+Label: Ask the kitchen
+Reason: "Chef's Fresh Pasta Special" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Veal Milanese
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pan-Seared Sea Bream
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Zucchini
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cannoli Siciliani
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lemon Sorbetto
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Bruschetta al Pomodoro
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Arancini
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Spaghetti Puttanesca
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Spaghetti Carbonara
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gnocchi al Gorgonzola
+Label: Ask the kitchen
+Reason: Tree nuts: common versions of this dish contain it (Walnuts are very commonly added as a garnish or in the sauce.). | Tree nuts: walnut is sometimes in this dish (a typical recipe, not the menu).
+Dish: Chef's Fresh Pasta Special
+Label: Ask the kitchen
+Reason: "Chef's Fresh Pasta Special" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Veal Milanese
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pan-Seared Sea Bream
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Zucchini
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cannoli Siciliani
+Label: Ask the kitchen
+Reason: Tree nuts: common versions of this dish contain it (Pistachios or chopped almonds are frequently used as garnish.). | Tree nuts: pistachio is sometimes in this dish (a typical recipe, not the menu).
+Dish: Lemon Sorbetto
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Bruschetta al Pomodoro
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bread" in the listed ingredient). | Wheat / gluten: this dish usually contains it (Bread is made from wheat flour.). | Wheat / gluten: bread is an essential part of a typical recipe for this dish.
+Dish: Arancini
+Label: Avoid
+Reason: Milk is listed on the menu ("mozzarella" in the listed ingredient). | Wheat / gluten is listed on the menu ("breadcrumb" in the listed ingredient). | Milk: this dish usually contains it (Mozzarella and butter are standard in the filling and rice.). | Wheat / gluten: this dish usually contains it (Flour and breadcrumbs are used for the coating.). | Milk: butter is an essential part of a typical recipe for this dish. | Milk: parmesan cheese is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Wheat / gluten: breadcrumbs is an essential part of a typical recipe for this dish.
+Dish: Spaghetti Puttanesca
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("spaghetti" in the dish name). | Wheat / gluten: this dish usually contains it (Spaghetti is made from wheat semolina.). | Wheat / gluten: spaghetti is an essential part of a typical recipe for this dish.
+Dish: Spaghetti Carbonara
+Label: Avoid
+Reason: Milk is listed on the menu ("pecorino" in the listed ingredient). | Wheat / gluten is listed on the menu ("spaghetti" in the dish name). | Milk: this dish usually contains it (Pecorino Romano cheese is an essential ingredient.). | Egg: this dish usually contains it (Eggs are the foundation of the sauce.). | Wheat / gluten: this dish usually contains it (Pasta is made from wheat.). | Wheat / gluten: spaghetti is an essential part of a typical recipe for this dish. | Egg: egg yolk is an essential part of a typical recipe for this dish. | Milk: pecorino romano cheese is an essential part of a typical recipe for this dish.
+Dish: Gnocchi al Gorgonzola
+Label: Avoid
+Reason: Milk is listed on the menu ("gorgonzola" in the dish name). | Wheat / gluten is listed on the menu ("gnocchi" in the dish name). | Milk: this dish usually contains it (Gorgonzola cheese, butter, and cream are essential to the dish.). | Wheat / gluten: this dish usually contains it (Wheat flour is required to make gnocchi.). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: gorgonzola cheese is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Chef's Fresh Pasta Special
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pasta" in the dish name).
+Dish: Veal Milanese
+Label: Avoid
+Reason: Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Wheat / gluten: breadcrumbs is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Pan-Seared Sea Bream
+Label: Ask the kitchen
+Reason: Milk: common versions of this dish contain it (Butter is commonly used for pan-searing or in the pan sauce.). | Milk: butter is commonly in this dish (a typical recipe, not the menu).
+Dish: Grilled Zucchini
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cannoli Siciliani
+Label: Avoid
+Reason: Milk is listed on the menu ("ricotta" in the listed ingredient). | Milk: this dish usually contains it (Ricotta cheese is essential for the filling.). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: ricotta cheese is an essential part of a typical recipe for this dish.
+Dish: Lemon Sorbetto
+Label: Ask the kitchen
+Reason: Egg: egg white is sometimes in this dish (a typical recipe, not the menu).
+=== PROFILE-D
+Dish: Bruschetta al Pomodoro
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Arancini
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Spaghetti Puttanesca
+Label: Avoid
+Reason: Fish: this dish usually contains it (Anchovies are an essential component of the sauce.). | Fish: anchovy is an essential part of a typical recipe for this dish.
+Dish: Spaghetti Carbonara
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gnocchi al Gorgonzola
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Fresh Pasta Special
+Label: Ask the kitchen
+Reason: "Chef's Fresh Pasta Special" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Veal Milanese
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pan-Seared Sea Bream
+Label: Ask the kitchen
+Reason: Fish: a typical version usually contains it (Sea bream is a fish.), but the printed ingredients do not show it. Ask the kitchen.
+Dish: Grilled Zucchini
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cannoli Siciliani
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lemon Sorbetto
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

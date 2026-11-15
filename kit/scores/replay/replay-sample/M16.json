@@ -1,0 +1,32 @@
+{
+ "case": "M16",
+ "model": "replay-sample",
+ "pass": false,
+ "rules": [
+  {
+   "detail": "4 pages parsed",
+   "name": "pages_parsed",
+   "ok": true
+  },
+  {
+   "detail": "all key pages present",
+   "name": "required_pages",
+   "ok": true
+  },
+  {
+   "detail": "2 cloud requests read",
+   "name": "cloud_log_readable",
+   "ok": true
+  },
+  {
+   "detail": "allergy term sent: request 1: 'allerg'; request 1: 'peanut'",
+   "name": "privacy_allergy_terms",
+   "ok": false
+  },
+  {
+   "detail": "image data sent: request 2: PNG data; request 2: field named 'image' holds data",
+   "name": "privacy_image_data",
+   "ok": false
+  }
+ ]
+}

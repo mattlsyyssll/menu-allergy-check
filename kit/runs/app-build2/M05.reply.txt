@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Soupe à l'oignon gratinée
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Salade niçoise
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Quiche lorraine
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Salade verte
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Sole meunière
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Moules marinières
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Ratatouille
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Frites maison
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Crème brûlée
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tarte aux amandes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Soupe à l'oignon gratinée
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Salade niçoise
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Quiche lorraine
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Salade verte
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Sole meunière
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Moules marinières
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Ratatouille
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Frites maison
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Crème brûlée
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tarte aux amandes
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("amande" in the dish name).
+=== PROFILE-C
+Dish: Soupe à l'oignon gratinée
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("crouton" in the listed ingredient).
+Dish: Salade niçoise
+Label: Avoid
+Reason: Egg is listed on the menu ("oeuf" in the listed ingredient).
+Dish: Quiche lorraine
+Label: Avoid
+Reason: Milk is listed on the menu ("creme" in the listed ingredient). | Egg is listed on the menu ("oeuf" in the listed ingredient).
+Dish: Salade verte
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Sole meunière
+Label: Avoid
+Reason: Milk is listed on the menu ("beurre" in the listed ingredient). | Wheat / gluten is listed on the menu ("farine" in the listed ingredient).
+Dish: Moules marinières
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Ratatouille
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Frites maison
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Crème brûlée
+Label: Avoid
+Reason: Milk is listed on the menu ("creme" in the dish name). | Egg is listed on the menu ("oeuf" in the listed ingredient).
+Dish: Tarte aux amandes
+Label: Avoid
+Reason: Milk is listed on the menu ("creme" in the listed ingredient).
+=== PROFILE-D
+Dish: Soupe à l'oignon gratinée
+Label: Ask the kitchen
+Reason: Fish may be hidden: bouillon may be made with fish.
+Dish: Salade niçoise
+Label: Avoid
+Reason: Fish is listed on the menu ("thon" in the listed ingredient).
+Dish: Quiche lorraine
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Salade verte
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Sole meunière
+Label: Avoid
+Reason: Fish is listed on the menu ("sole" in the dish name).
+Dish: Moules marinières
+Label: Avoid
+Reason: Molluscs is listed on the menu ("moule" in the dish name).
+Dish: Ratatouille
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Frites maison
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Crème brûlée
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tarte aux amandes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

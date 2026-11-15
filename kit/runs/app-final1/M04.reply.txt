@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: 宮保雞丁
+Label: Avoid
+Reason: Peanut is listed on the menu ("花生" in the listed ingredient). | Peanut: peanut is an essential part of a typical recipe for this dish.
+Dish: 麻婆豆腐
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 蝦仁炒蛋
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 揚州炒飯
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 涼拌青瓜
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 擔擔麵
+Label: Ask the kitchen
+Reason: Peanut may be hidden: dan dan sauce often uses peanut or sesame paste. | Peanut may be hidden: sesame fillings in sweets and sauces are sometimes extended with peanut (found in a typical recipe: sesame paste). | Peanut: peanut butter is commonly in this dish (a typical recipe, not the menu). | Peanut: peanut is commonly in this dish (a typical recipe, not the menu).
+Dish: 蝦餃
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 芝麻球
+Label: Ask the kitchen
+Reason: Peanut may be hidden: sweet bean and sesame fillings in fried and steamed sweets are sometimes extended with peanut. | Peanut may be hidden: sweet bean and sesame fillings in fried and steamed sweets are sometimes extended with peanut (found in a typical recipe: red bean paste). | Peanut may be hidden: sweet fillings in fried and steamed sweets are sometimes extended with peanut (found in a typical recipe: lotus seed paste).
+Dish: 杏仁豆腐
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 白飯
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: 宮保雞丁
+Label: Ask the kitchen
+Reason: Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: 麻婆豆腐
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 蝦仁炒蛋
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 揚州炒飯
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 涼拌青瓜
+Label: Ask the kitchen
+Reason: Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: 擔擔麵
+Label: Avoid
+Reason: Sesame is listed on the menu ("芝麻" in the listed ingredient). | Sesame: sesame paste is an essential part of a typical recipe for this dish.
+Dish: 蝦餃
+Label: Ask the kitchen
+Reason: Sesame may be hidden: dumpling fillings and dips often contain sesame oil. | Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: 芝麻球
+Label: Avoid
+Reason: Sesame is listed on the menu ("芝麻" in the dish name). | Sesame: sesame seed is an essential part of a typical recipe for this dish.
+Dish: 杏仁豆腐
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("杏仁" in the dish name).
+Dish: 白飯
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: 宮保雞丁
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pão" in the English dish name). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 麻婆豆腐
+Label: Avoid
+Reason: Soy is listed on the menu ("豆腐" in the dish name). | Soy: tofu is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 蝦仁炒蛋
+Label: Avoid
+Reason: Egg is listed on the menu ("蛋" in the dish name). | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: 揚州炒飯
+Label: Avoid
+Reason: Egg is listed on the menu ("蛋" in the listed ingredient). | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: 涼拌青瓜
+Label: Ask the kitchen
+Reason: Soy: soy sauce is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten may be hidden: soy sauce is brewed with wheat (found in a typical recipe: soy sauce).
+Dish: 擔擔麵
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("麵" in the dish name). | Wheat / gluten: wheat noodles is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 蝦餃
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("麵" in the listed ingredient). | Wheat / gluten: wheat starch is an essential part of a typical recipe for this dish.
+Dish: 芝麻球
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: bean pastes often contain wheat flour. | Soy may be hidden: bean pastes are often made from soybeans. | Wheat / gluten may be hidden: bean pastes often contain wheat flour (found in a typical recipe: red bean paste). | Soy may be hidden: bean pastes are often made from soybeans (found in a typical recipe: red bean paste).
+Dish: 杏仁豆腐
+Label: Avoid
+Reason: Milk is listed on the menu ("牛奶" in the listed ingredient). | Soy is listed on the menu ("豆腐" in the dish name).
+Dish: 白飯
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: 宮保雞丁
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 麻婆豆腐
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 蝦仁炒蛋
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("蝦" in the dish name). | Crustaceans: shrimp is an essential part of a typical recipe for this dish.
+Dish: 揚州炒飯
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("蝦" in the listed ingredient). | Crustaceans: shrimp is an essential part of a typical recipe for this dish.
+Dish: 涼拌青瓜
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 擔擔麵
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 蝦餃
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("蝦" in the dish name). | Crustaceans: shrimp is an essential part of a typical recipe for this dish.
+Dish: 芝麻球
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 杏仁豆腐
+Label: Ask the kitchen
+Reason: Fish may be hidden: gelatin can be made from fish (found in a typical recipe: gelatin).
+Dish: 白飯
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

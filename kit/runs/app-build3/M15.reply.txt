@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Fettuccine Alfredo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pesto Gnocchi
+Label: Ask the kitchen
+Reason: Peanut may be hidden: pesto often has nuts, and some versions use peanuts. | Peanut may be hidden: the menu mentions nuts without saying which (found in a typical recipe: pine nuts).
+Dish: Spaghetti Marinara
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Minestrone
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Caprese Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Arugula Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fried Calamari
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Branzino
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pistachio Gelato
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Panna Cotta
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Fettuccine Alfredo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pesto Gnocchi
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: pesto is traditionally made with pine nuts. | Tree nuts: pine nuts is commonly in this dish (a typical recipe, not the menu). | Tree nuts may be hidden: the menu mentions nuts without saying which (found in a typical recipe: pine nuts).
+Dish: Spaghetti Marinara
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Minestrone
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Caprese Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Arugula Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fried Calamari
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Branzino
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pistachio Gelato
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pistachio" in the dish name). | Tree nuts: pistachio is an essential part of a typical recipe for this dish.
+Dish: Panna Cotta
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Fettuccine Alfredo
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Milk: butter is an essential part of a typical recipe for this dish. | Milk: parmesan cheese is an essential part of a typical recipe for this dish.
+Dish: Pesto Gnocchi
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("gnocchi" in the dish name). | Wheat / gluten: gnocchi is an essential part of a typical recipe for this dish. | Milk: parmesan cheese is an essential part of a typical recipe for this dish.
+Dish: Spaghetti Marinara
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("spaghetti" in the dish name). | Wheat / gluten: spaghetti is an essential part of a typical recipe for this dish.
+Dish: Minestrone
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pasta" in the listed ingredient). | Wheat / gluten: vegetable broth is an essential part of a typical recipe for this dish.
+Dish: Caprese Salad
+Label: Avoid
+Reason: Milk is listed on the menu ("mozzarella" in the listed ingredient). | Milk: mozzarella is an essential part of a typical recipe for this dish.
+Dish: Arugula Salad
+Label: Avoid
+Reason: Milk is listed on the menu ("parmesan" in the listed ingredient).
+Dish: Fried Calamari
+Label: Avoid
+Reason: Wheat / gluten: flour is an essential part of a typical recipe for this dish.
+Dish: Grilled Branzino
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pistachio Gelato
+Label: Avoid
+Reason: Milk is listed on the menu ("gelato" in the dish name). | Milk: milk is an essential part of a typical recipe for this dish. | Milk: cream is an essential part of a typical recipe for this dish.
+Dish: Panna Cotta
+Label: Avoid
+Reason: Milk is listed on the menu ("panna" in the dish name). | Milk: heavy cream is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Fettuccine Alfredo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pesto Gnocchi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Spaghetti Marinara
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Minestrone
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Caprese Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Arugula Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fried Calamari
+Label: Avoid
+Reason: Molluscs is listed on the menu ("calamari" in the dish name). | Molluscs: squid is an essential part of a typical recipe for this dish.
+Dish: Grilled Branzino
+Label: Avoid
+Reason: Fish is listed on the menu ("branzino" in the dish name). | Fish: branzino is an essential part of a typical recipe for this dish.
+Dish: Pistachio Gelato
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Panna Cotta
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Spring Rolls
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some spring rolls come with a peanut dip.
+Dish: Papaya Salad
+Label: Avoid
+Reason: Peanut: this dish usually contains it (Crushed peanuts are a standard topping.). | Peanut: peanut is an essential part of a typical recipe for this dish.
+Dish: Chicken Satay
+Label: Avoid
+Reason: Peanut: this dish usually contains it (Peanut sauce is essential for satay.). | Peanut: peanut is an essential part of a typical recipe for this dish.
+Dish: Tom Yum Shrimp Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pad Thai
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient). | Peanut: this dish usually contains it (Crushed peanuts are a standard garnish.). | Peanut: peanut is an essential part of a typical recipe for this dish.
+Dish: Green Curry Chicken
+Label: Ask the kitchen
+Reason: Peanut may be hidden: many curries use peanut or nut pastes. | Peanut may be hidden: many curries use peanut or nut pastes (found in a typical recipe: green curry paste).
+Dish: Egg Fried Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Steamed Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fresh Mango Slices
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Thai Iced Tea
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Spring Rolls
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (Sesame oil used in flavoring.). | Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: Papaya Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Satay
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (Sesame oil sometimes used in marinade.).
+Dish: Tom Yum Shrimp Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pad Thai
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Green Curry Chicken
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: many curries use cashew or almond pastes. | Tree nuts may be hidden: many curries use cashew or almond pastes (found in a typical recipe: green curry paste).
+Dish: Egg Fried Rice
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (Sesame oil frequently used for flavor.). | Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: Steamed Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fresh Mango Slices
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Thai Iced Tea
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Spring Rolls
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("wheat" in the listed ingredient). | Wheat / gluten: this dish usually contains it (Wheat wrappers are commonly used.). | Wheat / gluten: wheat flour wrapper is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Papaya Salad
+Label: Ask the kitchen
+Reason: Soy: common versions of this dish contain it (Soy bean paste or soy sauce sometimes used.).
+Dish: Chicken Satay
+Label: Avoid
+Reason: Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Tom Yum Shrimp Soup
+Label: Ask the kitchen
+Reason: Milk: common versions of this dish contain it (Evaporated milk or coconut milk often added.). | Soy: common versions of this dish contain it (Chili paste may contain soybean oil.).
+Dish: Pad Thai
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Egg: this dish usually contains it (Egg is scrambled into the noodles.). | Soy: this dish usually contains it (Soy sauce and tofu contain soy.). | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Green Curry Chicken
+Label: Ask the kitchen
+Reason: Soy: common versions of this dish contain it (Soybean oil or soy sauce in paste.).
+Dish: Egg Fried Rice
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the dish name). | Soy is listed on the menu ("soy" in the listed ingredient). | Egg: this dish usually contains it (Egg is a primary ingredient.). | Soy: this dish usually contains it (Soy sauce is standard.). | Egg: egg is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Steamed Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fresh Mango Slices
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Thai Iced Tea
+Label: Avoid
+Reason: Milk is listed on the menu ("milk" in the listed ingredient). | Milk: this dish usually contains it (Condensed and evaporated milk are essential.). | Milk: condensed milk is an essential part of a typical recipe for this dish. | Milk: evaporated milk is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Spring Rolls
+Label: Ask the kitchen
+Reason: Fish may be hidden: Vietnamese and Thai rolls often come with fish sauce dips. | Crustaceans may be hidden: spring rolls often contain shrimp. | Fish: common versions of this dish contain it (Fish sauce often used in filling seasoning.).
+Dish: Papaya Salad
+Label: Avoid
+Reason: Fish: this dish usually contains it (Fish sauce is a core ingredient.). | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Chicken Satay
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tom Yum Shrimp Soup
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("shrimp" in the dish name). | Fish: this dish usually contains it (Fish sauce is essential.). | Crustaceans: this dish usually contains it (Shrimp is the main protein.). | Crustaceans: shrimp is an essential part of a typical recipe for this dish. | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Pad Thai
+Label: Avoid
+Reason: Fish: this dish usually contains it (Fish sauce is a core seasoning.). | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Green Curry Chicken
+Label: Avoid
+Reason: Fish: this dish usually contains it (Fish sauce is used for seasoning.). | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Egg Fried Rice
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: fried rice sometimes contains shrimp.
+Dish: Steamed Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fresh Mango Slices
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Thai Iced Tea
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

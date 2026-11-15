@@ -1,0 +1,14 @@
+{
+  "name": "menu-allergy-check",
+  "labels": "labels.json",
+  "case_data": "case-data.json",
+  "dirs": {"cases": "cases", "keys": "keys", "runs": "runs", "scores": "scores", "prompts": "prompts"},
+  "entry": {"templates": "entry/page-templates.md", "text": ["entry/OUTPUT-SPEC.md"], "rules": "entry/rules.json"},
+  "freeze": {
+    "files": ["kit.json", "labels.json", "case-data.json", "profiles.json", "heldout.json", "allergy_plugin.py", "ANSWER-KEYS.md",
+              "entry", "keys", "KEYS-HASHES.txt", "menus", "cases", "prompts", "baseline", "scripts", "tools"],
+    "hashfile": "FROZEN-HASHES.txt"
+  },
+  "replay": {"rules": []},
+  "plugin": "allergy_plugin.py"
+}

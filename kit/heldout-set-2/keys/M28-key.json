@@ -1,0 +1,497 @@
+{
+ "case": "M28",
+ "pages": {
+  "PROFILE-A": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "순두부찌개 | Soft tofu stew"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "김치볶음밥 | Kimchi fried rice"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "냉면 | Cold buckwheat noodles"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "갈비탕 | Short rib soup"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "오늘의 반찬 세트 | Side dishes of the day"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "삼겹살 | Grilled pork belly"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "양념치킨 | Sweet and spicy fried chicken"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "김치전 | Kimchi pancake"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "고기만두 | Pork dumplings"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "수정과 | Cinnamon punch"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "군고구마 | Roasted sweet potato"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ],
+  "PROFILE-B": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "순두부찌개 | Soft tofu stew"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "김치볶음밥 | Kimchi fried rice"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "냉면 | Cold buckwheat noodles"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "갈비탕 | Short rib soup"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "오늘의 반찬 세트 | Side dishes of the day"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "삼겹살 | Grilled pork belly"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "양념치킨 | Sweet and spicy fried chicken"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "김치전 | Kimchi pancake"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "고기만두 | Pork dumplings"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "수정과 | Cinnamon punch"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "군고구마 | Roasted sweet potato"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ],
+  "PROFILE-C": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "순두부찌개 | Soft tofu stew"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "김치볶음밥 | Kimchi fried rice"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "냉면 | Cold buckwheat noodles"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "갈비탕 | Short rib soup"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "오늘의 반찬 세트 | Side dishes of the day"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "삼겹살 | Grilled pork belly"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "양념치킨 | Sweet and spicy fried chicken"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "김치전 | Kimchi pancake"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "고기만두 | Pork dumplings"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "수정과 | Cinnamon punch"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "군고구마 | Roasted sweet potato"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ],
+  "PROFILE-D": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "순두부찌개 | Soft tofu stew"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "김치볶음밥 | Kimchi fried rice"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "냉면 | Cold buckwheat noodles"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "갈비탕 | Short rib soup"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "오늘의 반찬 세트 | Side dishes of the day"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "삼겹살 | Grilled pork belly"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "양념치킨 | Sweet and spicy fried chicken"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "김치전 | Kimchi pancake"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "고기만두 | Pork dumplings"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "수정과 | Cinnamon punch"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "군고구마 | Roasted sweet potato"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ]
+ }
+}

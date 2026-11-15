@@ -1,0 +1,541 @@
+{
+ "case": "M26",
+ "pages": {
+  "PROFILE-A": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Brisket Plate"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Baby Back Ribs"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Smoked Turkey Leg"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Smash Burger"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Bacon BBQ Burger"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Fried Catfish Basket"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Pitmaster's Special"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Onion Rings"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Mac and Cheese"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Creamy Coleslaw"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Pecan Pie"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Peanut Butter Shake"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   }
+  ],
+  "PROFILE-B": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Brisket Plate"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Baby Back Ribs"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Smoked Turkey Leg"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Smash Burger"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Bacon BBQ Burger"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Fried Catfish Basket"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Pitmaster's Special"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Onion Rings"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Mac and Cheese"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Creamy Coleslaw"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Pecan Pie"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Peanut Butter Shake"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ],
+  "PROFILE-C": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Brisket Plate"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Baby Back Ribs"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Smoked Turkey Leg"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Smash Burger"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Bacon BBQ Burger"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Fried Catfish Basket"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Pitmaster's Special"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Onion Rings"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Mac and Cheese"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Creamy Coleslaw"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Pecan Pie"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Peanut Butter Shake"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   }
+  ],
+  "PROFILE-D": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Brisket Plate"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Baby Back Ribs"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Smoked Turkey Leg"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Smash Burger"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Bacon BBQ Burger"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Fried Catfish Basket"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Pitmaster's Special"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Onion Rings"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Mac and Cheese"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Creamy Coleslaw"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Pecan Pie"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Peanut Butter Shake"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ]
+ }
+}

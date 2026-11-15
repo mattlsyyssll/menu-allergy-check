@@ -1,0 +1,17 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Fettuccine Alfredo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Fettuccine Alfredo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Fettuccine Alfredo
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Milk: this dish usually contains it (butter and parmesan cheese are core ingredients). | Milk: butter is an essential part of a typical recipe for this dish. | Milk: parmesan cheese is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Fettuccine Alfredo
+Label: Ask the kitchen
+Reason: Crustaceans: shrimp is sometimes in this dish (a typical recipe, not the menu).

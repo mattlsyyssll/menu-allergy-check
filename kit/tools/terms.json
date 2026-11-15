@@ -1,0 +1,14 @@
+{
+ "by_allergen": {
+  "peanut": ["peanut", "peanuts", "groundnut", "groundnuts", "arachis", "monkey nut", "cacahuete", "cacahuetes", "cacahuate", "cacahuates", "arachide", "arachides", "mani", "花生", "落花生", "ถั่วลิสง"],
+  "tree nut": ["tree nut", "tree nuts", "treenut", "treenuts", "almond", "almonds", "cashew", "cashews", "walnut", "walnuts", "pecan", "pecans", "pistachio", "pistachios", "hazelnut", "hazelnuts", "macadamia", "pine nut", "pine nuts", "brazil nut", "brazil nuts", "nuez", "nueces", "noix", "noce", "noci", "堅果", "坚果", "杏仁", "腰果", "核桃", "ถั่ว"],
+  "sesame": ["sesame", "ajonjoli", "sesamo", "芝麻", "งา"],
+  "milk": ["milk", "dairy", "lactose", "cow's milk", "leche", "lait", "latte", "latticini", "牛奶", "乳製品", "乳制品", "นมวัว"],
+  "egg": ["egg", "eggs", "huevo", "huevos", "oeuf", "oeufs", "uovo", "uova", "雞蛋", "鸡蛋", "ไข่"],
+  "wheat/gluten": ["wheat", "gluten", "celiac", "coeliac", "trigo", "ble", "grano", "小麥", "小麦", "麩質", "麸质", "แป้งสาลี"],
+  "soy": ["soy", "soya", "soybean", "soybeans", "soja", "大豆", "黃豆", "黄豆", "ถั่วเหลือง"],
+  "fish": ["fish", "pescado", "poisson", "pesce", "魚", "鱼", "ปลา"],
+  "shellfish": ["shellfish", "shrimp", "prawn", "prawns", "crab", "lobster", "crustacean", "crustaceans", "mariscos", "crustaces", "crostacei", "蝦", "虾", "甲殼類", "甲壳类", "กุ้ง", "หอย"]
+ },
+ "generic": ["allerg", "intoleran", "anaphyla", "epinephrine", "epipen", "profile", "my child", "my son", "my daughter", "saved list", "allergy list"]
+}

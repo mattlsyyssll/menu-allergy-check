@@ -1,0 +1,453 @@
+{
+ "case": "M08",
+ "pages": {
+  "PROFILE-A": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Butter Chicken"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Chana Masala"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Palak Paneer"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Lamb Korma"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Dal Tadka"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Vegetable Biryani"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Garlic Naan"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Samosa (2)"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Gulab Jamun"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Mango Lassi"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ],
+  "PROFILE-B": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Butter Chicken"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Chana Masala"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Palak Paneer"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Lamb Korma"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Dal Tadka"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Vegetable Biryani"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Garlic Naan"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Samosa (2)"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Gulab Jamun"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Mango Lassi"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ],
+  "PROFILE-C": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Butter Chicken"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Chana Masala"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Palak Paneer"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Lamb Korma"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Dal Tadka"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Vegetable Biryani"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Garlic Naan"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Samosa (2)"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Gulab Jamun"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Mango Lassi"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   }
+  ],
+  "PROFILE-D": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Butter Chicken"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Chana Masala"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Palak Paneer"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Lamb Korma"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Dal Tadka"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Vegetable Biryani"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Garlic Naan"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Samosa (2)"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Gulab Jamun"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Mango Lassi"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ]
+ }
+}

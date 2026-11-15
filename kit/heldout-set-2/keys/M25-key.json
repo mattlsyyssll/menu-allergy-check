@@ -1,0 +1,497 @@
+{
+ "case": "M25",
+ "pages": {
+  "PROFILE-A": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Bruschetta al Pomodoro"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Arancini"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Spaghetti Puttanesca"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Spaghetti Carbonara"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Gnocchi al Gorgonzola"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Chef's Fresh Pasta Special"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Veal Milanese"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Pan-Seared Sea Bream"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Grilled Zucchini"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Cannoli Siciliani"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Lemon Sorbetto"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ],
+  "PROFILE-B": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Bruschetta al Pomodoro"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Arancini"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Spaghetti Puttanesca"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Spaghetti Carbonara"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Gnocchi al Gorgonzola"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Chef's Fresh Pasta Special"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Veal Milanese"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Pan-Seared Sea Bream"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Grilled Zucchini"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Cannoli Siciliani"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Lemon Sorbetto"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ],
+  "PROFILE-C": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Bruschetta al Pomodoro"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Arancini"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Spaghetti Puttanesca"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Spaghetti Carbonara"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Gnocchi al Gorgonzola"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Chef's Fresh Pasta Special"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Veal Milanese"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Pan-Seared Sea Bream"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Grilled Zucchini"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Cannoli Siciliani"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Lemon Sorbetto"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ],
+  "PROFILE-D": [
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Bruschetta al Pomodoro"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Arancini"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Spaghetti Puttanesca"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Spaghetti Carbonara"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Gnocchi al Gorgonzola"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Chef's Fresh Pasta Special"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Ask the kitchen"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Veal Milanese"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Pan-Seared Sea Bream"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "Avoid"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Grilled Zucchini"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Cannoli Siciliani"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   },
+   {
+    "Dish": {
+     "match": "name",
+     "value": "Lemon Sorbetto"
+    },
+    "Label": {
+     "group": "accuracy",
+     "match": "label",
+     "value": "No listed allergen found"
+    }
+   }
+  ]
+ }
+}

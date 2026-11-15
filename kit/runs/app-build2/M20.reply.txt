@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Chicken Fajitas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Beef Burrito
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chicken Mole Enchiladas
+Label: Ask the kitchen
+Reason: Peanut may be hidden: mole sauces often contain peanuts or other nuts.
+Dish: Loaded Nachos
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Elote
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chips and Salsa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Black Bean Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Flan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tres Leches Cake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cilantro Lime Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Chicken Fajitas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Beef Burrito
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chicken Mole Enchiladas
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: mole sauces often contain almonds or other nuts.
+Dish: Loaded Nachos
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Elote
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chips and Salsa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Black Bean Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Flan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tres Leches Cake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cilantro Lime Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-C
+Dish: Chicken Fajitas
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("flour" in the listed ingredient).
+Dish: Beef Burrito
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Wheat / gluten is listed on the menu ("flour" in the listed ingredient).
+Dish: Chicken Mole Enchiladas
+Label: Avoid
+Reason: Milk is listed on the menu ("queso" in the listed ingredient).
+Dish: Loaded Nachos
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Wheat / gluten is listed on the menu ("tortilla" in the listed ingredient).
+Dish: Elote
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Egg is listed on the menu ("mayo" in the listed ingredient).
+Dish: Chips and Salsa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Black Bean Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Flan
+Label: Avoid
+Reason: Milk is listed on the menu ("custard" in the listed ingredient).
+Dish: Tres Leches Cake
+Label: Avoid
+Reason: Milk is listed on the menu ("leche" in the dish name).
+Dish: Cilantro Lime Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-D
+Dish: Chicken Fajitas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Beef Burrito
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chicken Mole Enchiladas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Loaded Nachos
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Elote
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chips and Salsa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Black Bean Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Flan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tres Leches Cake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cilantro Lime Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

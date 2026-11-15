@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Butter Chicken
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chana Masala
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Palak Paneer
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lamb Korma
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dal Tadka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Vegetable Biryani
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Garlic Naan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Samosa (2)
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gulab Jamun
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Mango Lassi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Butter Chicken
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: butter chicken sauce often uses cashew paste. | Tree nuts: cashew is sometimes in this dish (a typical recipe, not the menu).
+Dish: Chana Masala
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Palak Paneer
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lamb Korma
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("cashew" in the listed ingredient).
+Dish: Dal Tadka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Vegetable Biryani
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: biryani often has cashews or almonds. | Tree nuts: cashew is sometimes in this dish (a typical recipe, not the menu).
+Dish: Garlic Naan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Samosa (2)
+Label: Ask the kitchen
+Reason: Tree nuts: cashew is sometimes in this dish (a typical recipe, not the menu).
+Dish: Gulab Jamun
+Label: Ask the kitchen
+Reason: Sesame may be hidden: dumpling fillings and dips often contain sesame oil. | Tree nuts: pistachio is sometimes in this dish (a typical recipe, not the menu).
+Dish: Mango Lassi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Butter Chicken
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the dish name). | Milk: butter is an essential part of a typical recipe for this dish. | Milk: cream is an essential part of a typical recipe for this dish. | Milk: yogurt is an essential part of a typical recipe for this dish.
+Dish: Chana Masala
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Palak Paneer
+Label: Avoid
+Reason: Milk is listed on the menu ("paneer" in the dish name). | Milk: paneer is an essential part of a typical recipe for this dish.
+Dish: Lamb Korma
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient). | Milk: yogurt is an essential part of a typical recipe for this dish. | Milk: ghee is an essential part of a typical recipe for this dish.
+Dish: Dal Tadka
+Label: Avoid
+Reason: Milk: ghee is an essential part of a typical recipe for this dish.
+Dish: Vegetable Biryani
+Label: Avoid
+Reason: Milk: yogurt is an essential part of a typical recipe for this dish. | Milk: ghee is an essential part of a typical recipe for this dish.
+Dish: Garlic Naan
+Label: Avoid
+Reason: Wheat / gluten: all-purpose flour is an essential part of a typical recipe for this dish. | Milk: yogurt is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Samosa (2)
+Label: Avoid
+Reason: Wheat / gluten: all-purpose flour is an essential part of a typical recipe for this dish.
+Dish: Gulab Jamun
+Label: Avoid
+Reason: Milk is listed on the menu ("milk" in the listed ingredient). | Milk: milk powder is an essential part of a typical recipe for this dish. | Wheat / gluten: all-purpose flour is an essential part of a typical recipe for this dish. | Milk: ghee is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish.
+Dish: Mango Lassi
+Label: Avoid
+Reason: Milk is listed on the menu ("lassi" in the dish name). | Milk: yogurt is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Butter Chicken
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chana Masala
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Palak Paneer
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lamb Korma
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dal Tadka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Vegetable Biryani
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Garlic Naan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Samosa (2)
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gulab Jamun
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: dumpling fillings often contain shrimp.
+Dish: Mango Lassi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

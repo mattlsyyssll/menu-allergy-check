@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Shrimp Cocktail
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Clam Chowder
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Caesar Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cole Slaw
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fish and Chips
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Grilled Salmon
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Lobster Roll
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cioppino
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Key Lime Pie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Shrimp Cocktail
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Clam Chowder
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Caesar Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cole Slaw
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fish and Chips
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Grilled Salmon
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Lobster Roll
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cioppino
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Key Lime Pie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-C
+Dish: Shrimp Cocktail
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Clam Chowder
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient).
+Dish: Caesar Salad
+Label: Avoid
+Reason: Milk is listed on the menu ("parmesan" in the listed ingredient). | Wheat / gluten is listed on the menu ("crouton" in the listed ingredient).
+Dish: Cole Slaw
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fish and Chips
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: batter usually contains wheat flour.
+Dish: Grilled Salmon
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Lobster Roll
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Egg is listed on the menu ("mayo" in the listed ingredient).
+Dish: Cioppino
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("brot" in the listed ingredient).
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Key Lime Pie
+Label: Avoid
+Reason: Milk is listed on the menu ("custard" in the listed ingredient).
+=== PROFILE-D
+Dish: Shrimp Cocktail
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("shrimp" in the dish name).
+Dish: Clam Chowder
+Label: Avoid
+Reason: Molluscs is listed on the menu ("clam" in the dish name).
+Dish: Caesar Salad
+Label: Ask the kitchen
+Reason: Fish may be hidden: caesar dressing contains anchovy.
+Dish: Cole Slaw
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fish and Chips
+Label: Avoid
+Reason: Fish is listed on the menu ("fish" in the dish name).
+Dish: Grilled Salmon
+Label: Avoid
+Reason: Fish is listed on the menu ("salmon" in the dish name).
+Dish: Lobster Roll
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("lobster" in the dish name).
+Dish: Cioppino
+Label: Avoid
+Reason: Fish is listed on the menu ("fish" in the listed ingredient). | Crustaceans is listed on the menu ("shrimp" in the listed ingredient).
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Key Lime Pie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

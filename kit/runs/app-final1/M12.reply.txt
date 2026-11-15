@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Classic Cheeseburger
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Caesar Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Worcestershire Glazed Chicken Sandwich
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pulled Pork Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Beef Chili
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Steak
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Hand-Cut Fries
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Garden Salad
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some Asian salad dressings contain peanut (found in a typical recipe: salad dressing).
+Dish: Vanilla Milkshake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chocolate Layer Cake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Classic Cheeseburger
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Caesar Salad
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dressings often contain sesame oil.
+Dish: Worcestershire Glazed Chicken Sandwich
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pulled Pork Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Beef Chili
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Steak
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Hand-Cut Fries
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Garden Salad
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dressings often contain sesame oil (found in a typical recipe: salad dressing).
+Dish: Vanilla Milkshake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chocolate Layer Cake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Classic Cheeseburger
+Label: Avoid
+Reason: Milk is listed on the menu ("cheddar" in the listed ingredient). | Milk: cheddar cheese is an essential part of a typical recipe for this dish.
+Dish: Caesar Salad
+Label: Avoid
+Reason: Milk is listed on the menu ("parmesan" in the listed ingredient). | Wheat / gluten is listed on the menu ("crouton" in the listed ingredient). | Wheat / gluten: croutons is an essential part of a typical recipe for this dish. | Milk: parmesan cheese is an essential part of a typical recipe for this dish. | Egg: egg yolk is an essential part of a typical recipe for this dish.
+Dish: Worcestershire Glazed Chicken Sandwich
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: sandwich bread is wheat. | Soy may be hidden: worcestershire sauce can contain soy. | Soy may be hidden: worcestershire sauce can contain soy (found in a typical recipe: Worcestershire sauce). | Wheat / gluten may be hidden: sandwich bread is wheat (found in a typical recipe: sandwich bun). | Milk: butter is commonly in this dish (a typical recipe, not the menu). | Egg: mayonnaise is sometimes in this dish (a typical recipe, not the menu). | Milk: cheddar cheese is sometimes in this dish (a typical recipe, not the menu).
+Dish: Pulled Pork Plate
+Label: Ask the kitchen
+Reason: Egg may be hidden: slaw is often dressed with mayonnaise. | Egg may be hidden: coleslaw is dressed with mayonnaise (found in a typical recipe: coleslaw).
+Dish: Beef Chili
+Label: Ask the kitchen
+Reason: Milk: cheddar cheese is sometimes in this dish (a typical recipe, not the menu). | Milk: sour cream is sometimes in this dish (a typical recipe, not the menu).
+Dish: Grilled Steak
+Label: Ask the kitchen
+Reason: Milk: butter is commonly in this dish (a typical recipe, not the menu).
+Dish: Hand-Cut Fries
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Garden Salad
+Label: Ask the kitchen
+Reason: Wheat / gluten: croutons is sometimes in this dish (a typical recipe, not the menu).
+Dish: Vanilla Milkshake
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient). | Milk: vanilla ice cream is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish.
+Dish: Chocolate Layer Cake
+Label: Avoid
+Reason: Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Egg: eggs is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Classic Cheeseburger
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Caesar Salad
+Label: Avoid
+Reason: Fish: anchovy is an essential part of a typical recipe for this dish.
+Dish: Worcestershire Glazed Chicken Sandwich
+Label: Avoid
+Reason: Fish is listed on the menu ("worcestershire" in the dish name). | Fish: Worcestershire sauce is an essential part of a typical recipe for this dish.
+Dish: Pulled Pork Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Beef Chili
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Steak
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Hand-Cut Fries
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Garden Salad
+Label: Ask the kitchen
+Reason: Fish may be hidden: Southeast Asian salad dressings often contain fish sauce (found in a typical recipe: salad dressing). | Crustaceans may be hidden: some Southeast Asian dressings contain dried shrimp (found in a typical recipe: salad dressing).
+Dish: Vanilla Milkshake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chocolate Layer Cake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

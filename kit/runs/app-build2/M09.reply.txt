@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Phở Bò
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cơm Tôm Sườn
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Bún Chả Giò
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Bánh Mì Thốt
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Gỏi Cuốn
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient).
+Dish: Gỏi Gà
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient).
+Dish: Rau Mương Xào Tội
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fresh Fruit Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cà Phê Sữa Đá
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Phở Bò
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cơm Tôm Sườn
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Bún Chả Giò
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Bánh Mì Thốt
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread rolls may be topped with sesame.
+Dish: Gỏi Cuốn
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Gỏi Gà
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Rau Mương Xào Tội
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fresh Fruit Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cà Phê Sữa Đá
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-C
+Dish: Phở Bò
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("brot" in the listed ingredient).
+Dish: Cơm Tôm Sườn
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient).
+Dish: Bún Chả Giò
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Bánh Mì Thốt
+Label: Avoid
+Reason: Egg is listed on the menu ("mayo" in the listed ingredient). | Wheat / gluten is listed on the menu ("bánh mì" in the dish name).
+Dish: Gỏi Cuốn
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Gỏi Gà
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Rau Mương Xào Tội
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fresh Fruit Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cà Phê Sữa Đá
+Label: Avoid
+Reason: Milk is listed on the menu ("sữa" in the dish name).
+=== PROFILE-D
+Dish: Phở Bò
+Label: Ask the kitchen
+Reason: Fish may be hidden: pho broth often contains fish sauce.
+Dish: Cơm Tôm Sườn
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("tôm" in the dish name).
+Dish: Bún Chả Giò
+Label: Ask the kitchen
+Reason: Fish may be hidden: bun dishes are served with fish sauce dip.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Bánh Mì Thốt
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Gỏi Cuốn
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("shrimp" in the listed ingredient).
+Dish: Gỏi Gà
+Label: Ask the kitchen
+Reason: Fish may be hidden: vietnamese salads are dressed with fish sauce.
+Dish: Rau Mương Xào Tội
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fresh Fruit Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cà Phê Sữa Đá
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

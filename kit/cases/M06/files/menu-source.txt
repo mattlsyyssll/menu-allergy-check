@@ -1,0 +1,25 @@
+Casa Pepe Tapas
+
+## Tapas
+Tortilla Española  8 €
+  huevo, patata, cebolla
+Patatas Bravas  6 €
+  patatas fritas, salsa brava, alioli
+Croquetas de Jamón  9 €
+  bechamel, jamón, pan rallado
+Pulpo a la Gallega  16 €
+  pulpo, pimentón, aceite de oliva
+Ensalada Mixta  7 €
+  lechuga, tomate, cebolla, atún
+
+## Arroces y postres
+Paella de Mariscos  18 €
+  arroz, gambas, mejillones, caldo de pescado
+Gazpacho Andaluz  7 €
+  tomate, pepino, pimiento, pan
+Crema Catalana  6 €
+  leche, yema, azúcar
+Turrón de Almendra  5 €
+  almendra, miel, clara de huevo
+Agua con Gas  2 €
+  agua mineral

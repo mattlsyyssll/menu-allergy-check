@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: 蝦餃
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 燒賣
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 叉燒包
+Label: Ask the kitchen
+Reason: Peanut may be hidden: hoisin sauce can contain peanut (found in a typical recipe: hoisin sauce).
+Dish: 鮮蝦腸粉
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 羅富餅
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 煎堆
+Label: Ask the kitchen
+Reason: Peanut may be hidden: sweet bean and sesame fillings in fried and steamed sweets are sometimes extended with peanut. | Peanut may be hidden: sweet bean and sesame fillings in fried and steamed sweets are sometimes extended with peanut (found in a typical recipe: red bean paste). | Peanut may be hidden: sweet fillings in fried and steamed sweets are sometimes extended with peanut (found in a typical recipe: lotus seed paste).
+Dish: 蛋撻
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 芒果布甸
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 白粥
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 白灼生菜
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: 蝦餃
+Label: Ask the kitchen
+Reason: Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: 燒賣
+Label: Avoid
+Reason: Sesame: sesame oil is an essential part of a typical recipe for this dish.
+Dish: 叉燒包
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bao fillings and sauces may contain sesame. | Tree nuts may be hidden: some hoisin sauces contain nut paste (found in a typical recipe: hoisin sauce). | Sesame may be hidden: hoisin sauce can contain sesame (found in a typical recipe: hoisin sauce).
+Dish: 鮮蝦腸粉
+Label: Ask the kitchen
+Reason: Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: 羅富餅
+Label: Ask the kitchen
+Reason: Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: 煎堆
+Label: Avoid
+Reason: Sesame is listed on the menu ("芝麻" in the listed ingredient). | Sesame: sesame seed is an essential part of a typical recipe for this dish.
+Dish: 蛋撻
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 芒果布甸
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 白粥
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 白灼生菜
+Label: Ask the kitchen
+Reason: Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+=== PROFILE-C
+Dish: 蝦餃
+Label: Avoid
+Reason: Wheat / gluten: wheat starch is an essential part of a typical recipe for this dish.
+Dish: 燒賣
+Label: Avoid
+Reason: Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 叉燒包
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("麵包" in the listed ingredient). | Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish. | Soy: hoisin sauce is an essential part of a typical recipe for this dish.
+Dish: 鮮蝦腸粉
+Label: Avoid
+Reason: Soy is listed on the menu ("豉油" in the listed ingredient). | Wheat / gluten: wheat starch is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 羅富餅
+Label: Ask the kitchen
+Reason: Egg may be hidden: cakes contain egg. | Wheat / gluten may be hidden: cake contains wheat flour. | Wheat / gluten may be hidden: sausages often contain breadcrumbs or rusk (found in a typical recipe: chinese sausage). | Soy may be hidden: worcestershire sauce can contain soy (found in a typical recipe: worcestershire sauce).
+Dish: 煎堆
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: bean pastes often contain wheat flour. | Soy may be hidden: bean pastes are often made from soybeans. | Wheat / gluten may be hidden: bean pastes often contain wheat flour (found in a typical recipe: red bean paste). | Soy may be hidden: bean pastes are often made from soybeans (found in a typical recipe: red bean paste).
+Dish: 蛋撻
+Label: Avoid
+Reason: Milk is listed on the menu ("custard" in the English ingredient). | Egg is listed on the menu ("蛋" in the dish name). | Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: 芒果布甸
+Label: Avoid
+Reason: Milk is listed on the menu ("奶油" in the listed ingredient).
+Dish: 白粥
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 白灼生菜
+Label: Avoid
+Reason: Soy: soy sauce is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: 蝦餃
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("蝦" in the dish name). | Crustaceans: shrimp is an essential part of a typical recipe for this dish.
+Dish: 燒賣
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("蝦" in the listed ingredient).
+Dish: 叉燒包
+Label: Ask the kitchen
+Reason: Molluscs: oyster sauce is commonly in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: some oyster sauces contain shrimp or other shellfish extract (found in a typical recipe: oyster sauce). | Molluscs may be hidden: oyster sauce is made from oysters (found in a typical recipe: oyster sauce).
+Dish: 鮮蝦腸粉
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("蝦" in the dish name). | Crustaceans: shrimp is an essential part of a typical recipe for this dish.
+Dish: 羅富餅
+Label: Ask the kitchen
+Reason: Crustaceans: dried shrimp is commonly in this dish (a typical recipe, not the menu). | Fish: worcestershire sauce is sometimes in this dish (a typical recipe, not the menu). | Fish may be hidden: worcestershire sauce contains anchovy (found in a typical recipe: worcestershire sauce).
+Dish: 煎堆
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 蛋撻
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 芒果布甸
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 白粥
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 白灼生菜
+Label: Ask the kitchen
+Reason: Molluscs: oyster sauce is sometimes in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: some oyster sauces contain shrimp or other shellfish extract (found in a typical recipe: oyster sauce). | Molluscs may be hidden: oyster sauce is made from oysters (found in a typical recipe: oyster sauce).

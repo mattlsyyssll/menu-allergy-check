@@ -1,0 +1,7101 @@
+{
+ "cases": [
+  {
+   "dishes": [
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "bread is wheat",
+       "source": "BASIC"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$9",
+     "printed_description": "grilled country bread, tomato, basil, olive oil",
+     "printed_name": "Bruschetta al Pomodoro",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names mozzarella",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "the menu names a breadcrumb crust",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "breadcrumb coatings are usually set with egg wash",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$10",
+     "printed_description": "fried risotto balls, mozzarella, crisp breadcrumb crust",
+     "printed_name": "Arancini",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "puttanesca is typically made with anchovies, which the menu does not print",
+       "source": "WP_PUTT"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "spaghetti is wheat",
+       "source": "BASIC"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "$16",
+     "printed_description": "tomato, olives, capers, garlic, chili",
+     "printed_name": "Spaghetti Puttanesca",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "pecorino is a cheese",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "carbonara sauce is made with eggs",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "spaghetti is wheat",
+       "source": "BASIC"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$17",
+     "printed_description": "guanciale, pecorino, black pepper",
+     "printed_name": "Spaghetti Carbonara",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names gorgonzola cream",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "gnocchi dough holds flour",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "gnocchi dough often holds egg",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$17",
+     "printed_description": "potato gnocchi, gorgonzola cream",
+     "printed_name": "Gnocchi al Gorgonzola",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "peanut",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "tree nut",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "Ask the kitchen",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "$18",
+     "printed_description": "changes with the market, ask your server",
+     "printed_name": "Chef's Fresh Pasta Special",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "a Milanese cutlet is breaded in breadcrumbs",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the breading is set with egg",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "the cutlet is traditionally fried in butter",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$24",
+     "printed_description": "pounded veal cutlet, lemon, arugula",
+     "printed_name": "Veal Milanese",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "fish",
+       "level": "Avoid",
+       "reason": "the menu names sea bream",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "Avoid"
+     },
+     "price": "$26",
+     "printed_description": "whole sea bream, lemon, olive oil",
+     "printed_name": "Pan-Seared Sea Bream",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$8",
+     "printed_description": "zucchini, olive oil, mint, sea salt",
+     "printed_name": "Grilled Zucchini",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names ricotta",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "the shell is wheat",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "tree nut",
+       "level": "Ask",
+       "reason": "cannoli are often finished with chopped pistachios",
+       "source": "GEN"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "cannoli shell dough often holds egg",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$8",
+     "printed_description": "crisp shell, sweet ricotta, chocolate chips",
+     "printed_name": "Cannoli Siciliani",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$6",
+     "printed_description": "lemon, sugar, water",
+     "printed_name": "Lemon Sorbetto",
+     "printed_subtitle": ""
+    }
+   ],
+   "heldout": true,
+   "id": "M25",
+   "image": "menus/M25.png",
+   "key": {
+    "PROFILE-A": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Bruschetta al Pomodoro"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Arancini"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Spaghetti Puttanesca"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Spaghetti Carbonara"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Gnocchi al Gorgonzola"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Chef's Fresh Pasta Special"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Veal Milanese"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pan-Seared Sea Bream"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Grilled Zucchini"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Cannoli Siciliani"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Lemon Sorbetto"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ],
+    "PROFILE-B": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Bruschetta al Pomodoro"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Arancini"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Spaghetti Puttanesca"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Spaghetti Carbonara"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Gnocchi al Gorgonzola"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Chef's Fresh Pasta Special"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Veal Milanese"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pan-Seared Sea Bream"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Grilled Zucchini"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Cannoli Siciliani"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Lemon Sorbetto"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ],
+    "PROFILE-C": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Bruschetta al Pomodoro"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Arancini"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Spaghetti Puttanesca"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Spaghetti Carbonara"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Gnocchi al Gorgonzola"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Chef's Fresh Pasta Special"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Veal Milanese"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pan-Seared Sea Bream"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Grilled Zucchini"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Cannoli Siciliani"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Lemon Sorbetto"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ],
+    "PROFILE-D": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Bruschetta al Pomodoro"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Arancini"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Spaghetti Puttanesca"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Spaghetti Carbonara"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Gnocchi al Gorgonzola"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Chef's Fresh Pasta Special"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Veal Milanese"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pan-Seared Sea Bream"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Grilled Zucchini"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Cannoli Siciliani"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Lemon Sorbetto"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ]
+   },
+   "lang": "en",
+   "person": {},
+   "prompt": "I am sending a photo of a restaurant menu (the image file menus/M25.png). Please check every dish on the menu for four people who have food allergies.\n\nPROFILE-A is allergic to: peanut.\nPROFILE-B is allergic to: tree nut, sesame.\nPROFILE-C is allergic to: milk, egg, wheat, soy.\nPROFILE-D is allergic to: fish, shellfish.\n\nFor every dish and for each person, tell me whether the dish is safe for them.\n\nWrite the answer in exactly this form, one block per person, and one Dish, Label and Reason line group per dish (use the dish name as printed on the menu):\n\n=== PROFILE-A\nDish: <dish name as printed>\nLabel: <No listed allergen found, or Ask the kitchen, or Avoid>\nReason: <one short line>\n\nThen the same for === PROFILE-B, === PROFILE-C and === PROFILE-D.\n",
+   "served": {
+    "menu-source.txt": "Osteria Lunetta\n\n## Antipasti and pasta\nBruschetta al Pomodoro  $9\n  grilled country bread, tomato, basil, olive oil\nArancini  $10\n  fried risotto balls, mozzarella, crisp breadcrumb crust\nSpaghetti Puttanesca  $16\n  tomato, olives, capers, garlic, chili\nSpaghetti Carbonara  $17\n  guanciale, pecorino, black pepper\nGnocchi al Gorgonzola  $17\n  potato gnocchi, gorgonzola cream\n\n## Specials, mains and sweets\nChef's Fresh Pasta Special  $18\n  changes with the market, ask your server\nVeal Milanese  $24\n  pounded veal cutlet, lemon, arugula\nPan-Seared Sea Bream  $26\n  whole sea bream, lemon, olive oil\nGrilled Zucchini  $8\n  zucchini, olive oil, mint, sea salt\nCannoli Siciliani  $8\n  crisp shell, sweet ricotta, chocolate chips\nLemon Sorbetto  $6\n  lemon, sugar, water\n"
+   },
+   "steps": [],
+   "style": "clean",
+   "title": "Osteria Lunetta (en, clean, held-out set 2)"
+  },
+  {
+   "dishes": [
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "the menu names white bread",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "barbecue sauce can hold Worcestershire sauce, which holds anchovy",
+       "source": "FARE_FIS"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Ask",
+       "reason": "bread and rolls can hold sesame",
+       "source": "FARE_SES2"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "$22",
+     "printed_description": "smoked beef brisket, pickles, white bread, house BBQ sauce",
+     "printed_name": "Brisket Plate",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "barbecue glazes can hold Worcestershire sauce, which holds anchovy",
+       "source": "FARE_FIS"
+      },
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "barbecue glazes often hold soy sauce",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "$26",
+     "printed_description": "half rack, dry rub, brushed with our sticky glaze",
+     "printed_name": "Baby Back Ribs",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$14",
+     "printed_description": "turkey leg, salt, pepper, paprika",
+     "printed_name": "Smoked Turkey Leg",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names cheese",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "the bun is not printed; burger buns are usually wheat",
+       "source": "FARE_WHE"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Ask",
+       "reason": "hamburger buns can hold sesame",
+       "source": "FARE_SES2"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "special sauce is usually mayonnaise based, and mayonnaise holds egg",
+       "source": "FARE_EGG"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$15",
+     "printed_description": "two patties, American cheese, pickles, special sauce",
+     "printed_name": "Smash Burger",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names cheddar",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "the menu names a brioche bun and an onion ring",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "brioche is made with eggs",
+       "source": "WP_BRIOCHE"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "barbecue sauce can hold Worcestershire sauce, which holds anchovy",
+       "source": "FARE_FIS"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Ask",
+       "reason": "hamburger buns can hold sesame",
+       "source": "FARE_SES2"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "$17",
+     "printed_description": "beef patty, bacon, cheddar, onion ring, brioche bun, BBQ sauce",
+     "printed_name": "Bacon BBQ Burger",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "fish",
+       "level": "Avoid",
+       "reason": "the menu names catfish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "hush puppies hold wheat flour",
+       "source": "WP_HUSH"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "hush puppies hold eggs and tartar sauce is mayonnaise based",
+       "source": "WP_HUSH"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "hush puppies hold milk or buttermilk",
+       "source": "WP_HUSH"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "Avoid"
+     },
+     "price": "$18",
+     "printed_description": "cornmeal-crusted catfish, hush puppies, tartar sauce",
+     "printed_name": "Fried Catfish Basket",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "peanut",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "tree nut",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "Ask the kitchen",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "$24",
+     "printed_description": "ask your server what came off the smoker today",
+     "printed_name": "Pitmaster's Special",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "batter-fried foods are wheat sources",
+       "source": "FARE_WHE"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "batters often hold egg",
+       "source": "FARE_EGG"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "batters often use buttermilk or milk",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$8",
+     "printed_description": "thick-cut, beer-battered, fried",
+     "printed_name": "Onion Rings",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names cheddar sauce",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "pasta and breadcrumbs are wheat",
+       "source": "BASIC"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$9",
+     "printed_description": "elbow pasta, cheddar sauce, breadcrumb top",
+     "printed_name": "Mac and Cheese",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "creamy slaw dressing is usually mayonnaise, which holds egg",
+       "source": "FARE_EGG"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "creamy slaw dressing may hold buttermilk or cream",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$5",
+     "printed_description": "cabbage, carrot, house dressing",
+     "printed_name": "Creamy Coleslaw",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "tree nut",
+       "level": "Avoid",
+       "reason": "the menu names pecans",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names butter and whipped cream",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "pie crust is wheat",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "pecan pie filling is set with eggs",
+       "source": "BASIC"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Avoid",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$8",
+     "printed_description": "pecans, butter crust, whipped cream",
+     "printed_name": "Pecan Pie",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "peanut",
+       "level": "Avoid",
+       "reason": "the menu names peanut butter",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names milk and ice cream",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "ice cream can hold egg",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "Avoid",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$7",
+     "printed_description": "peanut butter, vanilla ice cream, milk",
+     "printed_name": "Peanut Butter Shake",
+     "printed_subtitle": ""
+    }
+   ],
+   "heldout": true,
+   "id": "M26",
+   "image": "menus/M26.png",
+   "key": {
+    "PROFILE-A": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Brisket Plate"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Baby Back Ribs"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Smoked Turkey Leg"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Smash Burger"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Bacon BBQ Burger"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Fried Catfish Basket"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pitmaster's Special"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Onion Rings"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Mac and Cheese"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Creamy Coleslaw"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pecan Pie"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Peanut Butter Shake"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     }
+    ],
+    "PROFILE-B": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Brisket Plate"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Baby Back Ribs"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Smoked Turkey Leg"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Smash Burger"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Bacon BBQ Burger"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Fried Catfish Basket"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pitmaster's Special"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Onion Rings"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Mac and Cheese"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Creamy Coleslaw"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pecan Pie"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Peanut Butter Shake"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ],
+    "PROFILE-C": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Brisket Plate"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Baby Back Ribs"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Smoked Turkey Leg"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Smash Burger"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Bacon BBQ Burger"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Fried Catfish Basket"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pitmaster's Special"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Onion Rings"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Mac and Cheese"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Creamy Coleslaw"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pecan Pie"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Peanut Butter Shake"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     }
+    ],
+    "PROFILE-D": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Brisket Plate"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Baby Back Ribs"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Smoked Turkey Leg"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Smash Burger"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Bacon BBQ Burger"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Fried Catfish Basket"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pitmaster's Special"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Onion Rings"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Mac and Cheese"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Creamy Coleslaw"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pecan Pie"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Peanut Butter Shake"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ]
+   },
+   "lang": "en",
+   "person": {},
+   "prompt": "I am sending a photo of a restaurant menu (the image file menus/M26.png). Please check every dish on the menu for four people who have food allergies.\n\nPROFILE-A is allergic to: peanut.\nPROFILE-B is allergic to: tree nut, sesame.\nPROFILE-C is allergic to: milk, egg, wheat, soy.\nPROFILE-D is allergic to: fish, shellfish.\n\nFor every dish and for each person, tell me whether the dish is safe for them.\n\nWrite the answer in exactly this form, one block per person, and one Dish, Label and Reason line group per dish (use the dish name as printed on the menu):\n\n=== PROFILE-A\nDish: <dish name as printed>\nLabel: <No listed allergen found, or Ask the kitchen, or Avoid>\nReason: <one short line>\n\nThen the same for === PROFILE-B, === PROFILE-C and === PROFILE-D.\n",
+   "served": {
+    "menu-source.txt": "Smokestack Pit & Grill\n\n## From the pit\nBrisket Plate  $22\n  smoked beef brisket, pickles, white bread, house BBQ sauce\nBaby Back Ribs  $26\n  half rack, dry rub, brushed with our sticky glaze\nSmoked Turkey Leg  $14\n  turkey leg, salt, pepper, paprika\nSmash Burger  $15\n  two patties, American cheese, pickles, special sauce\nBacon BBQ Burger  $17\n  beef patty, bacon, cheddar, onion ring, brioche bun, BBQ sauce\nFried Catfish Basket  $18\n  cornmeal-crusted catfish, hush puppies, tartar sauce\nPitmaster's Special  $24\n  ask your server what came off the smoker today\n\n## Sides and sweets\nOnion Rings  $8\n  thick-cut, beer-battered, fried\nMac and Cheese  $9\n  elbow pasta, cheddar sauce, breadcrumb top\nCreamy Coleslaw  $5\n  cabbage, carrot, house dressing\nPecan Pie  $8\n  pecans, butter crust, whipped cream\nPeanut Butter Shake  $7\n  peanut butter, vanilla ice cream, milk\n"
+   },
+   "steps": [],
+   "style": "photo",
+   "title": "Smokestack Pit & Grill (en, photo, held-out set 2)"
+  },
+  {
+   "dishes": [
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the menu names fried egg",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "fish",
+       "level": "Avoid",
+       "reason": "ikan bilis means dried anchovies",
+       "source": "WP_NASI"
+      },
+      {
+       "allergen": "peanut",
+       "level": "Avoid",
+       "reason": "kacang means peanuts; nasi lemak comes with roasted peanuts",
+       "source": "WP_NASI"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "sambal for nasi lemak is normally made with shrimp paste",
+       "source": "WP_NASI"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "Avoid",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Avoid"
+     },
+     "price": "$12",
+     "printed_description": "coconut rice, fried egg, cucumber, sambal, crispy ikan bilis, kacang",
+     "printed_name": "Nasi Lemak",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "shellfish",
+       "level": "Avoid",
+       "reason": "the menu names prawns",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "soy",
+       "level": "Avoid",
+       "reason": "the menu names tofu",
+       "source": "FARE_SOY"
+      },
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the menu names egg",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "yellow noodles are wheat",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "Indonesian and Malaysian dishes can hold hidden fish sauce or fish",
+       "source": "FARE_FIS"
+      },
+      {
+       "allergen": "peanut",
+       "level": "Ask",
+       "reason": "FARE lists Indonesian restaurant food as a peanut source",
+       "source": "FARE_PEA"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "Ask the kitchen",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Avoid"
+     },
+     "price": "$13",
+     "printed_description": "fried yellow noodles, prawns, tofu, egg, tomato sauce",
+     "printed_name": "Mee Goreng Mamak",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the menu names egg",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "soy",
+       "level": "Avoid",
+       "reason": "the menu names soy sauce",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "soy sauce sometimes contains wheat",
+       "source": "FARE_WHE"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "cockles are molluscs, not on the FDA crustacean list; many shellfish plans include them",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "$13",
+     "printed_description": "flat rice noodles, cockles, egg, bean sprouts, chives, dark soy sauce",
+     "printed_name": "Char Kway Teow",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "soy",
+       "level": "Avoid",
+       "reason": "the menu names tofu puffs",
+       "source": "FARE_SOY"
+      },
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the menu names boiled egg",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "laksa broth is made with prawn or shrimp paste",
+       "source": "WP_LAKSA"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "laksa broth can hold flaked fish such as mackerel",
+       "source": "WP_LAKSA"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "$14",
+     "printed_description": "rice noodles in spicy coconut broth, tofu puffs, boiled egg, bean sprouts",
+     "printed_name": "Laksa Lemak",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$3",
+     "printed_description": "steamed white rice",
+     "printed_name": "Nasi Putih",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "soy",
+       "level": "Avoid",
+       "reason": "the menu names tofu and tempeh",
+       "source": "FARE_SOY"
+      },
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the menu names boiled egg",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "peanut",
+       "level": "Avoid",
+       "reason": "pecel is a salad of vegetables in peanut sauce, made of roasted peanuts",
+       "source": "WP_PECEL"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "Avoid",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$11",
+     "printed_description": "blanched vegetables, fried tofu, tempeh, boiled egg, house dressing",
+     "printed_name": "Pecel Sayur",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "soy",
+       "level": "Avoid",
+       "reason": "the menu names tempeh",
+       "source": "FARE_SOY"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "sambal is normally made with shrimp paste",
+       "source": "WP_NASI"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "fried chicken is usually coated in flour",
+       "source": "GEN"
+      },
+      {
+       "allergen": "peanut",
+       "level": "Ask",
+       "reason": "FARE lists Indonesian restaurant food as a peanut source",
+       "source": "FARE_PEA"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "Ask the kitchen",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "$14",
+     "printed_description": "smashed fried chicken, sambal, tempeh, cucumber",
+     "printed_name": "Ayam Penyet",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the menu names boiled egg",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "sweet soy sauce is a common seasoning",
+       "source": "FARE_SOY"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "soto is often topped with prawn cracker powder",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "$12",
+     "printed_description": "turmeric chicken soup, glass noodles, boiled egg, celery",
+     "printed_name": "Soto Ayam",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "soy",
+       "level": "Avoid",
+       "reason": "the menu names tempeh",
+       "source": "FARE_SOY"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "batter-fried foods are wheat sources",
+       "source": "FARE_WHE"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "batters often hold egg",
+       "source": "FARE_EGG"
+      },
+      {
+       "allergen": "peanut",
+       "level": "Ask",
+       "reason": "FARE lists chili sauce and Indonesian food as peanut sources; sweet chili dips can hold ground peanut",
+       "source": "FARE_PEA"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "Ask the kitchen",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$7",
+     "printed_description": "thin battered fried tempeh, sweet chili dip",
+     "printed_name": "Tempe Mendoan",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$6",
+     "printed_description": "shaved ice, coconut milk, green rice-flour jelly, palm sugar, red beans",
+     "printed_name": "Es Cendol",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "peanut",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "tree nut",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "Ask the kitchen",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "$5",
+     "printed_description": "ask at the counter",
+     "printed_name": "Kuih of the Day",
+     "printed_subtitle": ""
+    }
+   ],
+   "heldout": true,
+   "id": "M27",
+   "image": "menus/M27.png",
+   "key": {
+    "PROFILE-A": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Nasi Lemak"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Mee Goreng Mamak"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Char Kway Teow"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Laksa Lemak"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Nasi Putih"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pecel Sayur"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Ayam Penyet"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Soto Ayam"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tempe Mendoan"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Es Cendol"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Kuih of the Day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     }
+    ],
+    "PROFILE-B": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Nasi Lemak"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Mee Goreng Mamak"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Char Kway Teow"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Laksa Lemak"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Nasi Putih"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pecel Sayur"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Ayam Penyet"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Soto Ayam"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tempe Mendoan"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Es Cendol"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Kuih of the Day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     }
+    ],
+    "PROFILE-C": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Nasi Lemak"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Mee Goreng Mamak"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Char Kway Teow"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Laksa Lemak"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Nasi Putih"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pecel Sayur"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Ayam Penyet"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Soto Ayam"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tempe Mendoan"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Es Cendol"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Kuih of the Day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     }
+    ],
+    "PROFILE-D": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Nasi Lemak"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Mee Goreng Mamak"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Char Kway Teow"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Laksa Lemak"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Nasi Putih"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pecel Sayur"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Ayam Penyet"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Soto Ayam"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tempe Mendoan"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Es Cendol"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Kuih of the Day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     }
+    ]
+   },
+   "lang": "en",
+   "person": {},
+   "prompt": "I am sending a photo of a restaurant menu (the image file menus/M27.png). Please check every dish on the menu for four people who have food allergies.\n\nPROFILE-A is allergic to: peanut.\nPROFILE-B is allergic to: tree nut, sesame.\nPROFILE-C is allergic to: milk, egg, wheat, soy.\nPROFILE-D is allergic to: fish, shellfish.\n\nFor every dish and for each person, tell me whether the dish is safe for them.\n\nWrite the answer in exactly this form, one block per person, and one Dish, Label and Reason line group per dish (use the dish name as printed on the menu):\n\n=== PROFILE-A\nDish: <dish name as printed>\nLabel: <No listed allergen found, or Ask the kitchen, or Avoid>\nReason: <one short line>\n\nThen the same for === PROFILE-B, === PROFILE-C and === PROFILE-D.\n",
+   "served": {
+    "menu-source.txt": "Kedai Makan Pelangi\n\n## Rice and noodles\nNasi Lemak  $12\n  coconut rice, fried egg, cucumber, sambal, crispy ikan bilis, kacang\nMee Goreng Mamak  $13\n  fried yellow noodles, prawns, tofu, egg, tomato sauce\nChar Kway Teow  $13\n  flat rice noodles, cockles, egg, bean sprouts, chives, dark soy sauce\nLaksa Lemak  $14\n  rice noodles in spicy coconut broth, tofu puffs, boiled egg, bean sprouts\nNasi Putih  $3\n  steamed white rice\n\n## Plates and sweets\nPecel Sayur  $11\n  blanched vegetables, fried tofu, tempeh, boiled egg, house dressing\nAyam Penyet  $14\n  smashed fried chicken, sambal, tempeh, cucumber\nSoto Ayam  $12\n  turmeric chicken soup, glass noodles, boiled egg, celery\nTempe Mendoan  $7\n  thin battered fried tempeh, sweet chili dip\nEs Cendol  $6\n  shaved ice, coconut milk, green rice-flour jelly, palm sugar, red beans\nKuih of the Day  $5\n  ask at the counter\n"
+   },
+   "steps": [],
+   "style": "glare",
+   "title": "Kedai Makan Pelangi (en, glare, held-out set 2)"
+  },
+  {
+   "dishes": [
+    {
+     "english_gloss": "Soft tofu stew",
+     "facts": [
+      {
+       "allergen": "soy",
+       "level": "Avoid",
+       "reason": "the menu names soft tofu (순두부)",
+       "source": "FARE_SOY"
+      },
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the menu names egg (계란)",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "clams (바지락) are molluscs, not on the FDA crustacean list; many shellfish plans include them",
+       "source": "GEN"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "Korean stews are often made with anchovy stock",
+       "source": "FARE_FIS"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "₩11,000",
+     "printed_description": "순두부, 바지락, 계란, 고춧가루",
+     "printed_name": "순두부찌개",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Kimchi fried rice",
+     "facts": [
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the menu names fried egg (계란 프라이)",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Avoid",
+       "reason": "the menu names sesame oil (참기름)",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "kimchi is often made with fish sauce",
+       "source": "FARE_FIS"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "kimchi is often made with salted shrimp",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Avoid",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "₩10,000",
+     "printed_description": "김치, 밥, 계란 프라이, 참기름",
+     "printed_name": "김치볶음밥",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Cold buckwheat noodles",
+     "facts": [
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the menu names boiled egg (삶은 계란)",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "buckwheat noodles are usually blended with wheat flour",
+       "source": "GEN"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Ask",
+       "reason": "cold noodle dishes are often finished with sesame",
+       "source": "FARE_SES"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "₩11,000",
+     "printed_description": "메밀국수, 차가운 육수, 오이, 삶은 계란, 배",
+     "printed_name": "냉면",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Short rib soup",
+     "facts": [
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "beef soups are seasoned with soy sauce",
+       "source": "FARE_SOY"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "soy sauce sometimes contains wheat",
+       "source": "FARE_WHE"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "₩15,000",
+     "printed_description": "소갈비, 당면, 대파, 무",
+     "printed_name": "갈비탕",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Side dishes of the day",
+     "facts": [
+      {
+       "allergen": "peanut",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "tree nut",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "Ask the kitchen",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "₩8,000",
+     "printed_description": "그날 준비한 반찬입니다. 직원에게 문의하세요",
+     "printed_name": "오늘의 반찬 세트",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Grilled pork belly",
+     "facts": [
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "ssamjang is made with fermented soybean paste and gochujang",
+       "source": "WP_GOCHU"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "₩16,000",
+     "printed_description": "삼겹살, 쌈 채소, 쌈장",
+     "printed_name": "삼겹살",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Sweet and spicy fried chicken",
+     "facts": [
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "Korean fried chicken is coated with flour",
+       "source": "WP_KFC"
+      },
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "yangnyeom sauce is gochujang based; gochujang holds fermented soybean",
+       "source": "WP_GOCHU"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Ask",
+       "reason": "sesame seeds are a common garnish",
+       "source": "FARE_SES"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "the coating batter often holds egg",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "₩20,000",
+     "printed_description": "바삭한 튀김옷, 매콤달콤 양념 소스",
+     "printed_name": "양념치킨",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Kimchi pancake",
+     "facts": [
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "the menu names pancake flour (부침가루)",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "pancake batter often holds egg",
+       "source": "GEN"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "squid (오징어) is a mollusc, not on the FDA crustacean list; many shellfish plans include it",
+       "source": "GEN"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "kimchi is often made with fish sauce",
+       "source": "FARE_FIS"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "₩10,000",
+     "printed_description": "김치, 부침가루, 오징어",
+     "printed_name": "김치전",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Pork dumplings",
+     "facts": [
+      {
+       "allergen": "soy",
+       "level": "Avoid",
+       "reason": "the menu names soy sauce (간장)",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "the dumpling wrapper is wheat; soy sauce sometimes contains wheat",
+       "source": "FARE_WHE"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Ask",
+       "reason": "dumpling filling and sauce often hold sesame oil",
+       "source": "FARE_SES"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "₩9,000",
+     "printed_description": "돼지고기 만두 여섯 개, 간장 소스",
+     "printed_name": "고기만두",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Cinnamon punch",
+     "facts": [
+      {
+       "allergen": "tree nut",
+       "level": "Ask",
+       "reason": "sujeonggwa is often garnished with pine nuts",
+       "source": "WP_SUJ"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "₩5,000",
+     "printed_description": "계피, 생강, 곶감",
+     "printed_name": "수정과",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Roasted sweet potato",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "₩5,000",
+     "printed_description": "구운 고구마",
+     "printed_name": "군고구마",
+     "printed_subtitle": ""
+    }
+   ],
+   "heldout": true,
+   "id": "M28",
+   "image": "menus/M28.png",
+   "key": {
+    "PROFILE-A": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "순두부찌개 | Soft tofu stew"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "김치볶음밥 | Kimchi fried rice"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "냉면 | Cold buckwheat noodles"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "갈비탕 | Short rib soup"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "오늘의 반찬 세트 | Side dishes of the day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "삼겹살 | Grilled pork belly"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "양념치킨 | Sweet and spicy fried chicken"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "김치전 | Kimchi pancake"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "고기만두 | Pork dumplings"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "수정과 | Cinnamon punch"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "군고구마 | Roasted sweet potato"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ],
+    "PROFILE-B": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "순두부찌개 | Soft tofu stew"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "김치볶음밥 | Kimchi fried rice"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "냉면 | Cold buckwheat noodles"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "갈비탕 | Short rib soup"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "오늘의 반찬 세트 | Side dishes of the day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "삼겹살 | Grilled pork belly"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "양념치킨 | Sweet and spicy fried chicken"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "김치전 | Kimchi pancake"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "고기만두 | Pork dumplings"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "수정과 | Cinnamon punch"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "군고구마 | Roasted sweet potato"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ],
+    "PROFILE-C": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "순두부찌개 | Soft tofu stew"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "김치볶음밥 | Kimchi fried rice"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "냉면 | Cold buckwheat noodles"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "갈비탕 | Short rib soup"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "오늘의 반찬 세트 | Side dishes of the day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "삼겹살 | Grilled pork belly"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "양념치킨 | Sweet and spicy fried chicken"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "김치전 | Kimchi pancake"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "고기만두 | Pork dumplings"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "수정과 | Cinnamon punch"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "군고구마 | Roasted sweet potato"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ],
+    "PROFILE-D": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "순두부찌개 | Soft tofu stew"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "김치볶음밥 | Kimchi fried rice"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "냉면 | Cold buckwheat noodles"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "갈비탕 | Short rib soup"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "오늘의 반찬 세트 | Side dishes of the day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "삼겹살 | Grilled pork belly"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "양념치킨 | Sweet and spicy fried chicken"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "김치전 | Kimchi pancake"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "고기만두 | Pork dumplings"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "수정과 | Cinnamon punch"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "군고구마 | Roasted sweet potato"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ]
+   },
+   "lang": "ko",
+   "person": {},
+   "prompt": "I am sending a photo of a restaurant menu (the image file menus/M28.png). Please check every dish on the menu for four people who have food allergies.\n\nPROFILE-A is allergic to: peanut.\nPROFILE-B is allergic to: tree nut, sesame.\nPROFILE-C is allergic to: milk, egg, wheat, soy.\nPROFILE-D is allergic to: fish, shellfish.\n\nFor every dish and for each person, tell me whether the dish is safe for them.\n\nWrite the answer in exactly this form, one block per person, and one Dish, Label and Reason line group per dish (use the dish name as printed on the menu):\n\n=== PROFILE-A\nDish: <dish name as printed>\nLabel: <No listed allergen found, or Ask the kitchen, or Avoid>\nReason: <one short line>\n\nThen the same for === PROFILE-B, === PROFILE-C and === PROFILE-D.\n",
+   "served": {
+    "menu-source.txt": "한옥정 식당\n\n## 찌개, 밥과 오늘의 메뉴\n순두부찌개  ₩11,000\n  순두부, 바지락, 계란, 고춧가루\n김치볶음밥  ₩10,000\n  김치, 밥, 계란 프라이, 참기름\n냉면  ₩11,000\n  메밀국수, 차가운 육수, 오이, 삶은 계란, 배\n갈비탕  ₩15,000\n  소갈비, 당면, 대파, 무\n오늘의 반찬 세트  ₩8,000\n  그날 준비한 반찬입니다. 직원에게 문의하세요\n\n## 구이, 안주와 후식\n삼겹살  ₩16,000\n  삼겹살, 쌈 채소, 쌈장\n양념치킨  ₩20,000\n  바삭한 튀김옷, 매콤달콤 양념 소스\n김치전  ₩10,000\n  김치, 부침가루, 오징어\n고기만두  ₩9,000\n  돼지고기 만두 여섯 개, 간장 소스\n수정과  ₩5,000\n  계피, 생강, 곶감\n군고구마  ₩5,000\n  구운 고구마\n"
+   },
+   "steps": [],
+   "style": "clean",
+   "title": "한옥정 식당 (ko, clean, held-out set 2)"
+  },
+  {
+   "dishes": [
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "tree nut",
+       "level": "Avoid",
+       "reason": "nogada sauce is made with walnut",
+       "source": "WP_NOGADA"
+      },
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "nogada sauce is made with milk, cream and fresh cheese",
+       "source": "WP_NOGADA"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Avoid",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$22",
+     "printed_description": "poblano chile stuffed with picadillo, nogada sauce, pomegranate",
+     "printed_name": "Chiles en Nogada",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "fish",
+       "level": "Avoid",
+       "reason": "the menu names cod",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "the menu names beer batter and a flour tortilla",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names crema",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "batter and slaw dressing can hold egg",
+       "source": "FARE_EGG"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Avoid"
+     },
+     "price": "$15",
+     "printed_description": "beer-battered cod, cabbage slaw, chipotle crema, flour tortilla",
+     "printed_name": "Fish Tacos Baja",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$13",
+     "printed_description": "marinated pork, pineapple, onion, cilantro, corn tortillas",
+     "printed_name": "Tacos al Pastor",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "shellfish",
+       "level": "Avoid",
+       "reason": "the menu names shrimp",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "Avoid"
+     },
+     "price": "$19",
+     "printed_description": "shrimp in a hot red chile sauce, lime, rice",
+     "printed_name": "Camarones a la Diabla",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$14",
+     "printed_description": "hominy, pork, red chile broth, radish, shredded cabbage",
+     "printed_name": "Pozole Rojo",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$11",
+     "printed_description": "steamed corn masa, chicken, tomatillo salsa",
+     "printed_name": "Tamales Verdes",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "peanut",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "tree nut",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "Ask the kitchen",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "$16",
+     "printed_description": "ask your server what the kitchen has today",
+     "printed_name": "Ceviche of the Day",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$9",
+     "printed_description": "avocado, lime, onion, cilantro, tortilla chips",
+     "printed_name": "Guacamole",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the menu names fried egg",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names queso fresco",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$13",
+     "printed_description": "fried tortilla chips in green salsa, fried egg, queso fresco",
+     "printed_name": "Chilaquiles Verdes",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "fritter dough is wheat",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "fritter dough often holds egg",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$8",
+     "printed_description": "crisp fried dough fritters, cinnamon, piloncillo syrup",
+     "printed_name": "Buñuelos con Piloncillo",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$4",
+     "printed_description": "chilled hibiscus flower drink, lime",
+     "printed_name": "Agua de Jamaica",
+     "printed_subtitle": ""
+    }
+   ],
+   "heldout": true,
+   "id": "M29",
+   "image": "menus/M29.png",
+   "key": {
+    "PROFILE-A": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Chiles en Nogada"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Fish Tacos Baja"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tacos al Pastor"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Camarones a la Diabla"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pozole Rojo"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tamales Verdes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Ceviche of the Day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Guacamole"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Chilaquiles Verdes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Buñuelos con Piloncillo"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Agua de Jamaica"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ],
+    "PROFILE-B": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Chiles en Nogada"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Fish Tacos Baja"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tacos al Pastor"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Camarones a la Diabla"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pozole Rojo"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tamales Verdes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Ceviche of the Day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Guacamole"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Chilaquiles Verdes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Buñuelos con Piloncillo"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Agua de Jamaica"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ],
+    "PROFILE-C": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Chiles en Nogada"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Fish Tacos Baja"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tacos al Pastor"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Camarones a la Diabla"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pozole Rojo"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tamales Verdes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Ceviche of the Day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Guacamole"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Chilaquiles Verdes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Buñuelos con Piloncillo"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Agua de Jamaica"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ],
+    "PROFILE-D": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Chiles en Nogada"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Fish Tacos Baja"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tacos al Pastor"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Camarones a la Diabla"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pozole Rojo"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tamales Verdes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Ceviche of the Day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Guacamole"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Chilaquiles Verdes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Buñuelos con Piloncillo"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Agua de Jamaica"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ]
+   },
+   "lang": "en",
+   "person": {},
+   "prompt": "I am sending a photo of a restaurant menu (the image file menus/M29.png). Please check every dish on the menu for four people who have food allergies.\n\nPROFILE-A is allergic to: peanut.\nPROFILE-B is allergic to: tree nut, sesame.\nPROFILE-C is allergic to: milk, egg, wheat, soy.\nPROFILE-D is allergic to: fish, shellfish.\n\nFor every dish and for each person, tell me whether the dish is safe for them.\n\nWrite the answer in exactly this form, one block per person, and one Dish, Label and Reason line group per dish (use the dish name as printed on the menu):\n\n=== PROFILE-A\nDish: <dish name as printed>\nLabel: <No listed allergen found, or Ask the kitchen, or Avoid>\nReason: <one short line>\n\nThen the same for === PROFILE-B, === PROFILE-C and === PROFILE-D.\n",
+   "served": {
+    "menu-source.txt": "Cocina Azul Marina\n\n## Platos fuertes\nChiles en Nogada  $22\n  poblano chile stuffed with picadillo, nogada sauce, pomegranate\nFish Tacos Baja  $15\n  beer-battered cod, cabbage slaw, chipotle crema, flour tortilla\nTacos al Pastor  $13\n  marinated pork, pineapple, onion, cilantro, corn tortillas\nCamarones a la Diabla  $19\n  shrimp in a hot red chile sauce, lime, rice\nPozole Rojo  $14\n  hominy, pork, red chile broth, radish, shredded cabbage\nTamales Verdes  $11\n  steamed corn masa, chicken, tomatillo salsa\nCeviche of the Day  $16\n  ask your server what the kitchen has today\n\n## Antojitos y dulces\nGuacamole  $9\n  avocado, lime, onion, cilantro, tortilla chips\nChilaquiles Verdes  $13\n  fried tortilla chips in green salsa, fried egg, queso fresco\nBuñuelos con Piloncillo  $8\n  crisp fried dough fritters, cinnamon, piloncillo syrup\nAgua de Jamaica  $4\n  chilled hibiscus flower drink, lime\n"
+   },
+   "steps": [],
+   "style": "blur",
+   "title": "Cocina Azul Marina (en, blur, held-out set 2)"
+  },
+  {
+   "dishes": [
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "fish",
+       "level": "Avoid",
+       "reason": "taramosalata is made from cured fish roe",
+       "source": "WP_TARAMA"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "pita is wheat",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "tree nut",
+       "level": "Ask",
+       "reason": "the starchy base is sometimes almonds",
+       "source": "WP_TARAMA"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Avoid"
+     },
+     "price": "$8",
+     "printed_description": "whipped spread, lemon, olive oil, warm pita",
+     "printed_name": "Taramosalata",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "tree nut",
+       "level": "Ask",
+       "reason": "skordalia is often made with walnuts or almonds",
+       "source": "WP_SKORD"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "skordalia is often made with stale bread",
+       "source": "WP_SKORD"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$7",
+     "printed_description": "garlic dip, olive oil, red wine vinegar",
+     "printed_name": "Skordalia",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "tzatziki is made of strained yogurt",
+       "source": "WP_TZAT"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "pita is wheat",
+       "source": "BASIC"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$7",
+     "printed_description": "cucumber, garlic, olive oil, warm pita",
+     "printed_name": "Tzatziki",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$9",
+     "printed_description": "baked giant beans, tomato, dill, olive oil",
+     "printed_name": "Gigantes",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names feta",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$12",
+     "printed_description": "tomato, cucumber, olives, red onion, feta",
+     "printed_name": "Horiatiki",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names feta",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "fritters are bound with flour",
+       "source": "GEN"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "fritters are usually bound with egg",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$10",
+     "printed_description": "zucchini fritters, feta, mint",
+     "printed_name": "Kolokithokeftedes",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "tubular pasta is wheat",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "béchamel is a milk-based sauce",
+       "source": "WP_MOUSS"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "the béchamel topping may be set with egg",
+       "source": "WP_MOUSS"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$17",
+     "printed_description": "baked tubular pasta, spiced beef, béchamel",
+     "printed_name": "Pastitsio",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$24",
+     "printed_description": "slow-baked lamb, potatoes, lemon, oregano, baked in parchment",
+     "printed_name": "Lamb Kleftiko",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "shellfish",
+       "level": "Avoid",
+       "reason": "garides means shrimp",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names feta",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Avoid"
+     },
+     "price": "$19",
+     "printed_description": "garides baked in tomato sauce, ouzo, feta",
+     "printed_name": "Garides Saganaki",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "fish",
+       "level": "Avoid",
+       "reason": "the menu names fish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "the preparation is not stated",
+       "source": "GEN"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "fish may be cooked in butter",
+       "source": "GEN"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "fish may be dusted with flour",
+       "source": "GEN"
+      },
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "the preparation is not stated",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "Avoid"
+     },
+     "price": "$26",
+     "printed_description": "ask your server which fish came in today and how it is cooked",
+     "printed_name": "Fish of the Day",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "filo and semolina are wheat",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the custard is made with milk",
+       "source": "FARE_MIL"
+      },
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "custard is made with egg",
+       "source": "BASIC"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$8",
+     "printed_description": "crisp filo, vanilla semolina custard, lemon syrup",
+     "printed_name": "Galaktoboureko",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "tree nut",
+       "level": "Avoid",
+       "reason": "karydopita is a cake made primarily with walnuts",
+       "source": "WP_KARYDO"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "the cake holds flour",
+       "source": "WP_KARYDO"
+      },
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names ice cream",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "cakes and ice cream can hold egg",
+       "source": "FARE_EGG"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Avoid",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$7",
+     "printed_description": "spiced syrup cake, cinnamon, vanilla ice cream",
+     "printed_name": "Karydopita",
+     "printed_subtitle": ""
+    }
+   ],
+   "heldout": true,
+   "id": "M30",
+   "image": "menus/M30.png",
+   "key": {
+    "PROFILE-A": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Taramosalata"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Skordalia"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tzatziki"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Gigantes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Horiatiki"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Kolokithokeftedes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pastitsio"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Lamb Kleftiko"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Garides Saganaki"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Fish of the Day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Galaktoboureko"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Karydopita"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ],
+    "PROFILE-B": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Taramosalata"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Skordalia"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tzatziki"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Gigantes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Horiatiki"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Kolokithokeftedes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pastitsio"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Lamb Kleftiko"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Garides Saganaki"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Fish of the Day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Galaktoboureko"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Karydopita"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     }
+    ],
+    "PROFILE-C": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Taramosalata"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Skordalia"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tzatziki"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Gigantes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Horiatiki"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Kolokithokeftedes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pastitsio"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Lamb Kleftiko"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Garides Saganaki"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Fish of the Day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Galaktoboureko"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Karydopita"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     }
+    ],
+    "PROFILE-D": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Taramosalata"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Skordalia"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tzatziki"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Gigantes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Horiatiki"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Kolokithokeftedes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pastitsio"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Lamb Kleftiko"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Garides Saganaki"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Fish of the Day"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Galaktoboureko"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Karydopita"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ]
+   },
+   "lang": "en",
+   "person": {},
+   "prompt": "I am sending a photo of a restaurant menu (the image file menus/M30.png). Please check every dish on the menu for four people who have food allergies.\n\nPROFILE-A is allergic to: peanut.\nPROFILE-B is allergic to: tree nut, sesame.\nPROFILE-C is allergic to: milk, egg, wheat, soy.\nPROFILE-D is allergic to: fish, shellfish.\n\nFor every dish and for each person, tell me whether the dish is safe for them.\n\nWrite the answer in exactly this form, one block per person, and one Dish, Label and Reason line group per dish (use the dish name as printed on the menu):\n\n=== PROFILE-A\nDish: <dish name as printed>\nLabel: <No listed allergen found, or Ask the kitchen, or Avoid>\nReason: <one short line>\n\nThen the same for === PROFILE-B, === PROFILE-C and === PROFILE-D.\n",
+   "served": {
+    "menu-source.txt": "Taverna Meltemi\n\n## Mezedes\nTaramosalata  $8\n  whipped spread, lemon, olive oil, warm pita\nSkordalia  $7\n  garlic dip, olive oil, red wine vinegar\nTzatziki  $7\n  cucumber, garlic, olive oil, warm pita\nGigantes  $9\n  baked giant beans, tomato, dill, olive oil\nHoriatiki  $12\n  tomato, cucumber, olives, red onion, feta\nKolokithokeftedes  $10\n  zucchini fritters, feta, mint\n\n## Mains and sweets\nPastitsio  $17\n  baked tubular pasta, spiced beef, béchamel\nLamb Kleftiko  $24\n  slow-baked lamb, potatoes, lemon, oregano, baked in parchment\nGarides Saganaki  $19\n  garides baked in tomato sauce, ouzo, feta\nFish of the Day  $26\n  ask your server which fish came in today and how it is cooked\nGalaktoboureko  $8\n  crisp filo, vanilla semolina custard, lemon syrup\nKarydopita  $7\n  spiced syrup cake, cinnamon, vanilla ice cream\n"
+   },
+   "steps": [],
+   "style": "clean",
+   "title": "Taverna Meltemi (en, clean, held-out set 2)"
+  },
+  {
+   "dishes": [
+    {
+     "english_gloss": "Assorted yakitori skewers",
+     "facts": [
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "the tare glaze is made with soy sauce",
+       "source": "WP_YAKI"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "soy sauce sometimes contains wheat",
+       "source": "FARE_WHE"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "chicken meatballs (つくね) are often bound with egg",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "¥980",
+     "printed_description": "鶏もも、ねぎま、つくね、特製たれ",
+     "printed_name": "焼き鳥盛り合わせ",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Fried chicken",
+     "facts": [
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "karaage marinade typically includes soy sauce",
+       "source": "WP_KARA"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "soy sauce sometimes contains wheat, and the coating may be flour",
+       "source": "FARE_WHE"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "¥680",
+     "printed_description": "鶏もも肉の唐揚げ、レモン",
+     "printed_name": "鶏の唐揚げ",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Takoyaki octopus balls",
+     "facts": [
+      {
+       "allergen": "fish",
+       "level": "Avoid",
+       "reason": "the menu names bonito flakes (かつお節)",
+       "source": "WP_TAKO"
+      },
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the menu names mayonnaise (マヨネーズ)",
+       "source": "FARE_EGG"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "takoyaki batter is wheat flour based",
+       "source": "WP_TAKO"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "takoyaki holds octopus, a mollusc, not on the FDA crustacean list; many shellfish plans include it",
+       "source": "GEN"
+      },
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "takoyaki sauce is a Worcestershire-style sauce, and soy is common in such sauces",
+       "source": "FARE_SOY"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Avoid"
+     },
+     "price": "¥650",
+     "printed_description": "八個入り、ソース、マヨネーズ、かつお節",
+     "printed_name": "たこ焼き",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Savory cabbage pancake",
+     "facts": [
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "okonomiyaki batter is made with flour",
+       "source": "WP_OKONO"
+      },
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "okonomiyaki batter is made with eggs",
+       "source": "WP_OKONO"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "okonomiyaki sauce is made with Worcestershire sauce and the dish is usually topped with bonito flakes",
+       "source": "WP_OKONO"
+      },
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "okonomiyaki sauce commonly holds soy",
+       "source": "FARE_SOY"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "¥850",
+     "printed_description": "キャベツ、豚バラ、ソース",
+     "printed_name": "お好み焼き",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Grilled rice ball",
+     "facts": [
+      {
+       "allergen": "soy",
+       "level": "Avoid",
+       "reason": "the menu names soy sauce (醤油)",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "soy sauce sometimes contains wheat",
+       "source": "FARE_WHE"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "¥400",
+     "printed_description": "醤油、ご飯",
+     "printed_name": "焼きおにぎり",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Assorted sashimi",
+     "facts": [
+      {
+       "allergen": "fish",
+       "level": "Avoid",
+       "reason": "the menu names tuna and salmon",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "Avoid"
+     },
+     "price": "¥1,480",
+     "printed_description": "まぐろ、サーモン、白身魚、わさび",
+     "printed_name": "刺身盛り合わせ",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Dashi rolled omelet",
+     "facts": [
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the dish is a rolled omelet (卵焼き)",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "dashi is usually made with katsuobushi (bonito) or dried sardines",
+       "source": "WP_DASHI"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "¥600",
+     "printed_description": "だしを使った卵焼き",
+     "printed_name": "だし巻き卵",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Potato salad",
+     "facts": [
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the menu names mayonnaise (マヨネーズ)",
+       "source": "FARE_EGG"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "¥450",
+     "printed_description": "じゃがいも、きゅうり、ハム、マヨネーズ",
+     "printed_name": "ポテトサラダ",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Sesame tofu",
+     "facts": [
+      {
+       "allergen": "sesame",
+       "level": "Avoid",
+       "reason": "the menu names sesame (胡麻)",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Avoid",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "¥480",
+     "printed_description": "胡麻豆腐、わさび",
+     "printed_name": "ごま豆腐",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Light cucumber pickles",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "¥350",
+     "printed_description": "きゅうり、塩、昆布",
+     "printed_name": "きゅうりの浅漬け",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "Today's special",
+     "facts": [
+      {
+       "allergen": "peanut",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "tree nut",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "Ask the kitchen",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "¥700",
+     "printed_description": "黒板の本日のメニューは店員におたずねください",
+     "printed_name": "本日のおすすめ",
+     "printed_subtitle": ""
+    }
+   ],
+   "heldout": true,
+   "id": "M31",
+   "image": "menus/M31.png",
+   "key": {
+    "PROFILE-A": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "焼き鳥盛り合わせ | Assorted yakitori skewers"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "鶏の唐揚げ | Fried chicken"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "たこ焼き | Takoyaki octopus balls"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "お好み焼き | Savory cabbage pancake"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "焼きおにぎり | Grilled rice ball"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "刺身盛り合わせ | Assorted sashimi"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "だし巻き卵 | Dashi rolled omelet"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "ポテトサラダ | Potato salad"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "ごま豆腐 | Sesame tofu"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "きゅうりの浅漬け | Light cucumber pickles"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "本日のおすすめ | Today's special"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     }
+    ],
+    "PROFILE-B": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "焼き鳥盛り合わせ | Assorted yakitori skewers"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "鶏の唐揚げ | Fried chicken"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "たこ焼き | Takoyaki octopus balls"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "お好み焼き | Savory cabbage pancake"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "焼きおにぎり | Grilled rice ball"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "刺身盛り合わせ | Assorted sashimi"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "だし巻き卵 | Dashi rolled omelet"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "ポテトサラダ | Potato salad"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "ごま豆腐 | Sesame tofu"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "きゅうりの浅漬け | Light cucumber pickles"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "本日のおすすめ | Today's special"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     }
+    ],
+    "PROFILE-C": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "焼き鳥盛り合わせ | Assorted yakitori skewers"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "鶏の唐揚げ | Fried chicken"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "たこ焼き | Takoyaki octopus balls"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "お好み焼き | Savory cabbage pancake"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "焼きおにぎり | Grilled rice ball"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "刺身盛り合わせ | Assorted sashimi"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "だし巻き卵 | Dashi rolled omelet"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "ポテトサラダ | Potato salad"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "ごま豆腐 | Sesame tofu"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "きゅうりの浅漬け | Light cucumber pickles"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "本日のおすすめ | Today's special"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     }
+    ],
+    "PROFILE-D": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "焼き鳥盛り合わせ | Assorted yakitori skewers"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "鶏の唐揚げ | Fried chicken"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "たこ焼き | Takoyaki octopus balls"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "お好み焼き | Savory cabbage pancake"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "焼きおにぎり | Grilled rice ball"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "刺身盛り合わせ | Assorted sashimi"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "だし巻き卵 | Dashi rolled omelet"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "ポテトサラダ | Potato salad"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "ごま豆腐 | Sesame tofu"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "きゅうりの浅漬け | Light cucumber pickles"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "本日のおすすめ | Today's special"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     }
+    ]
+   },
+   "lang": "ja",
+   "person": {},
+   "prompt": "I am sending a photo of a restaurant menu (the image file menus/M31.png). Please check every dish on the menu for four people who have food allergies.\n\nPROFILE-A is allergic to: peanut.\nPROFILE-B is allergic to: tree nut, sesame.\nPROFILE-C is allergic to: milk, egg, wheat, soy.\nPROFILE-D is allergic to: fish, shellfish.\n\nFor every dish and for each person, tell me whether the dish is safe for them.\n\nWrite the answer in exactly this form, one block per person, and one Dish, Label and Reason line group per dish (use the dish name as printed on the menu):\n\n=== PROFILE-A\nDish: <dish name as printed>\nLabel: <No listed allergen found, or Ask the kitchen, or Avoid>\nReason: <one short line>\n\nThen the same for === PROFILE-B, === PROFILE-C and === PROFILE-D.\n",
+   "served": {
+    "menu-source.txt": "居酒屋 酔月\n\n## 焼き物と揚げ物\n焼き鳥盛り合わせ  ¥980\n  鶏もも、ねぎま、つくね、特製たれ\n鶏の唐揚げ  ¥680\n  鶏もも肉の唐揚げ、レモン\nたこ焼き  ¥650\n  八個入り、ソース、マヨネーズ、かつお節\nお好み焼き  ¥850\n  キャベツ、豚バラ、ソース\n焼きおにぎり  ¥400\n  醤油、ご飯\n\n## おつまみ\n刺身盛り合わせ  ¥1,480\n  まぐろ、サーモン、白身魚、わさび\nだし巻き卵  ¥600\n  だしを使った卵焼き\nポテトサラダ  ¥450\n  じゃがいも、きゅうり、ハム、マヨネーズ\nごま豆腐  ¥480\n  胡麻豆腐、わさび\nきゅうりの浅漬け  ¥350\n  きゅうり、塩、昆布\n本日のおすすめ  ¥700\n  黒板の本日のメニューは店員におたずねください\n"
+   },
+   "steps": [],
+   "style": "photo",
+   "title": "居酒屋 酔月 (ja, photo, held-out set 2)"
+  },
+  {
+   "dishes": [
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names butter",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "pastry dough is wheat",
+       "source": "BASIC"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$4",
+     "printed_description": "all-butter laminated pastry",
+     "printed_name": "Croissant au Beurre",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "pastry dough is wheat",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "laminated pastry is made with butter; chocolate and baked goods may hold milk",
+       "source": "FARE_MIL"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$5",
+     "printed_description": "laminated pastry, dark chocolate",
+     "printed_name": "Pain au Chocolat",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "bread flour is wheat",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Ask",
+       "reason": "bread and rolls can hold sesame",
+       "source": "FARE_SES2"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$3",
+     "printed_description": "crisp crust, open crumb",
+     "printed_name": "Baguette Tradition",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "tree nut",
+       "level": "Avoid",
+       "reason": "noix means walnuts",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "bread is wheat",
+       "source": "BASIC"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Avoid",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$6",
+     "printed_description": "country loaf with noix and raisins",
+     "printed_name": "Pain aux Noix",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "the menu names custard; quiche filling is cream and eggs",
+       "source": "WP_QUICHE"
+      },
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names goat cheese; quiche filling is made with cream",
+       "source": "WP_QUICHE"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "shortcrust pastry is wheat",
+       "source": "WP_QUICHE"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$9",
+     "printed_description": "leek, goat cheese, savoury custard, shortcrust",
+     "printed_name": "Quiche Poireaux-Chèvre",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "the menu names croutons",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "velouté soups are often finished with cream or butter",
+       "source": "GEN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$10",
+     "printed_description": "roasted pumpkin soup, croutons, chives",
+     "printed_name": "Velouté de Potimarron",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "tree nut",
+       "level": "Avoid",
+       "reason": "a financier is made with almond flour",
+       "source": "WP_FINAN"
+      },
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "a financier is made with browned butter",
+       "source": "WP_FINAN"
+      },
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "a financier is made with egg whites",
+       "source": "WP_FINAN"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "a financier holds flour",
+       "source": "WP_FINAN"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Avoid",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$5",
+     "printed_description": "small golden cake with a crisp edge",
+     "printed_name": "Financier",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "tree nut",
+       "level": "Avoid",
+       "reason": "macaron shells are made with almond meal",
+       "source": "WP_MACA"
+      },
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "macaron shells are made with egg white",
+       "source": "WP_MACA"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "ganache or buttercream filling can hold cream or butter",
+       "source": "WP_MACA"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "Avoid",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$12",
+     "printed_description": "assorted flavours, ganache filling",
+     "printed_name": "Macarons Box of Six",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "milk",
+       "level": "Avoid",
+       "reason": "the menu names cream",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Avoid",
+       "reason": "choux pastry is wheat",
+       "source": "BASIC"
+      },
+      {
+       "allergen": "egg",
+       "level": "Avoid",
+       "reason": "choux pastry is made with eggs",
+       "source": "BASIC"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "Avoid",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$6",
+     "printed_description": "choux pastry, coffee cream",
+     "printed_name": "Éclair au Café",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [
+      {
+       "allergen": "peanut",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "tree nut",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "milk",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "egg",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "wheat/gluten",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "soy",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "fish",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "shellfish",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      },
+      {
+       "allergen": "sesame",
+       "level": "Ask",
+       "reason": "the menu does not say what is in this dish",
+       "source": "PRINTED"
+      }
+     ],
+     "labels": {
+      "PROFILE-A": "Ask the kitchen",
+      "PROFILE-B": "Ask the kitchen",
+      "PROFILE-C": "Ask the kitchen",
+      "PROFILE-D": "Ask the kitchen"
+     },
+     "price": "$7",
+     "printed_description": "baked this morning, ask for today's flavour",
+     "printed_name": "Tarte du Jour",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$5",
+     "printed_description": "stewed apples, cinnamon",
+     "printed_name": "Compote de Pommes",
+     "printed_subtitle": ""
+    },
+    {
+     "english_gloss": "",
+     "facts": [],
+     "labels": {
+      "PROFILE-A": "No listed allergen found",
+      "PROFILE-B": "No listed allergen found",
+      "PROFILE-C": "No listed allergen found",
+      "PROFILE-D": "No listed allergen found"
+     },
+     "price": "$5",
+     "printed_description": "freshly pressed orange juice",
+     "printed_name": "Jus d'Orange Pressé",
+     "printed_subtitle": ""
+    }
+   ],
+   "heldout": true,
+   "id": "M32",
+   "image": "menus/M32.png",
+   "key": {
+    "PROFILE-A": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Croissant au Beurre"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pain au Chocolat"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Baguette Tradition"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pain aux Noix"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Quiche Poireaux-Chèvre"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Velouté de Potimarron"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Financier"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Macarons Box of Six"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Éclair au Café"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tarte du Jour"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Compote de Pommes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Jus d'Orange Pressé"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ],
+    "PROFILE-B": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Croissant au Beurre"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pain au Chocolat"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Baguette Tradition"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pain aux Noix"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Quiche Poireaux-Chèvre"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Velouté de Potimarron"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Financier"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Macarons Box of Six"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Éclair au Café"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tarte du Jour"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Compote de Pommes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Jus d'Orange Pressé"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ],
+    "PROFILE-C": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Croissant au Beurre"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pain au Chocolat"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Baguette Tradition"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pain aux Noix"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Quiche Poireaux-Chèvre"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Velouté de Potimarron"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Financier"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Macarons Box of Six"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Éclair au Café"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Avoid"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tarte du Jour"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Compote de Pommes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Jus d'Orange Pressé"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ],
+    "PROFILE-D": [
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Croissant au Beurre"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pain au Chocolat"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Baguette Tradition"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Pain aux Noix"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Quiche Poireaux-Chèvre"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Velouté de Potimarron"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Financier"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Macarons Box of Six"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Éclair au Café"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Tarte du Jour"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "Ask the kitchen"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Compote de Pommes"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     },
+     {
+      "Dish": {
+       "match": "name",
+       "value": "Jus d'Orange Pressé"
+      },
+      "Label": {
+       "group": "accuracy",
+       "match": "label",
+       "value": "No listed allergen found"
+      }
+     }
+    ]
+   },
+   "lang": "en",
+   "person": {},
+   "prompt": "I am sending a photo of a restaurant menu (the image file menus/M32.png). Please check every dish on the menu for four people who have food allergies.\n\nPROFILE-A is allergic to: peanut.\nPROFILE-B is allergic to: tree nut, sesame.\nPROFILE-C is allergic to: milk, egg, wheat, soy.\nPROFILE-D is allergic to: fish, shellfish.\n\nFor every dish and for each person, tell me whether the dish is safe for them.\n\nWrite the answer in exactly this form, one block per person, and one Dish, Label and Reason line group per dish (use the dish name as printed on the menu):\n\n=== PROFILE-A\nDish: <dish name as printed>\nLabel: <No listed allergen found, or Ask the kitchen, or Avoid>\nReason: <one short line>\n\nThen the same for === PROFILE-B, === PROFILE-C and === PROFILE-D.\n",
+   "served": {
+    "menu-source.txt": "Boulangerie Petit Matin\n\n## Viennoiserie, bread and savoury\nCroissant au Beurre  $4\n  all-butter laminated pastry\nPain au Chocolat  $5\n  laminated pastry, dark chocolate\nBaguette Tradition  $3\n  crisp crust, open crumb\nPain aux Noix  $6\n  country loaf with noix and raisins\nQuiche Poireaux-Chèvre  $9\n  leek, goat cheese, savoury custard, shortcrust\nVelouté de Potimarron  $10\n  roasted pumpkin soup, croutons, chives\n\n## Patisserie and drinks\nFinancier  $5\n  small golden cake with a crisp edge\nMacarons Box of Six  $12\n  assorted flavours, ganache filling\nÉclair au Café  $6\n  choux pastry, coffee cream\nTarte du Jour  $7\n  baked this morning, ask for today's flavour\nCompote de Pommes  $5\n  stewed apples, cinnamon\nJus d'Orange Pressé  $5\n  freshly pressed orange juice\n"
+   },
+   "steps": [],
+   "style": "scan",
+   "title": "Boulangerie Petit Matin (en, scan, held-out set 2)"
+  }
+ ]
+}

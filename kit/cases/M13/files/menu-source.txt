@@ -1,0 +1,25 @@
+Seoul Table
+
+## Rice and stews
+Bibimbap  $15
+  rice, vegetables, fried egg, sesame oil, gochujang
+Kimchi Stew  $14
+  kimchi, pork, tofu
+Steamed Rice  $3
+  steamed rice
+Barley Tea  $3
+  roasted barley tea
+
+## Grill and snacks
+Bulgogi  $18
+  beef marinated in soy sauce, pear, sesame
+Japchae  $13
+  sweet potato noodles, vegetables, soy sauce, sesame oil
+Tteokbokki  $11
+  rice cakes, fish cake, chili sauce
+Seafood Pancake  $14
+  scallion, squid, shrimp, flour batter
+Hotteok  $6
+  sweet pancake with brown sugar and peanut filling
+Cold Cucumber Salad  $5
+  cucumber, vinegar, chili flakes

@@ -1,0 +1,128 @@
+SYNTHETIC SAMPLE: made from the answer key by tests/make_replay_sample.py to test the scorer with no model. Not model output. Case M13, variant: hazard dish missing: Hotteok left out of PROFILE-A.
+STATUS: PAGES
+
+=== PROFILE-A
+Dish: Bibimbap
+Label: No listed allergen found
+Reason: test
+Dish: Kimchi Stew
+Label: No listed allergen found
+Reason: test
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: test
+Dish: Barley Tea
+Label: No listed allergen found
+Reason: test
+Dish: Bulgogi
+Label: No listed allergen found
+Reason: test
+Dish: Japchae
+Label: No listed allergen found
+Reason: test
+Dish: Tteokbokki
+Label: No listed allergen found
+Reason: test
+Dish: Seafood Pancake
+Label: No listed allergen found
+Reason: test
+Dish: Cold Cucumber Salad
+Label: No listed allergen found
+Reason: test
+
+=== PROFILE-B
+Dish: Bibimbap
+Label: Avoid
+Reason: test
+Dish: Kimchi Stew
+Label: No listed allergen found
+Reason: test
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: test
+Dish: Barley Tea
+Label: No listed allergen found
+Reason: test
+Dish: Bulgogi
+Label: Avoid
+Reason: test
+Dish: Japchae
+Label: Avoid
+Reason: test
+Dish: Tteokbokki
+Label: No listed allergen found
+Reason: test
+Dish: Seafood Pancake
+Label: No listed allergen found
+Reason: test
+Dish: Hotteok
+Label: No listed allergen found
+Reason: test
+Dish: Cold Cucumber Salad
+Label: No listed allergen found
+Reason: test
+
+=== PROFILE-C
+Dish: Bibimbap
+Label: Avoid
+Reason: test
+Dish: Kimchi Stew
+Label: Avoid
+Reason: test
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: test
+Dish: Barley Tea
+Label: Ask the kitchen
+Reason: test
+Dish: Bulgogi
+Label: Avoid
+Reason: test
+Dish: Japchae
+Label: Avoid
+Reason: test
+Dish: Tteokbokki
+Label: Ask the kitchen
+Reason: test
+Dish: Seafood Pancake
+Label: Avoid
+Reason: test
+Dish: Hotteok
+Label: Avoid
+Reason: test
+Dish: Cold Cucumber Salad
+Label: No listed allergen found
+Reason: test
+
+=== PROFILE-D
+Dish: Bibimbap
+Label: No listed allergen found
+Reason: test
+Dish: Kimchi Stew
+Label: Ask the kitchen
+Reason: test
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: test
+Dish: Barley Tea
+Label: No listed allergen found
+Reason: test
+Dish: Bulgogi
+Label: No listed allergen found
+Reason: test
+Dish: Japchae
+Label: No listed allergen found
+Reason: test
+Dish: Tteokbokki
+Label: Avoid
+Reason: test
+Dish: Seafood Pancake
+Label: Avoid
+Reason: test
+Dish: Hotteok
+Label: No listed allergen found
+Reason: test
+Dish: Cold Cucumber Salad
+Label: No listed allergen found
+Reason: test
+

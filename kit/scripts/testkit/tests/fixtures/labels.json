@@ -1,0 +1,18 @@
+{
+  "header": ["Status"],
+  "pages": {
+    "SUMMARY": {"labels": [
+      {"name": "What happened", "kind": "text"},
+      {"name": "Date of event", "kind": "date"},
+      {"name": "Total", "kind": "money"},
+      {"name": "Items count", "kind": "number"}]},
+    "ITEMS": {"repeat": "Item", "labels": [
+      {"name": "Item", "kind": "text"},
+      {"name": "Code", "kind": "code"},
+      {"name": "Tags", "kind": "list"}]},
+    "LETTER": {"prefix": "LETTER", "labels": [
+      {"name": "Total", "kind": "money"},
+      {"name": "Date of letter", "kind": "date"},
+      {"name": "Reference", "kind": "code"}]}
+  }
+}

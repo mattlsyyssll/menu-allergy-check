@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Phở Bò
+Label: Ask the kitchen
+Reason: Peanut may be hidden: pho is served with hoisin sauce and table garnishes that can hold peanut. | Peanut may be hidden: hoisin sauce can contain peanut (found in a typical recipe: hoisin sauce).
+Dish: Cơm Tôm Sườn
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bún Chả Giò
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some spring rolls come with a peanut dip (found in a typical recipe: spring roll wrapper). | Peanut: roasted peanuts is commonly in this dish (a typical recipe, not the menu).
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bánh Mì Thốt
+Label: Ask the kitchen
+Reason: The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Gỏi Cuốn
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient).
+Dish: Gỏi Gà
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient). | Peanut: roasted peanuts is an essential part of a typical recipe for this dish.
+Dish: Rau Mương Xào Tỏi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fresh Fruit Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cà Phê Sữa Đá
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Phở Bò
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: some hoisin sauces contain nut paste (found in a typical recipe: hoisin sauce). | Sesame may be hidden: hoisin sauce can contain sesame (found in a typical recipe: hoisin sauce).
+Dish: Cơm Tôm Sườn
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bún Chả Giò
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bánh Mì Thốt
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread rolls may be topped with sesame. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Gỏi Cuốn
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dipping sauces often contain sesame oil. | Tree nuts may be hidden: some hoisin sauces contain nut paste (found in a typical recipe: hoisin sauce). | Sesame may be hidden: hoisin sauce can contain sesame (found in a typical recipe: hoisin sauce).
+Dish: Gỏi Gà
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Rau Mương Xào Tỏi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fresh Fruit Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cà Phê Sữa Đá
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Phở Bò
+Label: Ask the kitchen
+Reason: Soy may be hidden: pho is often served with hoisin sauce (soy). | Soy: hoisin sauce is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten may be hidden: hoisin sauce is thickened with wheat flour and often contains wheat (found in a typical recipe: hoisin sauce). | Egg may be hidden: meatballs often use egg as a binder (found in a typical recipe: meatballs). | Wheat / gluten may be hidden: meatballs often contain breadcrumbs (found in a typical recipe: meatballs).
+Dish: Cơm Tôm Sườn
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient).
+Dish: Bún Chả Giò
+Label: Avoid
+Reason: Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bánh Mì Thốt
+Label: Avoid
+Reason: Egg is listed on the menu ("mayo" in the listed ingredient). | Wheat / gluten is listed on the menu ("bánh mì" in the dish name).
+Dish: Gỏi Cuốn
+Label: Avoid
+Reason: Soy: hoisin sauce is an essential part of a typical recipe for this dish.
+Dish: Gỏi Gà
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Rau Mương Xào Tỏi
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: Vietnamese stir-fries (xao) usually use soy sauce, which has wheat. | Soy may be hidden: Vietnamese stir-fries (xao) usually use soy sauce. | Wheat / gluten may be hidden: oyster sauce often contains wheat or soy sauce (found in a typical recipe: oyster sauce). | Soy may be hidden: oyster sauce often contains soy sauce (found in a typical recipe: oyster sauce).
+Dish: Fresh Fruit Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cà Phê Sữa Đá
+Label: Avoid
+Reason: Milk is listed on the menu ("sữa" in the dish name). | Milk: sweetened condensed milk is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Phở Bò
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Cơm Tôm Sườn
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("tôm" in the dish name). | Crustaceans: shrimp is an essential part of a typical recipe for this dish. | Fish: fish sauce is an essential part of a typical recipe for this dish. | Fish: sweet and sour fish sauce is an essential part of a typical recipe for this dish.
+Dish: Bún Chả Giò
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish. | Fish: sweet and sour fish sauce is an essential part of a typical recipe for this dish.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bánh Mì Thốt
+Label: Ask the kitchen
+Reason: The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Gỏi Cuốn
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("shrimp" in the listed ingredient). | Crustaceans: boiled shrimp is an essential part of a typical recipe for this dish.
+Dish: Gỏi Gà
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Rau Mương Xào Tỏi
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Fresh Fruit Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cà Phê Sữa Đá
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

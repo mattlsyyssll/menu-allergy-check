@@ -1,0 +1,25 @@
+Bistrot du Coin
+
+## Entrées
+Soupe à l'oignon gratinée  9 €
+  oignons, bouillon, croûton, gruyère
+Salade niçoise  12 €
+  thon, anchois, œuf dur, olives, haricots verts
+Quiche lorraine  11 €
+  lardons, œufs, crème
+Salade verte  6 €
+  salade, vinaigrette à la moutarde
+
+## Plats et desserts
+Sole meunière  24 €
+  sole, beurre, citron, farine
+Moules marinières  16 €
+  moules, vin blanc, persil, échalotes
+Ratatouille  11 €
+  aubergine, courgette, tomate, poivron
+Frites maison  5 €
+  pommes de terre, sel
+Crème brûlée  8 €
+  crème, jaune d'œuf, sucre
+Tarte aux amandes  8 €
+  pâte sablée, crème d'amande

@@ -1,0 +1,2 @@
+{"to": "cloud", "body": "Check these dishes for a peanut allergy: Clam Chowder"}
+{"to": "cloud", "body": {"dish": "Cole Slaw", "image": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAAB"}}

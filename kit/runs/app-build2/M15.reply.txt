@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Fettuccine Alfredo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pesto Gnocchi
+Label: Ask the kitchen
+Reason: Peanut may be hidden: pesto often has nuts, and some versions use peanuts.
+Dish: Spaghetti Marinara
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Minestrone
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Caprese Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Arugula Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fried Calamari
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Grilled Branzino
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pistachio Gelato
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Panna Cotta
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Fettuccine Alfredo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pesto Gnocchi
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: pesto is traditionally made with pine nuts.
+Dish: Spaghetti Marinara
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Minestrone
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Caprese Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Arugula Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fried Calamari
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Grilled Branzino
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pistachio Gelato
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pistachio" in the dish name).
+Dish: Panna Cotta
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-C
+Dish: Fettuccine Alfredo
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient).
+Dish: Pesto Gnocchi
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("gnocchi" in the dish name).
+Dish: Spaghetti Marinara
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("spaghetti" in the dish name).
+Dish: Minestrone
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pasta" in the listed ingredient).
+Dish: Caprese Salad
+Label: Avoid
+Reason: Milk is listed on the menu ("mozzarella" in the listed ingredient).
+Dish: Arugula Salad
+Label: Avoid
+Reason: Milk is listed on the menu ("parmesan" in the listed ingredient).
+Dish: Fried Calamari
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Grilled Branzino
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pistachio Gelato
+Label: Avoid
+Reason: Milk is listed on the menu ("gelato" in the dish name).
+Dish: Panna Cotta
+Label: Avoid
+Reason: Milk is listed on the menu ("panna" in the dish name).
+=== PROFILE-D
+Dish: Fettuccine Alfredo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pesto Gnocchi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Spaghetti Marinara
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Minestrone
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Caprese Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Arugula Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fried Calamari
+Label: Avoid
+Reason: Molluscs is listed on the menu ("calamari" in the dish name).
+Dish: Grilled Branzino
+Label: Avoid
+Reason: Fish is listed on the menu ("branzino" in the dish name).
+Dish: Pistachio Gelato
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Panna Cotta
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

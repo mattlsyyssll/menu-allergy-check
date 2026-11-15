@@ -1,0 +1,35 @@
+龍門茶樓 Dragon Gate Dim Sum
+
+## 點心
+蝦餃  $38
+  (Har Gow)
+  鮮蝦、澄麵皮
+燒賣  $36
+  (Siu Mai)
+  豬肉、蝦、冬菇
+叉燒包  $32
+  (Char Siu Bao)
+  叉燒、麵包皮
+鮮蝦腸粉  $42
+  (Shrimp Rice Roll)
+  鮮蝦、米漿、豉油
+蘿蔔糕  $30
+  (Turnip Cake)
+  白蘿蔔、米粉、臘腸
+
+## 甜品及其他
+煎堆  $28
+  (Sesame Balls)
+  糯米粉、芝麻、豆沙
+蛋撻  $26
+  (Egg Tart)
+  蛋漿、酥皮
+芒果布甸  $28
+  (Mango Pudding)
+  芒果、淡奶、魚膠粉
+白粥  $12
+  (Plain Congee)
+  白米、水、薑
+白灼生菜  $34
+  (Blanched Lettuce)
+  生菜、蒜、油

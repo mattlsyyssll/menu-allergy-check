@@ -1,0 +1,660 @@
+{
+ "case": "M08",
+ "class": "wrong",
+ "fields": [
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 5,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 7,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 8,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 4,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 8,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-B:Butter Chicken",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-B:Lamb Korma",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Butter Chicken",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Palak Paneer",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Lamb Korma",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Dal Tadka",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Vegetable Biryani",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Garlic Naan",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Samosa (2)",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Gulab Jamun",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Mango Lassi",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  }
+ ],
+ "groups": {
+  "accuracy": {
+   "right": 35,
+   "unread": 0,
+   "wrong": 5
+  },
+  "safety": {
+   "right": 11,
+   "unread": 0,
+   "wrong": 0
+  }
+ },
+ "model": "app-build3",
+ "pages_parsed": 4,
+ "right": 86,
+ "unread": 0,
+ "wrong": 5
+}

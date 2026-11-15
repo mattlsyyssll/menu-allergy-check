@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Spring Rolls
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some spring rolls come with a peanut dip.
+Dish: Papaya Salad
+Label: Ask the kitchen
+Reason: Peanut may be hidden: papaya salad often has crushed peanuts on top.
+Dish: Chicken Satay
+Label: Ask the kitchen
+Reason: Peanut may be hidden: satay sauce is usually made with ground peanuts.
+Dish: Tom Yum Shrimp Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pad Thai
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient).
+Dish: Green Curry Chicken
+Label: Ask the kitchen
+Reason: Peanut may be hidden: many curries use peanut or nut pastes.
+Dish: Egg Fried Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Steamed Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fresh Mango Slices
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Thai Iced Tea
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Spring Rolls
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Papaya Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chicken Satay
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tom Yum Shrimp Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pad Thai
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Green Curry Chicken
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: many curries use cashew or almond pastes.
+Dish: Egg Fried Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Steamed Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fresh Mango Slices
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Thai Iced Tea
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-C
+Dish: Spring Rolls
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("wheat" in the listed ingredient).
+Dish: Papaya Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chicken Satay
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tom Yum Shrimp Soup
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("brot" in the listed ingredient).
+Dish: Pad Thai
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient).
+Dish: Green Curry Chicken
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Egg Fried Rice
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the dish name). | Soy is listed on the menu ("soy" in the listed ingredient).
+Dish: Steamed Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fresh Mango Slices
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Thai Iced Tea
+Label: Avoid
+Reason: Milk is listed on the menu ("milk" in the listed ingredient).
+=== PROFILE-D
+Dish: Spring Rolls
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: spring rolls often contain shrimp.
+Dish: Papaya Salad
+Label: Ask the kitchen
+Reason: Fish may be hidden: papaya salad dressing often contains fish sauce. | Crustaceans may be hidden: papaya salad often has dried shrimp.
+Dish: Chicken Satay
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tom Yum Shrimp Soup
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("shrimp" in the dish name).
+Dish: Pad Thai
+Label: Ask the kitchen
+Reason: Fish may be hidden: pad thai sauce contains fish sauce. | Crustaceans may be hidden: pad thai often has dried shrimp.
+Dish: Green Curry Chicken
+Label: Ask the kitchen
+Reason: Fish may be hidden: many Thai and Vietnamese curries contain fish sauce or shrimp paste. | Crustaceans may be hidden: many Southeast Asian curries contain shrimp paste.
+Dish: Egg Fried Rice
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: fried rice sometimes contains shrimp.
+Dish: Steamed Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fresh Mango Slices
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Thai Iced Tea
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

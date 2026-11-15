@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Taramosalata
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Skordalia
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tzatziki
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gigantes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Horiatiki
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kolokithokeftedes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pastitsio
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lamb Kleftiko
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Garides Saganaki
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fish of the Day
+Label: Ask the kitchen
+Reason: "Fish of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Galaktoboureko
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Karydopita
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Taramosalata
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Skordalia
+Label: Ask the kitchen
+Reason: Tree nuts: common versions of this dish contain it (Walnuts or almonds are often used). | Tree nuts: walnut is sometimes in this dish (a typical recipe, not the menu).
+Dish: Tzatziki
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gigantes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Horiatiki
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kolokithokeftedes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pastitsio
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lamb Kleftiko
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Garides Saganaki
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fish of the Day
+Label: Ask the kitchen
+Reason: "Fish of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Galaktoboureko
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Karydopita
+Label: Avoid
+Reason: Tree nuts: walnut is an essential part of a typical recipe for this dish.
+=== PROFILE-C
+Dish: Taramosalata
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pita" in the listed ingredient). | Wheat / gluten: this dish usually contains it (Bread is used as the base). | Wheat / gluten: bread is an essential part of a typical recipe for this dish.
+Dish: Skordalia
+Label: Ask the kitchen
+Reason: Wheat / gluten: common versions of this dish contain it (Bread is a common base ingredient). | Wheat / gluten: bread is commonly in this dish (a typical recipe, not the menu).
+Dish: Tzatziki
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pita" in the listed ingredient). | Milk: this dish usually contains it (Strained yogurt is essential). | Milk: yogurt is an essential part of a typical recipe for this dish.
+Dish: Gigantes
+Label: Ask the kitchen
+Reason: Milk: feta cheese is sometimes in this dish (a typical recipe, not the menu).
+Dish: Horiatiki
+Label: Avoid
+Reason: Milk is listed on the menu ("feta" in the listed ingredient). | Milk: this dish usually contains it (Feta cheese is essential). | Milk: feta cheese is an essential part of a typical recipe for this dish.
+Dish: Kolokithokeftedes
+Label: Avoid
+Reason: Milk is listed on the menu ("feta" in the listed ingredient). | Milk: this dish usually contains it (Feta cheese is typically mixed into the fritters). | Egg: this dish usually contains it (Eggs are used to bind the mixture). | Milk: feta cheese is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Wheat / gluten: flour is an essential part of a typical recipe for this dish.
+Dish: Pastitsio
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pasta" in the listed ingredient). | Milk: this dish usually contains it (Bechamel sauce and cheese topping contain dairy). | Wheat / gluten: this dish usually contains it (Pasta and flour in bechamel contain gluten). | Wheat / gluten: pasta is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: cheese is an essential part of a typical recipe for this dish.
+Dish: Lamb Kleftiko
+Label: Ask the kitchen
+Reason: Milk: common versions of this dish contain it (Feta cheese is frequently added inside the parchment). | Milk: feta cheese is commonly in this dish (a typical recipe, not the menu).
+Dish: Garides Saganaki
+Label: Avoid
+Reason: Milk is listed on the menu ("feta" in the listed ingredient). | Milk: this dish usually contains it (Feta cheese is essential). | Milk: feta cheese is an essential part of a typical recipe for this dish.
+Dish: Fish of the Day
+Label: Ask the kitchen
+Reason: "Fish of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Galaktoboureko
+Label: Avoid
+Reason: Milk is listed on the menu ("custard" in the listed ingredient). | Wheat / gluten is listed on the menu ("semolina" in the listed ingredient). | Milk: this dish usually contains it (Milk and butter are essential for custard and pastry). | Egg: this dish usually contains it (Eggs are essential in the custard filling). | Wheat / gluten: this dish usually contains it (Filo pastry contains gluten). | Milk: milk is an essential part of a typical recipe for this dish. | Wheat / gluten: semolina is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Karydopita
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient). | Egg: this dish usually contains it (Eggs are essential for the sponge structure). | Wheat / gluten: this dish usually contains it (Flour and breadcrumbs contain gluten). | Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Taramosalata
+Label: Avoid
+Reason: Fish: fish roe is an essential part of a typical recipe for this dish.
+Dish: Skordalia
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tzatziki
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gigantes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Horiatiki
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kolokithokeftedes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pastitsio
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lamb Kleftiko
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Garides Saganaki
+Label: Avoid
+Reason: Crustaceans: shrimp is an essential part of a typical recipe for this dish.
+Dish: Fish of the Day
+Label: Avoid
+Reason: Fish is listed on the menu ("fish" in the dish name).
+Dish: Galaktoboureko
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Karydopita
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

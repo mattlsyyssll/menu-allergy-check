@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Bibimbap
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Kimchi Stew
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Barley Tea
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Bulgogi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Japchae
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tteokbokki
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Seafood Pancake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Hotteok
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient).
+Dish: Cold Cucumber Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Bibimbap
+Label: Avoid
+Reason: Sesame is listed on the menu ("sesame" in the listed ingredient).
+Dish: Kimchi Stew
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Barley Tea
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Bulgogi
+Label: Avoid
+Reason: Sesame is listed on the menu ("sesame" in the listed ingredient).
+Dish: Japchae
+Label: Avoid
+Reason: Sesame is listed on the menu ("sesame" in the listed ingredient).
+Dish: Tteokbokki
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Seafood Pancake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Hotteok
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cold Cucumber Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-C
+Dish: Bibimbap
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient).
+Dish: Kimchi Stew
+Label: Avoid
+Reason: Soy is listed on the menu ("tofu" in the listed ingredient).
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Barley Tea
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("barley" in the dish name).
+Dish: Bulgogi
+Label: Avoid
+Reason: Soy is listed on the menu ("soy" in the listed ingredient).
+Dish: Japchae
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("noodle" in the listed ingredient). | Soy is listed on the menu ("soy" in the listed ingredient).
+Dish: Tteokbokki
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: cake contains wheat flour.
+Dish: Seafood Pancake
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("flour" in the listed ingredient).
+Dish: Hotteok
+Label: Ask the kitchen
+Reason: Egg may be hidden: pancakes are made with egg.
+Dish: Cold Cucumber Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-D
+Dish: Bibimbap
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Kimchi Stew
+Label: Ask the kitchen
+Reason: Fish may be hidden: kimchi is often made with fish sauce or shrimp. | Crustaceans may be hidden: kimchi often contains salted shrimp. | Molluscs may be hidden: kimchi sometimes contains oysters.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Barley Tea
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Bulgogi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Japchae
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tteokbokki
+Label: Avoid
+Reason: Fish is listed on the menu ("fish" in the listed ingredient).
+Dish: Seafood Pancake
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("seafood" in the dish name). | Molluscs is listed on the menu ("seafood" in the dish name).
+Dish: Hotteok
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cold Cucumber Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

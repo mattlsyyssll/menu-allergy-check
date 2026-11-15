@@ -1,0 +1,113 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Banana Bread
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Oat Cookie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Nutella Crêpe
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Sourdough Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Hummus and Veggie Wrap
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tuna Sandwich
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fruit Cup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Green Smoothie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Black Coffee
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Banana Bread
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("walnut" in the listed ingredient).
+Dish: Oat Cookie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Nutella Crêpe
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("nutella" in the dish name).
+Dish: Sourdough Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Hummus and Veggie Wrap
+Label: Ask the kitchen
+Reason: Sesame may be hidden: hummus is made with tahini (sesame paste).
+Dish: Tuna Sandwich
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fruit Cup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Green Smoothie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Black Coffee
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-C
+Dish: Banana Bread
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Egg is listed on the menu ("egg" in the listed ingredient). | Wheat / gluten is listed on the menu ("bread" in the dish name).
+Dish: Oat Cookie
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Wheat / gluten is listed on the menu ("oat" in the dish name).
+Dish: Nutella Crêpe
+Label: Ask the kitchen
+Reason: Milk may be hidden: chocolate often contains milk powder. | Egg may be hidden: pancakes are made with egg.
+Dish: Sourdough Slice
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Wheat / gluten is listed on the menu ("sourdough" in the dish name).
+Dish: Hummus and Veggie Wrap
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("tortilla" in the listed ingredient).
+Dish: Tuna Sandwich
+Label: Avoid
+Reason: Egg is listed on the menu ("mayo" in the listed ingredient). | Wheat / gluten is listed on the menu ("bread" in the listed ingredient).
+Dish: Fruit Cup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Green Smoothie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Black Coffee
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-D
+Dish: Banana Bread
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Oat Cookie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Nutella Crêpe
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Sourdough Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Hummus and Veggie Wrap
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tuna Sandwich
+Label: Avoid
+Reason: Fish is listed on the menu ("tuna" in the dish name).
+Dish: Fruit Cup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Green Smoothie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Black Coffee
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

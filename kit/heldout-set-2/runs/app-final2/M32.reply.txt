@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Croissant au Beurre
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pain au Chocolat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baguette Tradition
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pain aux Noix
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Quiche Poireaux-Chèvre
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Velouté de Polimarron
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Financier
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Macarons Box of Six
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Éclair au Café
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tarte du Jour
+Label: Ask the kitchen
+Reason: "Tarte du Jour" changes from day to day or cook to cook ("du jour"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Compote de Pommes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Jus d'Orange Pressé
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Croissant au Beurre
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pain au Chocolat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baguette Tradition
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pain aux Noix
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("noix" in the dish name). | Tree nuts: this dish usually contains it (contains walnuts as primary ingredient). | Tree nuts: walnut is an essential part of a typical recipe for this dish.
+Dish: Quiche Poireaux-Chèvre
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Velouté de Polimarron
+Label: Ask the kitchen
+Reason: Tree nuts: chestnut is sometimes in this dish (a typical recipe, not the menu).
+Dish: Financier
+Label: Avoid
+Reason: Tree nuts: almond flour is an essential part of a typical recipe for this dish.
+Dish: Macarons Box of Six
+Label: Avoid
+Reason: Tree nuts: this dish usually contains it (almond flour is base for shells). | Tree nuts: almond flour is an essential part of a typical recipe for this dish.
+Dish: Éclair au Café
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tarte du Jour
+Label: Ask the kitchen
+Reason: "Tarte du Jour" changes from day to day or cook to cook ("du jour"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Compote de Pommes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Jus d'Orange Pressé
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Croissant au Beurre
+Label: Avoid
+Reason: Milk is listed on the menu ("beurre" in the dish name). | Wheat / gluten is listed on the menu ("croissant" in the dish name). | Milk: this dish usually contains it (butter is essential in the dough). | Wheat / gluten: this dish usually contains it (wheat flour is the main ingredient). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Pain au Chocolat
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pain" in the dish name). | Milk: this dish usually contains it (butter in dough and dairy in chocolate). | Wheat / gluten: this dish usually contains it (wheat flour is base of dough). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Baguette Tradition
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("baguette" in the dish name). | Wheat / gluten: this dish usually contains it (made from wheat flour). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Pain aux Noix
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pain" in the dish name). | Wheat / gluten: this dish usually contains it (wheat flour base). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Quiche Poireaux-Chèvre
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Milk: this dish usually contains it (contains goat cheese, milk, and cream). | Egg: this dish usually contains it (eggs are essential for the quiche custard). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Milk: goat cheese is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: heavy cream is an essential part of a typical recipe for this dish.
+Dish: Velouté de Polimarron
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("crouton" in the listed ingredient).
+Dish: Financier
+Label: Avoid
+Reason: Egg: this dish usually contains it (egg whites used extensively). | Wheat / gluten: this dish usually contains it (wheat flour used in batter). | Wheat / gluten: almond flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Egg: egg white is an essential part of a typical recipe for this dish. | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Macarons Box of Six
+Label: Avoid
+Reason: Wheat / gluten: almond flour is an essential part of a typical recipe for this dish. | Egg: egg white is an essential part of a typical recipe for this dish.
+Dish: Éclair au Café
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient). | Milk: this dish usually contains it (milk and butter in pastry cream and dough). | Egg: this dish usually contains it (eggs in choux pastry and pastry cream). | Wheat / gluten: this dish usually contains it (wheat flour in choux pastry). | Milk: butter is an essential part of a typical recipe for this dish. | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish. | Egg: egg yolk is an essential part of a typical recipe for this dish.
+Dish: Tarte du Jour
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: tart cases are wheat pastry. | "Tarte du Jour" changes from day to day or cook to cook ("du jour"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Compote de Pommes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Jus d'Orange Pressé
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Croissant au Beurre
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pain au Chocolat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baguette Tradition
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pain aux Noix
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Quiche Poireaux-Chèvre
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Velouté de Polimarron
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Financier
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Macarons Box of Six
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Éclair au Café
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tarte du Jour
+Label: Ask the kitchen
+Reason: "Tarte du Jour" changes from day to day or cook to cook ("du jour"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Compote de Pommes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Jus d'Orange Pressé
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

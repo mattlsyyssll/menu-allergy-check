@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Hummus
+Label: Ask the kitchen
+Reason: Peanut may be hidden: the menu mentions nuts without saying which (found in a typical recipe: pine nut).
+Dish: Baba Ghanoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Falafel Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tabbouleh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fattoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Labneh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Shawarma Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Lamb Skewers
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baklava (3)
+Label: Ask the kitchen
+Reason: Peanut: common versions of this dish contain it (Peanuts sometimes substitute tree nuts in cheap variants).
+Dish: Halva Slice
+Label: Ask the kitchen
+Reason: Peanut may be hidden: sesame fillings in sweets and sauces are sometimes extended with peanut.
+=== PROFILE-B
+Dish: Hummus
+Label: Avoid
+Reason: Sesame: this dish usually contains it (Contains tahini paste). | Sesame: tahini is an essential part of a typical recipe for this dish.
+Dish: Baba Ghanoush
+Label: Avoid
+Reason: Sesame: tahini is an essential part of a typical recipe for this dish.
+Dish: Falafel Plate
+Label: Avoid
+Reason: Sesame: this dish usually contains it (Tahini sauce is standard and seeds inside). | Sesame: tahini is an essential part of a typical recipe for this dish.
+Dish: Tabbouleh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fattoush
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (Sumac dressing may include sesame or tahini variant).
+Dish: Labneh
+Label: Ask the kitchen
+Reason: Sesame may be hidden: za'atar contains sesame seeds (found in a typical recipe: zaatar).
+Dish: Chicken Shawarma Plate
+Label: Avoid
+Reason: Sesame: this dish usually contains it (Served with tahini sauce). | Sesame: tahini is an essential part of a typical recipe for this dish.
+Dish: Grilled Lamb Skewers
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (Served with tahini or sesame garnish).
+Dish: Baklava (3)
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pistachio" in the listed ingredient). | Tree nuts: this dish usually contains it (Contains walnuts, pistachios or almonds). | Tree nuts: walnut is an essential part of a typical recipe for this dish. | Tree nuts: pistachio is an essential part of a typical recipe for this dish.
+Dish: Halva Slice
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pistachio" in the listed ingredient). | Sesame is listed on the menu ("halva" in the dish name). | Sesame: this dish usually contains it (Made primarily of tahini / sesame paste). | Sesame: tahini is an essential part of a typical recipe for this dish.
+=== PROFILE-C
+Dish: Hummus
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baba Ghanoush
+Label: Ask the kitchen
+Reason: Milk: common versions of this dish contain it (Yogurt is sometimes added). | Milk: yogurt is sometimes in this dish (a typical recipe, not the menu).
+Dish: Falafel Plate
+Label: Ask the kitchen
+Reason: Egg may be hidden: fritters are made with egg batter. | Wheat / gluten may be hidden: some falafel contains flour. | Milk: common versions of this dish contain it (Served with yogurt-based sauce or side). | Wheat / gluten: common versions of this dish contain it (Often served with pita bread or wheat flour binder). | Wheat / gluten: pita bread is commonly in this dish (a typical recipe, not the menu).
+Dish: Tabbouleh
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bulgur" in the listed ingredient). | Wheat / gluten: this dish usually contains it (Contains bulgur wheat). | Wheat / gluten: bulgur is an essential part of a typical recipe for this dish.
+Dish: Fattoush
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pita" in the listed ingredient). | Wheat / gluten: this dish usually contains it (Contains toasted pita bread pieces). | Wheat / gluten: pita bread is an essential part of a typical recipe for this dish.
+Dish: Labneh
+Label: Avoid
+Reason: Milk is listed on the menu ("yogurt" in the listed ingredient). | Milk: this dish usually contains it (Made from strained yogurt (dairy)). | Milk: yogurt is an essential part of a typical recipe for this dish.
+Dish: Chicken Shawarma Plate
+Label: Ask the kitchen
+Reason: Soy may be hidden: marinades often contain soy sauce. | Milk: common versions of this dish contain it (Yogurt often used in marinade or garlic sauce (toum)). | Egg: common versions of this dish contain it (Egg used in toum garlic sauce emulsion). | Wheat / gluten: common versions of this dish contain it (Served with flatbread or pita). | Milk: yogurt is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten: pita bread is commonly in this dish (a typical recipe, not the menu).
+Dish: Grilled Lamb Skewers
+Label: Ask the kitchen
+Reason: Wheat / gluten: common versions of this dish contain it (Served with flatbread).
+Dish: Baklava (3)
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (Phyllo pastry is made from wheat flour). | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Halva Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Hummus
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baba Ghanoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Falafel Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tabbouleh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fattoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Labneh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Shawarma Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Lamb Skewers
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baklava (3)
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Halva Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

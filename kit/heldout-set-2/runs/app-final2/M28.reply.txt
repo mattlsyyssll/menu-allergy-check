@@ -1,0 +1,137 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: 순두부찌개
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 김치볶음밥
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 냉면
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 갈비탕
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 오늘의 반찬 세트
+Label: Ask the kitchen
+Reason: "오늘의 반찬 세트" changes from day to day or cook to cook ("오늘의"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: 삼겹살
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 양념치킨
+Label: Ask the kitchen
+Reason: Peanut: a typical version usually contains it (crushed peanuts sprinkled on top), but the printed ingredients do not show it. Ask the kitchen. | Peanut: peanut is commonly in this dish (a typical recipe, not the menu).
+Dish: 김치전
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 고기만두
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 수정과
+Label: Ask the kitchen
+Reason: Peanut may be hidden: the menu mentions nuts without saying which (found in a typical recipe: pine nut).
+Dish: 군고구마
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: 순두부찌개
+Label: Avoid
+Reason: Sesame: sesame oil is an essential part of a typical recipe for this dish.
+Dish: 김치볶음밥
+Label: Avoid
+Reason: Sesame is listed on the menu ("참기름" in the listed ingredient). | Sesame: this dish usually contains it (sesame oil and seeds used as seasoning and garnish). | Sesame: sesame oil is an essential part of a typical recipe for this dish.
+Dish: 냉면
+Label: Ask the kitchen
+Reason: Sesame: a typical version usually contains it (sesame oil and seeds used as garnish), but the printed ingredients do not show it. Ask the kitchen.
+Dish: 갈비탕
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (sesame oil or seeds used optionally).
+Dish: 오늘의 반찬 세트
+Label: Ask the kitchen
+Reason: "오늘의 반찬 세트" changes from day to day or cook to cook ("오늘의"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: 삼겹살
+Label: Avoid
+Reason: Sesame: sesame oil is an essential part of a typical recipe for this dish.
+Dish: 양념치킨
+Label: Avoid
+Reason: Sesame: sesame seed is an essential part of a typical recipe for this dish.
+Dish: 김치전
+Label: Ask the kitchen
+Reason: Sesame: a typical version usually contains it (sesame oil used for frying and in dipping sauce), but the printed ingredients do not show it. Ask the kitchen. | Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: 고기만두
+Label: Avoid
+Reason: Sesame: this dish usually contains it (sesame oil used in filling and dipping sauce). | Sesame: sesame oil is an essential part of a typical recipe for this dish.
+Dish: 수정과
+Label: Ask the kitchen
+Reason: Tree nuts: pine nut is commonly in this dish (a typical recipe, not the menu). | Tree nuts may be hidden: the menu mentions nuts without saying which (found in a typical recipe: pine nut).
+Dish: 군고구마
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: 순두부찌개
+Label: Avoid
+Reason: Egg is listed on the menu ("계란" in the listed ingredient). | Soy is listed on the menu ("두부" in the dish name). | Egg: this dish usually contains it (often dropped raw into hot soup). | Soy: this dish usually contains it (contains tofu and soy sauce). | Soy: soft tofu is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 김치볶음밥
+Label: Avoid
+Reason: Egg is listed on the menu ("계란" in the listed ingredient). | Egg: this dish usually contains it (served with a fried egg on top).
+Dish: 냉면
+Label: Avoid
+Reason: Egg is listed on the menu ("계란" in the listed ingredient). | Wheat / gluten is listed on the menu ("국수" in the listed ingredient). | Egg: this dish usually contains it (served with a boiled egg half on top). | Wheat / gluten: buckwheat flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: 갈비탕
+Label: Ask the kitchen
+Reason: Wheat / gluten: common versions of this dish contain it (soy sauce used for seasoning may contain gluten). | Soy: a typical version usually contains it (seasoned with soy sauce and salt), but the printed ingredients do not show it. Ask the kitchen. | Soy: soy sauce is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten may be hidden: soy sauce is brewed with wheat (found in a typical recipe: soy sauce).
+Dish: 오늘의 반찬 세트
+Label: Ask the kitchen
+Reason: "오늘의 반찬 세트" changes from day to day or cook to cook ("오늘의"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: 삼겹살
+Label: Avoid
+Reason: Soy: this dish usually contains it (served with ssamjang containing soybean paste). | Soy: soybean paste is an essential part of a typical recipe for this dish.
+Dish: 양념치킨
+Label: Avoid
+Reason: Egg: this dish usually contains it (egg used in chicken batter). | Wheat / gluten: this dish usually contains it (wheat flour or starch used for batter and coating). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 김치전
+Label: Avoid
+Reason: Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 고기만두
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("만두" in the dish name). | Soy is listed on the menu ("간장" in the listed ingredient). | Wheat / gluten: this dish usually contains it (dumpling wrapper made from wheat flour). | Soy: this dish usually contains it (contains tofu and soy sauce). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 수정과
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 군고구마
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: 순두부찌개
+Label: Avoid
+Reason: Molluscs is listed on the menu ("바지락" in the listed ingredient).
+Dish: 김치볶음밥
+Label: Ask the kitchen
+Reason: Fish may be hidden: kimchi is often made with fish sauce or shrimp. | Crustaceans may be hidden: kimchi often contains salted shrimp. | Molluscs may be hidden: kimchi sometimes contains oysters. | Fish: common versions of this dish contain it (kimchi often contains fish sauce or salted shrimp). | Crustaceans: common versions of this dish contain it (kimchi often contains fermented shrimp). | Fish may be hidden: kimchi is often made with fish sauce or shrimp (found in a typical recipe: napa cabbage kimchi). | Crustaceans may be hidden: kimchi often contains salted shrimp (found in a typical recipe: napa cabbage kimchi). | Molluscs may be hidden: kimchi sometimes contains oysters (found in a typical recipe: napa cabbage kimchi). | Fish may be hidden: kimchi is often made with fish sauce or shrimp (found in a typical recipe: kimchi brine). | Crustaceans may be hidden: kimchi often contains salted shrimp (found in a typical recipe: kimchi brine). | Molluscs may be hidden: kimchi sometimes contains oysters (found in a typical recipe: kimchi brine).
+Dish: 냉면
+Label: Ask the kitchen
+Reason: Fish: common versions of this dish contain it (anchovy or fish stock sometimes used in broth).
+Dish: 갈비탕
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 오늘의 반찬 세트
+Label: Ask the kitchen
+Reason: "오늘의 반찬 세트" changes from day to day or cook to cook ("오늘의"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: 삼겹살
+Label: Ask the kitchen
+Reason: Fish may be hidden: kimchi is often made with fish sauce or shrimp. | Crustaceans may be hidden: kimchi often contains salted shrimp. | Molluscs may be hidden: kimchi sometimes contains oysters.
+Dish: 양념치킨
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 김치전
+Label: Avoid
+Reason: Molluscs is listed on the menu ("오징어" in the listed ingredient).
+Dish: 고기만두
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: dumpling fillings often contain shrimp.
+Dish: 수정과
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 군고구마
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Edamame
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Miso Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pork Gyoza
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Seaweed Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cucumber Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Salmon Sashimi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chicken Katsu
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Shrimp Tempura
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Mochi Ice Cream
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Edamame
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Miso Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pork Gyoza
+Label: Ask the kitchen
+Reason: Sesame may be hidden: dumpling fillings and dips often contain sesame oil.
+Dish: Seaweed Salad
+Label: Avoid
+Reason: Sesame is listed on the menu ("sesame" in the listed ingredient).
+Dish: Cucumber Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Salmon Sashimi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chicken Katsu
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Shrimp Tempura
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Mochi Ice Cream
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-C
+Dish: Edamame
+Label: Avoid
+Reason: Soy is listed on the menu ("edamame" in the dish name).
+Dish: Miso Soup
+Label: Avoid
+Reason: Soy is listed on the menu ("miso" in the dish name).
+Dish: Pork Gyoza
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: gyoza wrappers are made with wheat. | Soy may be hidden: gyoza dipping sauce is soy based.
+Dish: Seaweed Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cucumber Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Salmon Sashimi
+Label: Ask the kitchen
+Reason: Soy may be hidden: sashimi is served with soy sauce.
+Dish: Chicken Katsu
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("panko" in the listed ingredient).
+Dish: Shrimp Tempura
+Label: Ask the kitchen
+Reason: Egg may be hidden: tempura batter sometimes contains egg. | Wheat / gluten may be hidden: tempura batter is made with wheat flour.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Mochi Ice Cream
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the dish name).
+=== PROFILE-D
+Dish: Edamame
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Miso Soup
+Label: Ask the kitchen
+Reason: Fish may be hidden: miso soup is usually made with fish stock (dashi).
+Dish: Pork Gyoza
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: dumpling fillings often contain shrimp.
+Dish: Seaweed Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cucumber Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Salmon Sashimi
+Label: Avoid
+Reason: Fish is listed on the menu ("salmon" in the dish name).
+Dish: Chicken Katsu
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Shrimp Tempura
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("shrimp" in the dish name).
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Mochi Ice Cream
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

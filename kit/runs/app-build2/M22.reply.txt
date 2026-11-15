@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Beef with Oyster Sauce
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Caramel Pork
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cashew Chicken
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pad See Ew
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tahini Noodles
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Worcestershire Mushrooms
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Steamed Bao
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Mango Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fortune Cookies
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Beef with Oyster Sauce
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Caramel Pork
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cashew Chicken
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("cashew" in the dish name).
+Dish: Pad See Ew
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tahini Noodles
+Label: Avoid
+Reason: Sesame is listed on the menu ("tahini" in the dish name).
+Dish: Worcestershire Mushrooms
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Steamed Bao
+Label: Ask the kitchen
+Reason: Sesame may be hidden: hoisin sauce can contain sesame.
+Dish: Mango Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fortune Cookies
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-C
+Dish: Beef with Oyster Sauce
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Caramel Pork
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Cashew Chicken
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pad See Ew
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Soy is listed on the menu ("soy" in the listed ingredient).
+Dish: Tahini Noodles
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("noodle" in the dish name).
+Dish: Worcestershire Mushrooms
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Steamed Bao
+Label: Avoid
+Reason: Soy is listed on the menu ("hoisin" in the listed ingredient).
+Dish: Mango Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fortune Cookies
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: cookies contain wheat flour.
+=== PROFILE-D
+Dish: Beef with Oyster Sauce
+Label: Avoid
+Reason: Molluscs is listed on the menu ("oyster" in the dish name).
+Dish: Caramel Pork
+Label: Avoid
+Reason: Fish is listed on the menu ("fish" in the listed ingredient).
+Dish: Cashew Chicken
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pad See Ew
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tahini Noodles
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Worcestershire Mushrooms
+Label: Avoid
+Reason: Fish is listed on the menu ("worcestershire" in the dish name).
+Dish: Steamed Bao
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Mango Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fortune Cookies
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

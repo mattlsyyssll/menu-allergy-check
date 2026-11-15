@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Butter Chicken
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chana Masala
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Palak Paneer
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Lamb Korma
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Dal Tadka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Vegetable Biryani
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Garlic Naan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Samosa (2)
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Gulab Jamun
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Mango Lassi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Butter Chicken
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: butter chicken sauce often uses cashew paste.
+Dish: Chana Masala
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Palak Paneer
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Lamb Korma
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("cashew" in the listed ingredient).
+Dish: Dal Tadka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Vegetable Biryani
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: biryani often has cashews or almonds.
+Dish: Garlic Naan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Samosa (2)
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Gulab Jamun
+Label: Ask the kitchen
+Reason: Sesame may be hidden: dumpling fillings and dips often contain sesame oil.
+Dish: Mango Lassi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-C
+Dish: Butter Chicken
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the dish name).
+Dish: Chana Masala
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Palak Paneer
+Label: Avoid
+Reason: Milk is listed on the menu ("paneer" in the dish name).
+Dish: Lamb Korma
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient).
+Dish: Dal Tadka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Vegetable Biryani
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Garlic Naan
+Label: Ask the kitchen
+Reason: Milk may be hidden: naan is often made with milk or yogurt. | Wheat / gluten may be hidden: naan is wheat bread.
+Dish: Samosa (2)
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Gulab Jamun
+Label: Avoid
+Reason: Milk is listed on the menu ("milk" in the listed ingredient).
+Dish: Mango Lassi
+Label: Avoid
+Reason: Milk is listed on the menu ("lassi" in the dish name).
+=== PROFILE-D
+Dish: Butter Chicken
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chana Masala
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Palak Paneer
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Lamb Korma
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Dal Tadka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Vegetable Biryani
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Garlic Naan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Samosa (2)
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Gulab Jamun
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: dumpling fillings often contain shrimp.
+Dish: Mango Lassi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

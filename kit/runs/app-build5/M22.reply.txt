@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Beef with Oyster Sauce
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Caramel Pork
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cashew Chicken
+Label: Ask the kitchen
+Reason: Peanut: common versions of this dish contain it (Cross-contamination or peanut oil used).
+Dish: Pad See Ew
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tahini Noodles
+Label: Ask the kitchen
+Reason: Peanut: common versions of this dish contain it (Peanut butter is sometimes mixed in).
+Dish: Worcestershire Mushrooms
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Steamed Bao
+Label: Ask the kitchen
+Reason: Peanut may be hidden: hoisin sauce can contain peanut.
+Dish: Mango Salad
+Label: Avoid
+Reason: Peanut: peanut is an essential part of a typical recipe for this dish.
+Dish: Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fortune Cookies
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Beef with Oyster Sauce
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (Sesame oil often used in marinade). | Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: Caramel Pork
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cashew Chicken
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("cashew" in the dish name). | Tree nuts: this dish usually contains it (Contains cashews). | Tree nuts: cashew is an essential part of a typical recipe for this dish.
+Dish: Pad See Ew
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tahini Noodles
+Label: Avoid
+Reason: Sesame is listed on the menu ("tahini" in the dish name). | Sesame: this dish usually contains it (Tahini is made from sesame seeds). | Sesame: tahini is an essential part of a typical recipe for this dish.
+Dish: Worcestershire Mushrooms
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Steamed Bao
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: some hoisin sauces contain nut paste. | Sesame may be hidden: hoisin sauce can contain sesame. | Sesame: common versions of this dish contain it (Sesame oil often used in fillings).
+Dish: Mango Salad
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dressings often contain sesame oil. | Sesame: common versions of this dish contain it (Sesame seeds often sprinkled on top).
+Dish: Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fortune Cookies
+Label: Ask the kitchen
+Reason: Sesame may be hidden: some fortune cookies are made with sesame.
+=== PROFILE-C
+Dish: Beef with Oyster Sauce
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (Soy sauce and oyster sauce contain wheat). | Soy: this dish usually contains it (Soy sauce and oyster sauce contain soy). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Caramel Pork
+Label: Ask the kitchen
+Reason: Milk may be hidden: caramel is usually made with butter and cream. | Wheat / gluten: common versions of this dish contain it (Fish sauce or soy sauce may contain wheat). | Soy: common versions of this dish contain it (Soy sauce used in some regional variants).
+Dish: Cashew Chicken
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (Soy sauce contains wheat). | Soy: this dish usually contains it (Soy sauce used in stir-fry sauce). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Pad See Ew
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Soy is listed on the menu ("soy" in the listed ingredient). | Egg: this dish usually contains it (Eggs are scrambled into the noodles). | Wheat / gluten: this dish usually contains it (Soy sauce contains wheat). | Soy: this dish usually contains it (Soy sauce is essential for seasoning). | Egg: egg is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish. | Soy: dark soy sauce is an essential part of a typical recipe for this dish.
+Dish: Tahini Noodles
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("noodle" in the dish name). | Wheat / gluten: this dish usually contains it (Wheat noodles and soy sauce contain wheat). | Wheat / gluten: noodle is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Worcestershire Mushrooms
+Label: Ask the kitchen
+Reason: Soy may be hidden: worcestershire sauce can contain soy. | Wheat / gluten: a typical version usually contains it (Worcestershire sauce contains malt vinegar from barley/wheat), but the printed ingredients do not show it. Ask the kitchen. | Soy may be hidden: worcestershire sauce can contain soy (found in a typical recipe: worcestershire sauce). | Milk: butter is commonly in this dish (a typical recipe, not the menu).
+Dish: Steamed Bao
+Label: Avoid
+Reason: Soy is listed on the menu ("hoisin" in the listed ingredient). | Wheat / gluten: this dish usually contains it (Wheat flour is the base of the bun). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Mango Salad
+Label: Ask the kitchen
+Reason: Wheat / gluten: common versions of this dish contain it (Soy sauce or fish sauce may contain wheat). | Soy: common versions of this dish contain it (Soy sauce used in dressing variants).
+Dish: Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fortune Cookies
+Label: Avoid
+Reason: Egg: this dish usually contains it (Egg whites are essential for crisp structure). | Wheat / gluten: this dish usually contains it (Wheat flour is the main ingredient). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: egg white is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Beef with Oyster Sauce
+Label: Avoid
+Reason: Molluscs is listed on the menu ("oyster" in the dish name). | Molluscs: this dish usually contains it (Oyster sauce is made from oysters). | Molluscs: oyster sauce is an essential part of a typical recipe for this dish.
+Dish: Caramel Pork
+Label: Avoid
+Reason: Fish is listed on the menu ("fish" in the listed ingredient). | Fish: this dish usually contains it (Fish sauce is essential for Vietnamese style). | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Cashew Chicken
+Label: Ask the kitchen
+Reason: Molluscs may be hidden: some wok sauces contain oyster sauce. | Fish: common versions of this dish contain it (Oyster sauce often contains fish extract). | Molluscs: common versions of this dish contain it (Oyster sauce used in sauce). | Molluscs: oyster sauce is commonly in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: some oyster sauces contain shrimp or other shellfish extract (found in a typical recipe: oyster sauce). | Molluscs may be hidden: oyster sauce is made from oysters (found in a typical recipe: oyster sauce).
+Dish: Pad See Ew
+Label: Ask the kitchen
+Reason: Fish: common versions of this dish contain it (Fish sauce or oyster sauce often used). | Molluscs: common versions of this dish contain it (Oyster sauce often used in stir-fry). | Fish: fish sauce is commonly in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: some fish sauce blends and dipping sauces are made with shrimp (found in a typical recipe: fish sauce). | Molluscs: oyster sauce is commonly in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: some oyster sauces contain shrimp or other shellfish extract (found in a typical recipe: oyster sauce). | Molluscs may be hidden: oyster sauce is made from oysters (found in a typical recipe: oyster sauce).
+Dish: Tahini Noodles
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Worcestershire Mushrooms
+Label: Avoid
+Reason: Fish is listed on the menu ("worcestershire" in the dish name). | Fish: this dish usually contains it (Worcestershire sauce contains anchovies). | Fish: worcestershire sauce is an essential part of a typical recipe for this dish.
+Dish: Steamed Bao
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Mango Salad
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Jasmine Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fortune Cookies
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

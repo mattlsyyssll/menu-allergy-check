@@ -1,0 +1,32 @@
+{
+ "case": "M06",
+ "model": "app-build2",
+ "pass": true,
+ "rules": [
+  {
+   "detail": "4 pages parsed",
+   "name": "pages_parsed",
+   "ok": true
+  },
+  {
+   "detail": "all key pages present",
+   "name": "required_pages",
+   "ok": true
+  },
+  {
+   "detail": "0 cloud requests read",
+   "name": "cloud_log_readable",
+   "ok": true
+  },
+  {
+   "detail": "no allergy term in 0 cloud requests",
+   "name": "privacy_allergy_terms",
+   "ok": true
+  },
+  {
+   "detail": "no image data in 0 cloud requests",
+   "name": "privacy_image_data",
+   "ok": true
+  }
+ ]
+}

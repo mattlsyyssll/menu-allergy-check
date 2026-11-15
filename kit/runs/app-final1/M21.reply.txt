@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Spanakopita
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Greek Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Hummus
+Label: Ask the kitchen
+Reason: Peanut may be hidden: the menu mentions nuts without saying which (found in a typical recipe: pine nut).
+Dish: Dolmades
+Label: Ask the kitchen
+Reason: Peanut may be hidden: the menu mentions nuts without saying which (found in a typical recipe: pine nut).
+Dish: Moussaka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Souvlaki Pita
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baklava
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Loukoumades
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sesame Halva
+Label: Ask the kitchen
+Reason: Peanut may be hidden: sesame fillings in sweets and sauces are sometimes extended with peanut.
+Dish: Grilled Octopus
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Spanakopita
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Greek Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Hummus
+Label: Avoid
+Reason: Sesame: tahini is an essential part of a typical recipe for this dish.
+Dish: Dolmades
+Label: Ask the kitchen
+Reason: Tree nuts: pine nut is sometimes in this dish (a typical recipe, not the menu). | Tree nuts may be hidden: the menu mentions nuts without saying which (found in a typical recipe: pine nut).
+Dish: Moussaka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Souvlaki Pita
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baklava
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("walnut" in the listed ingredient). | Tree nuts: walnut is an essential part of a typical recipe for this dish.
+Dish: Loukoumades
+Label: Ask the kitchen
+Reason: Tree nuts: walnut is commonly in this dish (a typical recipe, not the menu). | Sesame: sesame seed is sometimes in this dish (a typical recipe, not the menu).
+Dish: Sesame Halva
+Label: Avoid
+Reason: Sesame is listed on the menu ("sesame" in the dish name). | Sesame: tahini is an essential part of a typical recipe for this dish.
+Dish: Grilled Octopus
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Spanakopita
+Label: Avoid
+Reason: Milk is listed on the menu ("feta" in the listed ingredient). | Milk: feta cheese is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Greek Salad
+Label: Avoid
+Reason: Milk is listed on the menu ("feta" in the listed ingredient). | Milk: feta cheese is an essential part of a typical recipe for this dish.
+Dish: Hummus
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dolmades
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Moussaka
+Label: Avoid
+Reason: Milk: butter is an essential part of a typical recipe for this dish. | Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish.
+Dish: Chicken Souvlaki Pita
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pita" in the dish name). | Wheat / gluten: pita bread is an essential part of a typical recipe for this dish.
+Dish: Baklava
+Label: Avoid
+Reason: Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Loukoumades
+Label: Avoid
+Reason: Wheat / gluten: flour is an essential part of a typical recipe for this dish.
+Dish: Sesame Halva
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Octopus
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Spanakopita
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Greek Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Hummus
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dolmades
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Moussaka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Souvlaki Pita
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baklava
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Loukoumades
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sesame Halva
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Octopus
+Label: Avoid
+Reason: Molluscs is listed on the menu ("octopus" in the dish name). | Molluscs: octopus is an essential part of a typical recipe for this dish.

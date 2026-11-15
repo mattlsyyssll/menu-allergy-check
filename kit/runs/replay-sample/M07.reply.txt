@@ -1,0 +1,131 @@
+SYNTHETIC SAMPLE: made from the answer key by tests/make_replay_sample.py to test the scorer with no model. Not model output. Case M07, variant: over-cautious: Ask -> Avoid, clean -> Ask.
+STATUS: PAGES
+
+=== PROFILE-A
+Dish: Edamame
+Label: Ask the kitchen
+Reason: test
+Dish: Miso Soup
+Label: Ask the kitchen
+Reason: test
+Dish: Pork Gyoza
+Label: Ask the kitchen
+Reason: test
+Dish: Seaweed Salad
+Label: Ask the kitchen
+Reason: test
+Dish: Cucumber Salad
+Label: Ask the kitchen
+Reason: test
+Dish: Salmon Sashimi
+Label: Ask the kitchen
+Reason: test
+Dish: Chicken Katsu
+Label: Ask the kitchen
+Reason: test
+Dish: Shrimp Tempura
+Label: Ask the kitchen
+Reason: test
+Dish: Steamed Rice
+Label: Ask the kitchen
+Reason: test
+Dish: Mochi Ice Cream
+Label: Ask the kitchen
+Reason: test
+
+=== PROFILE-B
+Dish: Edamame
+Label: Ask the kitchen
+Reason: test
+Dish: Miso Soup
+Label: Ask the kitchen
+Reason: test
+Dish: Pork Gyoza
+Label: Avoid
+Reason: test
+Dish: Seaweed Salad
+Label: Avoid
+Reason: test
+Dish: Cucumber Salad
+Label: Ask the kitchen
+Reason: test
+Dish: Salmon Sashimi
+Label: Ask the kitchen
+Reason: test
+Dish: Chicken Katsu
+Label: Ask the kitchen
+Reason: test
+Dish: Shrimp Tempura
+Label: Ask the kitchen
+Reason: test
+Dish: Steamed Rice
+Label: Ask the kitchen
+Reason: test
+Dish: Mochi Ice Cream
+Label: Ask the kitchen
+Reason: test
+
+=== PROFILE-C
+Dish: Edamame
+Label: Avoid
+Reason: test
+Dish: Miso Soup
+Label: Avoid
+Reason: test
+Dish: Pork Gyoza
+Label: Avoid
+Reason: test
+Dish: Seaweed Salad
+Label: Avoid
+Reason: test
+Dish: Cucumber Salad
+Label: Ask the kitchen
+Reason: test
+Dish: Salmon Sashimi
+Label: Ask the kitchen
+Reason: test
+Dish: Chicken Katsu
+Label: Avoid
+Reason: test
+Dish: Shrimp Tempura
+Label: Avoid
+Reason: test
+Dish: Steamed Rice
+Label: Ask the kitchen
+Reason: test
+Dish: Mochi Ice Cream
+Label: Avoid
+Reason: test
+
+=== PROFILE-D
+Dish: Edamame
+Label: Ask the kitchen
+Reason: test
+Dish: Miso Soup
+Label: Avoid
+Reason: test
+Dish: Pork Gyoza
+Label: Ask the kitchen
+Reason: test
+Dish: Seaweed Salad
+Label: Ask the kitchen
+Reason: test
+Dish: Cucumber Salad
+Label: Ask the kitchen
+Reason: test
+Dish: Salmon Sashimi
+Label: Avoid
+Reason: test
+Dish: Chicken Katsu
+Label: Ask the kitchen
+Reason: test
+Dish: Shrimp Tempura
+Label: Avoid
+Reason: test
+Dish: Steamed Rice
+Label: Ask the kitchen
+Reason: test
+Dish: Mochi Ice Cream
+Label: Ask the kitchen
+Reason: test
+

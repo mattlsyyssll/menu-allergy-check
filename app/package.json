@@ -1,0 +1,25 @@
+{
+  "name": "menu-allergy-check",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Menu allergy check for a parent: on-device menu reading with Firebase AI Logic hybrid inference.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "firebase": "^13.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8",
+    "vitest": "^5.1.0"
+  },
+  "engines": {
+    "node": "^22.12.0 || ^24.0.0"
+  }
+}

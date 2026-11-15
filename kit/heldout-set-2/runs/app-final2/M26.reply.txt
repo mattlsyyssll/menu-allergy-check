@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Brisket Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baby Back Ribs
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Smoked Turkey Leg
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Smash Burger
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bacon BBQ Burger
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fried Catfish Basket
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pitmaster's Special
+Label: Ask the kitchen
+Reason: "Pitmaster's Special" changes from day to day or cook to cook ("special"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Onion Rings
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Mac and Cheese
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Creamy Coleslaw
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pecan Pie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Peanut Butter Shake
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the dish name). | Peanut: this dish usually contains it (peanut butter is main ingredient). | Peanut: peanut butter is an essential part of a typical recipe for this dish.
+=== PROFILE-B
+Dish: Brisket Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baby Back Ribs
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Smoked Turkey Leg
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Smash Burger
+Label: Ask the kitchen
+Reason: Sesame may be hidden: many burger buns are topped with sesame seeds. | Sesame: common versions of this dish contain it (sesame seed bun).
+Dish: Bacon BBQ Burger
+Label: Ask the kitchen
+Reason: Sesame may be hidden: many burger buns are topped with sesame seeds. | Sesame: common versions of this dish contain it (sesame bun variant).
+Dish: Fried Catfish Basket
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pitmaster's Special
+Label: Ask the kitchen
+Reason: "Pitmaster's Special" changes from day to day or cook to cook ("special"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Onion Rings
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Mac and Cheese
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Creamy Coleslaw
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dressings often contain sesame oil.
+Dish: Pecan Pie
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pecan" in the dish name). | Tree nuts: this dish usually contains it (pecans are tree nuts). | Tree nuts: pecans is an essential part of a typical recipe for this dish.
+Dish: Peanut Butter Shake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Brisket Plate
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bread" in the listed ingredient).
+Dish: Baby Back Ribs
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Smoked Turkey Leg
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Smash Burger
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Milk: this dish usually contains it (cheese slice on burger). | Wheat / gluten: this dish usually contains it (hamburger bun).
+Dish: Bacon BBQ Burger
+Label: Avoid
+Reason: Milk is listed on the menu ("cheddar" in the listed ingredient). | Milk: this dish usually contains it (cheese and butter). | Wheat / gluten: this dish usually contains it (hamburger bun).
+Dish: Fried Catfish Basket
+Label: Avoid
+Reason: Milk: buttermilk is an essential part of a typical recipe for this dish.
+Dish: Pitmaster's Special
+Label: Ask the kitchen
+Reason: "Pitmaster's Special" changes from day to day or cook to cook ("special"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Onion Rings
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (flour and breadcrumbs in batter). | Wheat / gluten: all-purpose flour is an essential part of a typical recipe for this dish.
+Dish: Mac and Cheese
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the dish name). | Wheat / gluten is listed on the menu ("pasta" in the listed ingredient). | Milk: this dish usually contains it (milk, butter and cheese in sauce). | Wheat / gluten: this dish usually contains it (pasta made from wheat). | Wheat / gluten: macaroni pasta is an essential part of a typical recipe for this dish. | Milk: cheddar cheese is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Wheat / gluten: all-purpose flour is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish.
+Dish: Creamy Coleslaw
+Label: Avoid
+Reason: Egg: this dish usually contains it (mayonnaise dressing base). | Egg: mayonnaise is an essential part of a typical recipe for this dish.
+Dish: Pecan Pie
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Wheat / gluten: this dish usually contains it (pie crust flour). | Egg: egg is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Peanut Butter Shake
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient). | Milk: this dish usually contains it (milk and ice cream base). | Milk: vanilla ice cream is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Brisket Plate
+Label: Ask the kitchen
+Reason: Fish: worcestershire sauce is sometimes in this dish (a typical recipe, not the menu). | Fish may be hidden: worcestershire sauce contains anchovy (found in a typical recipe: worcestershire sauce).
+Dish: Baby Back Ribs
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Smoked Turkey Leg
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Smash Burger
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bacon BBQ Burger
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fried Catfish Basket
+Label: Avoid
+Reason: Fish is listed on the menu ("catfish" in the dish name). | Fish: this dish usually contains it (catfish is a fish). | Fish: catfish fillet is an essential part of a typical recipe for this dish.
+Dish: Pitmaster's Special
+Label: Ask the kitchen
+Reason: "Pitmaster's Special" changes from day to day or cook to cook ("special"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Onion Rings
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Mac and Cheese
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Creamy Coleslaw
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pecan Pie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Peanut Butter Shake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

@@ -1,0 +1,737 @@
+{
+ "case": "M25",
+ "class": "wrong",
+ "fields": [
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 10,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 10,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 4,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 10,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 10,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 5,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 7,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 10,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 10,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 2,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 7,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 10,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 10,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-A:Chef's Fresh Pasta Special",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-B:Chef's Fresh Pasta Special",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-B:Cannoli Siciliani",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Bruschetta al Pomodoro",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Arancini",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Spaghetti Puttanesca",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Spaghetti Carbonara",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Gnocchi al Gorgonzola",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Chef's Fresh Pasta Special",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Veal Milanese",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Cannoli Siciliani",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-D:Spaghetti Puttanesca",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-D:Chef's Fresh Pasta Special",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-D:Pan-Seared Sea Bream",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  }
+ ],
+ "groups": {
+  "accuracy": {
+   "right": 38,
+   "unread": 0,
+   "wrong": 6
+  },
+  "safety": {
+   "right": 14,
+   "unread": 0,
+   "wrong": 0
+  }
+ },
+ "model": "app-final2",
+ "pages_parsed": 4,
+ "right": 96,
+ "unread": 0,
+ "wrong": 6
+}

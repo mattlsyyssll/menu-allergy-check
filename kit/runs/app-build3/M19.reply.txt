@@ -1,0 +1,113 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Banana Bread
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Oat Cookie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Nutella Crêpe
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sourdough Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Hummus and Veggie Wrap
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tuna Sandwich
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fruit Cup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Green Smoothie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Black Coffee
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Banana Bread
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("walnut" in the listed ingredient).
+Dish: Oat Cookie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Nutella Crêpe
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("nutella" in the dish name). | Tree nuts: hazelnut cocoa spread is an essential part of a typical recipe for this dish.
+Dish: Sourdough Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Hummus and Veggie Wrap
+Label: Ask the kitchen
+Reason: Sesame may be hidden: hummus is made with tahini (sesame paste). | Sesame may be hidden: hummus is made with tahini (sesame paste) (found in a typical recipe: hummus).
+Dish: Tuna Sandwich
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fruit Cup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Green Smoothie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Black Coffee
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Banana Bread
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Egg is listed on the menu ("egg" in the listed ingredient). | Wheat / gluten is listed on the menu ("bread" in the dish name). | Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Oat Cookie
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Wheat / gluten is listed on the menu ("oat" in the dish name). | Wheat / gluten: rolled oats is an essential part of a typical recipe for this dish. | Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Nutella Crêpe
+Label: Avoid
+Reason: Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Sourdough Slice
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Wheat / gluten is listed on the menu ("sourdough" in the dish name). | Wheat / gluten: sourdough bread is an essential part of a typical recipe for this dish.
+Dish: Hummus and Veggie Wrap
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("tortilla" in the listed ingredient). | Wheat / gluten: tortilla is an essential part of a typical recipe for this dish.
+Dish: Tuna Sandwich
+Label: Avoid
+Reason: Egg is listed on the menu ("mayo" in the listed ingredient). | Wheat / gluten is listed on the menu ("bread" in the listed ingredient). | Wheat / gluten: bread is an essential part of a typical recipe for this dish. | Egg: mayonnaise is an essential part of a typical recipe for this dish.
+Dish: Fruit Cup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Green Smoothie
+Label: Ask the kitchen
+Reason: Milk: greek yogurt is sometimes in this dish (a typical recipe, not the menu).
+Dish: Black Coffee
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Banana Bread
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Oat Cookie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Nutella Crêpe
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sourdough Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Hummus and Veggie Wrap
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tuna Sandwich
+Label: Avoid
+Reason: Fish is listed on the menu ("tuna" in the dish name). | Fish: tuna is an essential part of a typical recipe for this dish.
+Dish: Fruit Cup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Green Smoothie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Black Coffee
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

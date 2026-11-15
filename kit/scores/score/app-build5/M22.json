@@ -1,0 +1,709 @@
+{
+ "case": "M22",
+ "class": "wrong",
+ "fields": [
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 2,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 4,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 7,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-A",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-A",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 0,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 7,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-B",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-B",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 0,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 2,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 7,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-C",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-C",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 0,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 1,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 2,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 2,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 3,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 3,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 4,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 5,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 5,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 6,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 7,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 7,
+   "verdict": "wrong"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 8,
+   "verdict": "right"
+  },
+  {
+   "group": null,
+   "label": "Dish",
+   "page": "PROFILE-D",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": "accuracy",
+   "label": "Label",
+   "page": "PROFILE-D",
+   "row": 9,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-A:Steamed Bao",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-A:Mango Salad",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-B:Cashew Chicken",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-B:Tahini Noodles",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-B:Steamed Bao",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-B:Fortune Cookies",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Beef with Oyster Sauce",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Caramel Pork",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Cashew Chicken",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Pad See Ew",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Tahini Noodles",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Worcestershire Mushrooms",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Steamed Bao",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-C:Fortune Cookies",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-D:Beef with Oyster Sauce",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-D:Caramel Pork",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-D:Worcestershire Mushrooms",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  },
+  {
+   "group": "safety",
+   "label": "safety:PROFILE-D:Mango Salad",
+   "page": "plugin",
+   "row": 0,
+   "verdict": "right"
+  }
+ ],
+ "groups": {
+  "accuracy": {
+   "right": 27,
+   "unread": 0,
+   "wrong": 13
+  },
+  "safety": {
+   "right": 18,
+   "unread": 0,
+   "wrong": 0
+  }
+ },
+ "model": "app-build5",
+ "pages_parsed": 4,
+ "right": 85,
+ "unread": 0,
+ "wrong": 13
+}

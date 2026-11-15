@@ -1,0 +1,16 @@
+{
+  "name": "mini",
+  "labels": "labels.json",
+  "case_data": "case-data.json",
+  "dirs": {"cases": "cases", "keys": "keys", "runs": "runs", "scores": "scores", "prompts": "prompts"},
+  "entry": {"templates": "entry/page-templates.md", "text": ["entry/SKILL.md"], "rules": "entry/rules.json"},
+  "freeze": {"files": ["entry", "labels.json", "case-data.json", "keys", "KEYS-HASHES.txt"], "hashfile": "FROZEN-HASHES.txt"},
+  "replay": {
+    "rules": [
+      {"rule": "same_fact", "name": "total_same_everywhere", "refs": [["SUMMARY", "Total"], ["LETTER", "Total"]], "kind": "money"},
+      {"rule": "copy_hashes", "page": "ITEMS"}
+    ],
+    "allowed_reads": ["cases/", "entry/"]
+  },
+  "plugin": "plugin.py"
+}

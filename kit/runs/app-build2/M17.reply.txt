@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: 蝦餃
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 燒賣
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 叉燒包
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 鮮蝦腸粉
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 蘿蔔糕
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 煎堆
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 蛋撻
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 芒果布甸
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 白粥
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 白約生菜
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: 蝦餃
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 燒賣
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 叉燒包
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 鮮蝦腸粉
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 蘿蔔糕
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 煎堆
+Label: Avoid
+Reason: Sesame is listed on the menu ("芝麻" in the listed ingredient).
+Dish: 蛋撻
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 芒果布甸
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 白粥
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 白約生菜
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-C
+Dish: 蝦餃
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 燒賣
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 叉燒包
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("麵包" in the listed ingredient).
+Dish: 鮮蝦腸粉
+Label: Avoid
+Reason: Soy is listed on the menu ("豉油" in the listed ingredient).
+Dish: 蘿蔔糕
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: cake contains wheat flour.
+Dish: 煎堆
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 蛋撻
+Label: Avoid
+Reason: Milk is listed on the menu ("custard" in the English ingredient). | Egg is listed on the menu ("蛋" in the dish name).
+Dish: 芒果布甸
+Label: Avoid
+Reason: Milk is listed on the menu ("奶油" in the listed ingredient). | Wheat / gluten is listed on the menu ("flour" in the English ingredient).
+Dish: 白粥
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 白約生菜
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-D
+Dish: 蝦餃
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("蝦" in the dish name).
+Dish: 燒賣
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("蝦" in the listed ingredient).
+Dish: 叉燒包
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 鮮蝦腸粉
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("蝦" in the dish name).
+Dish: 蘿蔔糕
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 煎堆
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 蛋撻
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 芒果布甸
+Label: Avoid
+Reason: Fish is listed on the menu ("魚" in the listed ingredient).
+Dish: 白粥
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: 白約生菜
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

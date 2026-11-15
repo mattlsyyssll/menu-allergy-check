@@ -1,0 +1,137 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Nasi Lemak
+Label: Ask the kitchen
+Reason: Peanut: a typical version usually contains it (Served with fried peanuts.), but the printed ingredients do not show it. Ask the kitchen. | Peanut: peanut is commonly in this dish (a typical recipe, not the menu).
+Dish: Mee Goreng Mamak
+Label: Ask the kitchen
+Reason: Peanut: common versions of this dish contain it (Crushed peanuts may be used as garnish.).
+Dish: Char Kway Teow
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Laksa Lemak
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Nasi Putih
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pecel Sayur
+Label: Avoid
+Reason: Peanut: this dish usually contains it (Peanut sauce is the primary component of pecel.). | Peanut: peanut is an essential part of a typical recipe for this dish.
+Dish: Ayam Penyet
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Soto Ayam
+Label: Ask the kitchen
+Reason: Peanut: common versions of this dish contain it (Peanut sauce or fried peanuts may be added as condiment.).
+Dish: Tempe Mendoan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Es Rendol
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kuih of the Day
+Label: Ask the kitchen
+Reason: "Kuih of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-B
+Dish: Nasi Lemak
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Mee Goreng Mamak
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Char Kway Teow
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Laksa Lemak
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Nasi Putih
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pecel Sayur
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dressings often contain sesame oil.
+Dish: Ayam Penyet
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Soto Ayam
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tempe Mendoan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Es Rendol
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kuih of the Day
+Label: Ask the kitchen
+Reason: "Kuih of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-C
+Dish: Nasi Lemak
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Egg: this dish usually contains it (Served with a hard-boiled or fried egg.).
+Dish: Mee Goreng Mamak
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Wheat / gluten is listed on the menu ("noodle" in the listed ingredient). | Soy is listed on the menu ("tofu" in the listed ingredient). | Egg: this dish usually contains it (Eggs are scrambled into the noodles.). | Wheat / gluten: this dish usually contains it (Yellow wheat noodles are the base.). | Soy: this dish usually contains it (Soy sauce is used for seasoning.). | Wheat / gluten: yellow noodle is an essential part of a typical recipe for this dish. | Soy: tofu is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish. | Soy: sweet soy sauce is an essential part of a typical recipe for this dish.
+Dish: Char Kway Teow
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Soy is listed on the menu ("soy" in the listed ingredient). | Egg: this dish usually contains it (Egg is scrambled into the flat noodles.). | Soy: this dish usually contains it (Light and dark soy sauces are essential.). | Egg: egg is an essential part of a typical recipe for this dish. | Soy: light soy sauce is an essential part of a typical recipe for this dish. | Soy: dark soy sauce is an essential part of a typical recipe for this dish.
+Dish: Laksa Lemak
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Soy is listed on the menu ("tofu" in the listed ingredient). | Soy: tofu puff is an essential part of a typical recipe for this dish.
+Dish: Nasi Putih
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pecel Sayur
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Soy is listed on the menu ("tofu" in the listed ingredient).
+Dish: Ayam Penyet
+Label: Avoid
+Reason: Soy is listed on the menu ("tempeh" in the listed ingredient). | Soy: this dish usually contains it (Served with fried tofu ( tahu ) and tempeh which contain soy.).
+Dish: Soto Ayam
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Egg: this dish usually contains it (Hard-boiled egg is a standard topping.). | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Tempe Mendoan
+Label: Avoid
+Reason: Soy is listed on the menu ("tempeh" in the listed ingredient). | Wheat / gluten: this dish usually contains it (Wheat flour is used for the batter.). | Soy: this dish usually contains it (Tempeh is made from fermented soybeans.). | Soy: tempeh is an essential part of a typical recipe for this dish. | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Es Rendol
+Label: Ask the kitchen
+Reason: Milk: common versions of this dish contain it (Condensed milk is sometimes added alongside coconut milk.).
+Dish: Kuih of the Day
+Label: Ask the kitchen
+Reason: "Kuih of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-D
+Dish: Nasi Lemak
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: sambal is often made with shrimp paste. | Fish: a typical version usually contains it (Served with fried anchovies and fish paste in sambal.), but the printed ingredients do not show it. Ask the kitchen. | Crustaceans: common versions of this dish contain it (Dried shrimp is common in sambal.). | Fish: anchovy is commonly in this dish (a typical recipe, not the menu). | Crustaceans: shrimp paste is commonly in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: shrimp paste is made from shrimp (found in a typical recipe: shrimp paste).
+Dish: Mee Goreng Mamak
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("prawn" in the listed ingredient).
+Dish: Char Kway Teow
+Label: Avoid
+Reason: Molluscs is listed on the menu ("cockle" in the listed ingredient). | Molluscs: this dish usually contains it (Blood cockles are a traditional ingredient.). | Crustaceans: prawn is an essential part of a typical recipe for this dish.
+Dish: Laksa Lemak
+Label: Avoid
+Reason: Crustaceans: this dish usually contains it (Dried shrimp paste (belachan) and prawns are essential.). | Crustaceans: prawn is an essential part of a typical recipe for this dish. | Crustaceans: dried shrimp paste is an essential part of a typical recipe for this dish.
+Dish: Nasi Putih
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pecel Sayur
+Label: Ask the kitchen
+Reason: Fish: common versions of this dish contain it (Shrimp paste (terasi) is used in the peanut dressing.). | Crustaceans: common versions of this dish contain it (Shrimp paste is common in the dressing.). | Crustaceans: shrimp paste is commonly in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: shrimp paste is made from shrimp (found in a typical recipe: shrimp paste).
+Dish: Ayam Penyet
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: sambal is often made with shrimp paste. | Fish: common versions of this dish contain it (Sambal typically contains shrimp paste.). | Crustaceans: common versions of this dish contain it (Shrimp paste is used in the sambal.). | Crustaceans: shrimp paste is commonly in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: shrimp paste is made from shrimp (found in a typical recipe: shrimp paste).
+Dish: Soto Ayam
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tempe Mendoan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Es Rendol
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kuih of the Day
+Label: Ask the kitchen
+Reason: "Kuih of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.

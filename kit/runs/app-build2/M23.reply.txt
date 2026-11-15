@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Stollen with Marzipan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Sticky Toffee Pudding
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pavlova
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Panettone Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Kheer
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Dark Chocolate Mousse
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Habba Sundae
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Mango Sorbet
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Praline Pecan Cluster
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Espresso
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Stollen with Marzipan
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("marzipan" in the dish name).
+Dish: Sticky Toffee Pudding
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pavlova
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Panettone Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Kheer
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Dark Chocolate Mousse
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Habba Sundae
+Label: Avoid
+Reason: Sesame is listed on the menu ("halva" in the listed ingredient).
+Dish: Mango Sorbet
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Praline Pecan Cluster
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pecan" in the dish name).
+Dish: Espresso
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-C
+Dish: Stollen with Marzipan
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bread" in the listed ingredient).
+Dish: Sticky Toffee Pudding
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pavlova
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient). | Egg is listed on the menu ("meringue" in the listed ingredient).
+Dish: Panettone Slice
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bread" in the listed ingredient).
+Dish: Kheer
+Label: Avoid
+Reason: Milk is listed on the menu ("ghee" in the listed ingredient).
+Dish: Dark Chocolate Mousse
+Label: Ask the kitchen
+Reason: Milk may be hidden: chocolate often contains milk powder. | Egg may be hidden: mousse usually contains egg.
+Dish: Habba Sundae
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient).
+Dish: Mango Sorbet
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Praline Pecan Cluster
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Espresso
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-D
+Dish: Stollen with Marzipan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Sticky Toffee Pudding
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pavlova
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Panettone Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Kheer
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Dark Chocolate Mousse
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Habba Sundae
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Mango Sorbet
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Praline Pecan Cluster
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Espresso
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

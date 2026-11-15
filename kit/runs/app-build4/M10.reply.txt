@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Hummus
+Label: Ask the kitchen
+Reason: Peanut may be hidden: the menu mentions nuts without saying which (found in a typical recipe: pine nuts).
+Dish: Baba Ghanoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Falafel Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tabbouleh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fattoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Labneh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Shawarma Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Lamb Skewers
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baklava (3)
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Halva Slice
+Label: Ask the kitchen
+Reason: Peanut may be hidden: sesame fillings in sweets and sauces are sometimes extended with peanut.
+=== PROFILE-B
+Dish: Hummus
+Label: Avoid
+Reason: Sesame: tahini is an essential part of a typical recipe for this dish.
+Dish: Baba Ghanoush
+Label: Avoid
+Reason: Sesame: tahini is an essential part of a typical recipe for this dish.
+Dish: Falafel Plate
+Label: Avoid
+Reason: Sesame: tahini is an essential part of a typical recipe for this dish.
+Dish: Tabbouleh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fattoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Labneh
+Label: Ask the kitchen
+Reason: Sesame may be hidden: za'atar contains sesame seeds (found in a typical recipe: zaatar).
+Dish: Chicken Shawarma Plate
+Label: Ask the kitchen
+Reason: Sesame may be hidden: shawarma is usually served with tahini sauce. | Sesame: tahini is commonly in this dish (a typical recipe, not the menu). | Sesame may be hidden: hummus is made with tahini (sesame paste) (found in a typical recipe: hummus).
+Dish: Grilled Lamb Skewers
+Label: Ask the kitchen
+Reason: Sesame: tahini is sometimes in this dish (a typical recipe, not the menu).
+Dish: Baklava (3)
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pistachio" in the listed ingredient). | Tree nuts: pistachio is an essential part of a typical recipe for this dish.
+Dish: Halva Slice
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pistachio" in the listed ingredient). | Sesame is listed on the menu ("halva" in the dish name). | Sesame: tahini is an essential part of a typical recipe for this dish.
+=== PROFILE-C
+Dish: Hummus
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baba Ghanoush
+Label: Ask the kitchen
+Reason: Milk: yogurt is sometimes in this dish (a typical recipe, not the menu).
+Dish: Falafel Plate
+Label: Avoid
+Reason: Wheat / gluten: pita bread is an essential part of a typical recipe for this dish.
+Dish: Tabbouleh
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bulgur" in the listed ingredient). | Wheat / gluten: bulgur wheat is an essential part of a typical recipe for this dish.
+Dish: Fattoush
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pita" in the listed ingredient). | Wheat / gluten: pita bread is an essential part of a typical recipe for this dish.
+Dish: Labneh
+Label: Avoid
+Reason: Milk is listed on the menu ("yogurt" in the listed ingredient). | Milk: yogurt is an essential part of a typical recipe for this dish.
+Dish: Chicken Shawarma Plate
+Label: Avoid
+Reason: Wheat / gluten: pita bread is an essential part of a typical recipe for this dish.
+Dish: Grilled Lamb Skewers
+Label: Ask the kitchen
+Reason: Wheat / gluten: pita bread is commonly in this dish (a typical recipe, not the menu).
+Dish: Baklava (3)
+Label: Avoid
+Reason: Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Halva Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Hummus
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baba Ghanoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Falafel Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tabbouleh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fattoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Labneh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Shawarma Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Lamb Skewers
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baklava (3)
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Halva Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

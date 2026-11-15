@@ -1,0 +1,25 @@
+Spice Route
+
+## Curries
+Butter Chicken  $16
+  tomato cream sauce, butter
+Chana Masala  $13
+  chickpeas, tomato, onion, spices
+Palak Paneer  $14
+  spinach, paneer
+Lamb Korma  $18
+  cashew, cream, yogurt
+Dal Tadka  $12
+  yellow lentils with tempered spices
+
+## Rice, bread and sweets
+Vegetable Biryani  $14
+  basmati rice, vegetables, ghee
+Garlic Naan  $4
+  baked flatbread, garlic
+Samosa (2)  $6
+  pastry, potato, peas
+Gulab Jamun  $6
+  fried milk dumplings in syrup
+Mango Lassi  $5
+  mango, yogurt

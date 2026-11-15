@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Stollen with Marzipan
+Label: Ask the kitchen
+Reason: Peanut may be hidden: marzipan is sometimes extended with peanut. | Peanut may be hidden: marzipan is sometimes extended with peanut (found in a typical recipe: marzipan).
+Dish: Sticky Toffee Pudding
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pavlova
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Panettone Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kheer
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dark Chocolate Mousse
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Habba Sundae
+Label: Ask the kitchen
+Reason: The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Mango Sorbet
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Praline Pecan Cluster
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Espresso
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Stollen with Marzipan
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("marzipan" in the dish name). | Tree nuts: marzipan is an essential part of a typical recipe for this dish.
+Dish: Sticky Toffee Pudding
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pavlova
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Panettone Slice
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: panettone variants include almond glaze.
+Dish: Kheer
+Label: Ask the kitchen
+Reason: Tree nuts: almonds is commonly in this dish (a typical recipe, not the menu). | Tree nuts: pistachios is commonly in this dish (a typical recipe, not the menu). | Tree nuts: cashews is sometimes in this dish (a typical recipe, not the menu).
+Dish: Dark Chocolate Mousse
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Habba Sundae
+Label: Avoid
+Reason: Sesame is listed on the menu ("halva" in the listed ingredient).
+Dish: Mango Sorbet
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Praline Pecan Cluster
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pecan" in the dish name). | Tree nuts: pecans is an essential part of a typical recipe for this dish.
+Dish: Espresso
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Stollen with Marzipan
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bread" in the listed ingredient). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish.
+Dish: Sticky Toffee Pudding
+Label: Avoid
+Reason: Milk: unsalted butter is an essential part of a typical recipe for this dish. | Egg: eggs is an essential part of a typical recipe for this dish. | Wheat / gluten: all-purpose flour is an essential part of a typical recipe for this dish. | Milk: heavy cream is an essential part of a typical recipe for this dish.
+Dish: Pavlova
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient). | Egg is listed on the menu ("meringue" in the listed ingredient). | Egg: egg white is an essential part of a typical recipe for this dish. | Milk: heavy cream is an essential part of a typical recipe for this dish.
+Dish: Panettone Slice
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bread" in the listed ingredient). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Egg: egg yolk is an essential part of a typical recipe for this dish.
+Dish: Kheer
+Label: Avoid
+Reason: Milk is listed on the menu ("ghee" in the listed ingredient). | Milk: milk is an essential part of a typical recipe for this dish.
+Dish: Dark Chocolate Mousse
+Label: Avoid
+Reason: Milk: heavy cream is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Habba Sundae
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient).
+Dish: Mango Sorbet
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Praline Pecan Cluster
+Label: Avoid
+Reason: Milk: butter is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish.
+Dish: Espresso
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Stollen with Marzipan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sticky Toffee Pudding
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pavlova
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Panettone Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kheer
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dark Chocolate Mousse
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Habba Sundae
+Label: Ask the kitchen
+Reason: The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Mango Sorbet
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Praline Pecan Cluster
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Espresso
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Soupe à l'oignon gratinée
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Salade niçoise
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Quiche lorraine
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Salade verte
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some Asian salad dressings contain peanut (found in a typical recipe: salad dressing).
+Dish: Sole meunière
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Moules marinières
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ratatouille
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Frites maison
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crème brûlée
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tarte aux amandes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Soupe à l'oignon gratinée
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Salade niçoise
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Quiche lorraine
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Salade verte
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dressings often contain sesame oil (found in a typical recipe: salad dressing).
+Dish: Sole meunière
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Moules marinières
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ratatouille
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Frites maison
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crème brûlée
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tarte aux amandes
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("amande" in the dish name). | Tree nuts: almond flour is an essential part of a typical recipe for this dish.
+=== PROFILE-C
+Dish: Soupe à l'oignon gratinée
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("crouton" in the listed ingredient). | Milk: butter is an essential part of a typical recipe for this dish. | Wheat / gluten: baguette is an essential part of a typical recipe for this dish. | Milk: gruyere cheese is an essential part of a typical recipe for this dish.
+Dish: Salade niçoise
+Label: Avoid
+Reason: Egg is listed on the menu ("œuf" in the listed ingredient). | Egg: hard-boiled egg is an essential part of a typical recipe for this dish.
+Dish: Quiche lorraine
+Label: Avoid
+Reason: Milk is listed on the menu ("creme" in the listed ingredient). | Egg is listed on the menu ("œuf" in the listed ingredient). | Egg: egg is an essential part of a typical recipe for this dish. | Milk: heavy cream is an essential part of a typical recipe for this dish.
+Dish: Salade verte
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sole meunière
+Label: Avoid
+Reason: Milk is listed on the menu ("beurre" in the listed ingredient). | Wheat / gluten is listed on the menu ("farine" in the listed ingredient). | Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Moules marinières
+Label: Avoid
+Reason: Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Ratatouille
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Frites maison
+Label: Ask the kitchen
+Reason: Egg: mayonnaise is sometimes in this dish (a typical recipe, not the menu).
+Dish: Crème brûlée
+Label: Avoid
+Reason: Milk is listed on the menu ("creme" in the dish name). | Egg is listed on the menu ("œuf" in the listed ingredient). | Milk: heavy cream is an essential part of a typical recipe for this dish. | Egg: egg yolk is an essential part of a typical recipe for this dish.
+Dish: Tarte aux amandes
+Label: Avoid
+Reason: Milk is listed on the menu ("creme" in the listed ingredient). | Wheat / gluten: almond flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Soupe à l'oignon gratinée
+Label: Ask the kitchen
+Reason: Fish may be hidden: bouillon may be made with fish.
+Dish: Salade niçoise
+Label: Avoid
+Reason: Fish is listed on the menu ("thon" in the listed ingredient). | Fish: tuna is an essential part of a typical recipe for this dish. | Fish: anchovy is an essential part of a typical recipe for this dish.
+Dish: Quiche lorraine
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Salade verte
+Label: Ask the kitchen
+Reason: Fish may be hidden: Southeast Asian salad dressings often contain fish sauce (found in a typical recipe: salad dressing). | Crustaceans may be hidden: some Southeast Asian dressings contain dried shrimp (found in a typical recipe: salad dressing).
+Dish: Sole meunière
+Label: Avoid
+Reason: Fish is listed on the menu ("sole" in the dish name). | Fish: sole is an essential part of a typical recipe for this dish.
+Dish: Moules marinières
+Label: Avoid
+Reason: Molluscs is listed on the menu ("moule" in the dish name). | Molluscs: mussel is an essential part of a typical recipe for this dish.
+Dish: Ratatouille
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Frites maison
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crème brûlée
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tarte aux amandes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

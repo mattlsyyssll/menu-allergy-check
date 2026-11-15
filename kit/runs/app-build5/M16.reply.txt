@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Shrimp Cocktail
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Clam Chowder
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Caesar Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cole Slaw
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fish and Chips
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Salmon
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lobster Roll
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cioppino
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Key Lime Pie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Shrimp Cocktail
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Clam Chowder
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Caesar Salad
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dressings often contain sesame oil.
+Dish: Cole Slaw
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dressings often contain sesame oil.
+Dish: Fish and Chips
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Salmon
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lobster Roll
+Label: Ask the kitchen
+Reason: Sesame may be hidden: burger and bao buns are often topped with sesame (found in a typical recipe: hot dog bun).
+Dish: Cioppino
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Key Lime Pie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Shrimp Cocktail
+Label: Ask the kitchen
+Reason: Soy may be hidden: worcestershire sauce can contain soy (found in a typical recipe: worcestershire sauce).
+Dish: Clam Chowder
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient). | Milk: this dish usually contains it (Cream or milk is used in New England chowder). | Milk: butter is an essential part of a typical recipe for this dish. | Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Milk: heavy cream is an essential part of a typical recipe for this dish.
+Dish: Caesar Salad
+Label: Avoid
+Reason: Milk is listed on the menu ("parmesan" in the listed ingredient). | Wheat / gluten is listed on the menu ("crouton" in the listed ingredient). | Milk: this dish usually contains it (Parmesan cheese is standard). | Egg: this dish usually contains it (Coddled eggs or mayonnaise used in dressing). | Wheat / gluten: this dish usually contains it (Croutons are made from wheat bread). | Egg: egg is an essential part of a typical recipe for this dish. | Milk: parmesan cheese is an essential part of a typical recipe for this dish. | Wheat / gluten: bread is an essential part of a typical recipe for this dish.
+Dish: Cole Slaw
+Label: Avoid
+Reason: Egg: this dish usually contains it (Mayonnaise is the standard dressing base). | Egg: mayonnaise is an essential part of a typical recipe for this dish.
+Dish: Fish and Chips
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (Flour used in batter and dusting). | Wheat / gluten: flour is an essential part of a typical recipe for this dish.
+Dish: Grilled Salmon
+Label: Ask the kitchen
+Reason: Milk: butter is sometimes in this dish (a typical recipe, not the menu).
+Dish: Lobster Roll
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Egg is listed on the menu ("mayo" in the listed ingredient). | Milk: this dish usually contains it (Butter used for roll and warm lobster version). | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Cioppino
+Label: Ask the kitchen
+Reason: Wheat / gluten: common versions of this dish contain it (Served with bread). | Wheat / gluten: bread is commonly in this dish (a typical recipe, not the menu).
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Key Lime Pie
+Label: Avoid
+Reason: Milk is listed on the menu ("custard" in the listed ingredient). | Milk: this dish usually contains it (Sweetened condensed milk is essential). | Egg: this dish usually contains it (Egg yolks are essential for the filling). | Wheat / gluten: this dish usually contains it (Graham cracker crust contains wheat). | Milk: butter is an essential part of a typical recipe for this dish. | Milk: sweetened condensed milk is an essential part of a typical recipe for this dish. | Egg: egg yolk is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Shrimp Cocktail
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("shrimp" in the dish name). | Crustaceans: this dish usually contains it (Shrimp is the main ingredient). | Crustaceans: shrimp is an essential part of a typical recipe for this dish.
+Dish: Clam Chowder
+Label: Avoid
+Reason: Molluscs is listed on the menu ("clam" in the dish name). | Molluscs: this dish usually contains it (Clams are the main ingredient). | Molluscs: clam is an essential part of a typical recipe for this dish. | Molluscs: clam juice is an essential part of a typical recipe for this dish.
+Dish: Caesar Salad
+Label: Avoid
+Reason: Fish: this dish usually contains it (Anchovies or Worcestershire sauce in dressing). | Fish: anchovy is an essential part of a typical recipe for this dish.
+Dish: Cole Slaw
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fish and Chips
+Label: Avoid
+Reason: Fish is listed on the menu ("fish" in the dish name). | Fish: this dish usually contains it (Fish is the main component). | Fish: cod is an essential part of a typical recipe for this dish.
+Dish: Grilled Salmon
+Label: Avoid
+Reason: Fish is listed on the menu ("salmon" in the dish name). | Fish: this dish usually contains it (Salmon is the main ingredient). | Fish: salmon is an essential part of a typical recipe for this dish.
+Dish: Lobster Roll
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("lobster" in the dish name). | Crustaceans: this dish usually contains it (Lobster is the main ingredient). | Crustaceans: lobster is an essential part of a typical recipe for this dish.
+Dish: Cioppino
+Label: Avoid
+Reason: Fish is listed on the menu ("fish" in the listed ingredient). | Crustaceans is listed on the menu ("shrimp" in the listed ingredient). | Fish: this dish usually contains it (Fish fillets and fish stock used). | Crustaceans: this dish usually contains it (Crab and shrimp typically included). | Molluscs: this dish usually contains it (Clams and mussels are standard). | Fish: fish is an essential part of a typical recipe for this dish. | Crustaceans: shrimp is an essential part of a typical recipe for this dish. | Molluscs: clam is an essential part of a typical recipe for this dish. | Molluscs: mussel is an essential part of a typical recipe for this dish. | Fish: fish stock is an essential part of a typical recipe for this dish.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Key Lime Pie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

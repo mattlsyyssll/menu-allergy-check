@@ -1,0 +1,233 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: ผัดไทยกุ้ง
+Label: Avoid
+Reason: Peanut is listed on the menu ("ถั่วลิสง" in the listed ingredient). | Peanut: peanut is an essential part of a typical recipe for this dish.
+Dish: ข้าวผัดไก่
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: แกงเขียวหวาน ไก่
+Label: Ask the kitchen
+Reason: Peanut may be hidden: many curries use peanut or nut pastes. | Peanut may be hidden: many curries use peanut or nut pastes (found in a typical recipe: green curry paste).
+Dish: ข้าวสวย
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ยำ ตำไทย
+Label: Avoid
+Reason: Peanut is listed on the menu ("ถั่วลิสง" in the listed ingredient). | Peanut: peanut is an essential part of a typical recipe for this dish.
+Dish: ไก่ย่างตะไคร้
+Label: Ask the kitchen
+Reason: Peanut may be hidden: satay sauce is usually made with ground peanuts. | Peanut may be hidden: Southeast Asian dipping sauces are often made with peanuts (found in a typical recipe: chili tamarind dipping sauce).
+Dish: ต้มยำกุ้ง
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ปีกไก่ทอดน้ำปลา
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ผลไม้สด
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ชาเย็น
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: B120
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B80
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B90
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B110
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B150
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B15
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B95
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B60
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B45
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+=== PROFILE-B
+Dish: ผัดไทยกุ้ง
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ข้าวผัดไก่
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: แกงเขียวหวาน ไก่
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: many curries use cashew or almond pastes. | Tree nuts may be hidden: many curries use cashew or almond pastes (found in a typical recipe: green curry paste).
+Dish: ข้าวสวย
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ยำ ตำไทย
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ไก่ย่างตะไคร้
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dipping sauces often contain sesame oil. | Sesame may be hidden: Asian dipping sauces often contain sesame oil (found in a typical recipe: chili tamarind dipping sauce).
+Dish: ต้มยำกุ้ง
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ปีกไก่ทอดน้ำปลา
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ผลไม้สด
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ชาเย็น
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: B120
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B80
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B90
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B110
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B150
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B15
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B95
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B60
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B45
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+=== PROFILE-C
+Dish: ผัดไทยกุ้ง
+Label: Avoid
+Reason: Milk is listed on the menu ("นม" in the listed ingredient). | Wheat / gluten is listed on the menu ("noodle" in the English ingredient). | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: ข้าวผัดไก่
+Label: Avoid
+Reason: Soy is listed on the menu ("ซีอิ๊ว" in the listed ingredient). | Egg: egg is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: แกงเขียวหวาน ไก่
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ข้าวสวย
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ยำ ตำไทย
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ไก่ย่างตะไคร้
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: satay meat is usually marinated in soy sauce, which has wheat. | Soy may be hidden: dipping sauces are often soy based. | Soy: soy sauce is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten may be hidden: soy sauce is brewed with wheat (found in a typical recipe: soy sauce). | Wheat / gluten may be hidden: oyster sauce often contains wheat or soy sauce (found in a typical recipe: oyster sauce). | Soy may be hidden: oyster sauce often contains soy sauce (found in a typical recipe: oyster sauce). | Soy may be hidden: dipping sauces are often soy based (found in a typical recipe: chili tamarind dipping sauce).
+Dish: ต้มยำกุ้ง
+Label: Ask the kitchen
+Reason: Milk: evaporated milk is sometimes in this dish (a typical recipe, not the menu).
+Dish: ปีกไก่ทอดน้ำปลา
+Label: Ask the kitchen
+Reason: Wheat / gluten: wheat flour is sometimes in this dish (a typical recipe, not the menu).
+Dish: ผลไม้สด
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ชาเย็น
+Label: Avoid
+Reason: Milk: condensed milk is an essential part of a typical recipe for this dish. | Milk: evaporated milk is an essential part of a typical recipe for this dish.
+Dish: B120
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B80
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B90
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B110
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B150
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B15
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B95
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B60
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B45
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+=== PROFILE-D
+Dish: ผัดไทยกุ้ง
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("กุ้ง" in the dish name). | Crustaceans: shrimp is an essential part of a typical recipe for this dish. | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: ข้าวผัดไก่
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: fried rice sometimes contains shrimp. | Fish: fish sauce is commonly in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: some fish sauce blends and dipping sauces are made with shrimp (found in a typical recipe: fish sauce). | Fish: fish sauce with sliced chili is sometimes in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: some fish sauce blends and dipping sauces are made with shrimp (found in a typical recipe: fish sauce with sliced chili).
+Dish: แกงเขียวหวาน ไก่
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: ข้าวสวย
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ยำ ตำไทย
+Label: Avoid
+Reason: Crustaceans: dried shrimp is an essential part of a typical recipe for this dish. | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: ไก่ย่างตะไคร้
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: ต้มยำกุ้ง
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("กุ้ง" in the dish name). | Crustaceans: shrimp is an essential part of a typical recipe for this dish. | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: ปีกไก่ทอดน้ำปลา
+Label: Avoid
+Reason: Fish is listed on the menu ("ปลา" in the dish name). | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: ผลไม้สด
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ชาเย็น
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: B120
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B80
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B90
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B110
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B150
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B15
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B95
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B60
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: B45
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.

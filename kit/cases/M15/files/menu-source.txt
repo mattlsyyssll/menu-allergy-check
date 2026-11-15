@@ -1,0 +1,25 @@
+Luigi’s Kitchen
+
+## Pasta
+Fettuccine Alfredo  $16
+  fresh fettuccine, butter, cream, parmesan
+Pesto Gnocchi  $15
+  potato gnocchi, basil pesto
+Spaghetti Marinara  $13
+  spaghetti, tomato sauce, garlic
+Minestrone  $8
+  vegetables, beans, small pasta
+
+## Antipasti, mains and dolci
+Caprese Salad  $11
+  tomato, fresh mozzarella, basil, olive oil
+Arugula Salad  $9
+  arugula, lemon, olive oil, shaved parmesan
+Fried Calamari  $12
+  lightly floured squid, marinara
+Grilled Branzino  $26
+  whole fish, lemon, herbs
+Pistachio Gelato  $6
+  pistachio, milk, cream
+Panna Cotta  $7
+  cream, sugar, vanilla, berry sauce

@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Chicken Fajitas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Beef Burrito
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Mole Enchiladas
+Label: Ask the kitchen
+Reason: Peanut may be hidden: mole sauces often contain peanuts or other nuts. | Peanut may be hidden: mole sauces often contain peanuts or other nuts (found in a typical recipe: mole sauce).
+Dish: Loaded Nachos
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Elote
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chips and Salsa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Black Bean Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Flan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tres Leches Cake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cilantro Lime Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Chicken Fajitas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Beef Burrito
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Mole Enchiladas
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: mole sauces often contain almonds or other nuts. | Tree nuts may be hidden: mole sauces often contain almonds or other nuts (found in a typical recipe: mole sauce). | Sesame: sesame seeds is sometimes in this dish (a typical recipe, not the menu).
+Dish: Loaded Nachos
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Elote
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chips and Salsa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Black Bean Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Flan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tres Leches Cake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cilantro Lime Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Chicken Fajitas
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("flour" in the listed ingredient).
+Dish: Beef Burrito
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Wheat / gluten is listed on the menu ("flour" in the listed ingredient). | Wheat / gluten: flour tortilla is an essential part of a typical recipe for this dish.
+Dish: Chicken Mole Enchiladas
+Label: Avoid
+Reason: Milk is listed on the menu ("queso" in the listed ingredient).
+Dish: Loaded Nachos
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Wheat / gluten is listed on the menu ("tortilla" in the listed ingredient). | Wheat / gluten: tortilla chips is an essential part of a typical recipe for this dish. | Milk: cheddar cheese is an essential part of a typical recipe for this dish.
+Dish: Elote
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Egg is listed on the menu ("mayo" in the listed ingredient). | Egg: mayonnaise is an essential part of a typical recipe for this dish. | Milk: cotija cheese is an essential part of a typical recipe for this dish.
+Dish: Chips and Salsa
+Label: Avoid
+Reason: Wheat / gluten: tortilla chips is an essential part of a typical recipe for this dish.
+Dish: Black Bean Soup
+Label: Avoid
+Reason: Wheat / gluten: vegetable broth is an essential part of a typical recipe for this dish.
+Dish: Flan
+Label: Avoid
+Reason: Milk is listed on the menu ("custard" in the listed ingredient). | Milk: sweetened condensed milk is an essential part of a typical recipe for this dish. | Milk: evaporated milk is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Tres Leches Cake
+Label: Avoid
+Reason: Milk is listed on the menu ("leche" in the dish name). | Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish. | Milk: evaporated milk is an essential part of a typical recipe for this dish. | Milk: sweetened condensed milk is an essential part of a typical recipe for this dish. | Milk: heavy cream is an essential part of a typical recipe for this dish.
+Dish: Cilantro Lime Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Chicken Fajitas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Beef Burrito
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Mole Enchiladas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Loaded Nachos
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Elote
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chips and Salsa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Black Bean Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Flan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tres Leches Cake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cilantro Lime Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

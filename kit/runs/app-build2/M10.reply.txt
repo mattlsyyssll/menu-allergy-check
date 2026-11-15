@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Hummus
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Baba Ghanoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Falafel Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tabbouleh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fattoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Labneh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chicken Shawarma Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Grilled Lamb Skewers
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Baklava (3)
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Halva Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Hummus
+Label: Ask the kitchen
+Reason: Sesame may be hidden: hummus is made with tahini (sesame paste).
+Dish: Baba Ghanoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Falafel Plate
+Label: Ask the kitchen
+Reason: Sesame may be hidden: falafel is often coated or served with sesame or tahini.
+Dish: Tabbouleh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fattoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Labneh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chicken Shawarma Plate
+Label: Ask the kitchen
+Reason: Sesame may be hidden: shawarma is usually served with tahini sauce.
+Dish: Grilled Lamb Skewers
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Baklava (3)
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pistachio" in the listed ingredient).
+Dish: Halva Slice
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pistachio" in the listed ingredient). | Sesame is listed on the menu ("halva" in the dish name).
+=== PROFILE-C
+Dish: Hummus
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Baba Ghanoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Falafel Plate
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: some falafel contains flour.
+Dish: Tabbouleh
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bulgur" in the listed ingredient).
+Dish: Fattoush
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pita" in the listed ingredient).
+Dish: Labneh
+Label: Avoid
+Reason: Milk is listed on the menu ("yogurt" in the listed ingredient).
+Dish: Chicken Shawarma Plate
+Label: Ask the kitchen
+Reason: Soy may be hidden: marinades often contain soy sauce.
+Dish: Grilled Lamb Skewers
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Baklava (3)
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Halva Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-D
+Dish: Hummus
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Baba Ghanoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Falafel Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Tabbouleh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fattoush
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Labneh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Chicken Shawarma Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Grilled Lamb Skewers
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Baklava (3)
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Halva Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

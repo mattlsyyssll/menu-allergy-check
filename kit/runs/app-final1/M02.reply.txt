@@ -1,0 +1,101 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Trofie al Pesto
+Label: Ask the kitchen
+Reason: Peanut may be hidden: pesto often has nuts, and some versions use peanuts. | Peanut may be hidden: the menu mentions nuts without saying which (found in a typical recipe: pine nuts).
+Dish: Risotto ai Funghi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pasta alla Norma
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Zuppa del Giorno
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Pizza Margherita
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Calamari Fritti
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Insalata Rucola e Pomodorini
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Contorno di Patate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Trofie al Pesto
+Label: Avoid
+Reason: Tree nuts: pine nuts is an essential part of a typical recipe for this dish.
+Dish: Risotto ai Funghi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pasta alla Norma
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Zuppa del Giorno
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Pizza Margherita
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Calamari Fritti
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Insalata Rucola e Pomodorini
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Contorno di Patate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Trofie al Pesto
+Label: Avoid
+Reason: Milk is listed on the menu ("ricotta" in the listed ingredient). | Wheat / gluten is listed on the menu ("pasta" in the listed ingredient). | Wheat / gluten: trofie pasta is an essential part of a typical recipe for this dish. | Milk: parmesan cheese is an essential part of a typical recipe for this dish.
+Dish: Risotto ai Funghi
+Label: Avoid
+Reason: Milk: butter is an essential part of a typical recipe for this dish. | Milk: parmesan cheese is an essential part of a typical recipe for this dish.
+Dish: Pasta alla Norma
+Label: Avoid
+Reason: Milk is listed on the menu ("ricotta" in the listed ingredient). | Wheat / gluten is listed on the menu ("pasta" in the dish name). | Wheat / gluten: pasta is an essential part of a typical recipe for this dish. | Milk: ricotta salata cheese is an essential part of a typical recipe for this dish.
+Dish: Zuppa del Giorno
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Pizza Margherita
+Label: Avoid
+Reason: Milk is listed on the menu ("mozzarella" in the listed ingredient). | Milk: mozzarella cheese is an essential part of a typical recipe for this dish.
+Dish: Calamari Fritti
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("farina" in the listed ingredient). | Wheat / gluten: flour is an essential part of a typical recipe for this dish.
+Dish: Insalata Rucola e Pomodorini
+Label: Ask the kitchen
+Reason: Milk: parmesan cheese is commonly in this dish (a typical recipe, not the menu).
+Dish: Contorno di Patate
+Label: Ask the kitchen
+Reason: Milk: butter is sometimes in this dish (a typical recipe, not the menu).
+=== PROFILE-D
+Dish: Trofie al Pesto
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Risotto ai Funghi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pasta alla Norma
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Zuppa del Giorno
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Pizza Margherita
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Calamari Fritti
+Label: Avoid
+Reason: Molluscs is listed on the menu ("calamari" in the dish name). | Molluscs: squid is an essential part of a typical recipe for this dish.
+Dish: Insalata Rucola e Pomodorini
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Contorno di Patate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

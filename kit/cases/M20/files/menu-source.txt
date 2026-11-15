@@ -1,0 +1,25 @@
+El Camino Tex-Mex
+
+## Platos
+Chicken Fajitas  $17
+  grilled chicken, peppers, onions, flour tortillas
+Beef Burrito  $14
+  beef, rice, beans, cheese, flour tortilla
+Chicken Mole Enchiladas  $16
+  corn tortillas, chicken, mole, queso fresco
+Loaded Nachos  $12
+  tortilla chips, cheese sauce, jalapeño
+Elote  $6
+  grilled corn, mayo, cotija cheese, chili
+
+## Sides and sweets
+Chips and Salsa  $5
+  corn chips, tomato salsa
+Black Bean Soup  $7
+  black beans, onion, cumin, lime
+Flan  $7
+  caramel custard
+Tres Leches Cake  $8
+  sponge cake soaked in three milks
+Cilantro Lime Rice  $4
+  rice, cilantro, lime

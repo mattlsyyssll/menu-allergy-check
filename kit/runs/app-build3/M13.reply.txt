@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Bibimbap
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kimchi Stew
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Barley Tea
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bulgogi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Japchae
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tteokbokki
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Seafood Pancake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Hotteok
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient).
+Dish: Cold Cucumber Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Bibimbap
+Label: Avoid
+Reason: Sesame is listed on the menu ("sesame" in the listed ingredient). | Sesame: sesame oil is an essential part of a typical recipe for this dish.
+Dish: Kimchi Stew
+Label: Ask the kitchen
+Reason: Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Barley Tea
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bulgogi
+Label: Avoid
+Reason: Sesame is listed on the menu ("sesame" in the listed ingredient). | Sesame: sesame oil is an essential part of a typical recipe for this dish.
+Dish: Japchae
+Label: Avoid
+Reason: Sesame is listed on the menu ("sesame" in the listed ingredient). | Sesame: sesame oil is an essential part of a typical recipe for this dish.
+Dish: Tteokbokki
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Seafood Pancake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Hotteok
+Label: Ask the kitchen
+Reason: Sesame: sesame seeds is sometimes in this dish (a typical recipe, not the menu).
+Dish: Cold Cucumber Salad
+Label: Ask the kitchen
+Reason: Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu). | Sesame: sesame seeds is sometimes in this dish (a typical recipe, not the menu).
+=== PROFILE-C
+Dish: Bibimbap
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient).
+Dish: Kimchi Stew
+Label: Avoid
+Reason: Soy is listed on the menu ("tofu" in the listed ingredient).
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Barley Tea
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("barley" in the dish name). | Wheat / gluten: roasted barley is an essential part of a typical recipe for this dish.
+Dish: Bulgogi
+Label: Avoid
+Reason: Soy is listed on the menu ("soy" in the listed ingredient). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Japchae
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("noodle" in the listed ingredient). | Soy is listed on the menu ("soy" in the listed ingredient). | Wheat / gluten: sweet potato starch noodles is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Tteokbokki
+Label: Ask the kitchen
+Reason: Egg may be hidden: cakes contain egg. | Wheat / gluten may be hidden: cake contains wheat flour. | Egg may be hidden: cakes contain egg (found in a typical recipe: rice cakes). | Wheat / gluten may be hidden: cake contains wheat flour (found in a typical recipe: rice cakes). | Wheat / gluten: anchovy broth is commonly in this dish (a typical recipe, not the menu). | Egg may be hidden: cakes contain egg (found in a typical recipe: fish cakes). | Wheat / gluten may be hidden: cake contains wheat flour (found in a typical recipe: fish cakes). | Egg: boiled egg is sometimes in this dish (a typical recipe, not the menu). | Wheat / gluten: ramen noodles is sometimes in this dish (a typical recipe, not the menu). | Egg may be hidden: ramen noodles often contain egg (found in a typical recipe: ramen noodles). | Soy may be hidden: ramen broth is usually flavored with soy sauce or miso (found in a typical recipe: ramen noodles).
+Dish: Seafood Pancake
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("flour" in the listed ingredient). | Wheat / gluten: flour is an essential part of a typical recipe for this dish.
+Dish: Hotteok
+Label: Avoid
+Reason: Wheat / gluten: flour is an essential part of a typical recipe for this dish.
+Dish: Cold Cucumber Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Bibimbap
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kimchi Stew
+Label: Ask the kitchen
+Reason: Fish may be hidden: kimchi is often made with fish sauce or shrimp. | Crustaceans may be hidden: kimchi often contains salted shrimp. | Molluscs may be hidden: kimchi sometimes contains oysters. | Fish may be hidden: kimchi is often made with fish sauce or shrimp (found in a typical recipe: kimchi). | Crustaceans may be hidden: kimchi often contains salted shrimp (found in a typical recipe: kimchi). | Molluscs may be hidden: kimchi sometimes contains oysters (found in a typical recipe: kimchi). | Fish: anchovy broth is commonly in this dish (a typical recipe, not the menu). | Fish: tuna is sometimes in this dish (a typical recipe, not the menu).
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Barley Tea
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bulgogi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Japchae
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tteokbokki
+Label: Avoid
+Reason: Fish is listed on the menu ("fish" in the listed ingredient).
+Dish: Seafood Pancake
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("seafood" in the dish name). | Molluscs is listed on the menu ("seafood" in the dish name).
+Dish: Hotteok
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cold Cucumber Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

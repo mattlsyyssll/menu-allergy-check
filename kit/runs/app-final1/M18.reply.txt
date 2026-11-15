@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Satay Ayam
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient). | Peanut: peanut is an essential part of a typical recipe for this dish. | Peanut: kecap manis is an essential part of a typical recipe for this dish.
+Dish: Gado-Gado
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient). | Peanut: peanut is an essential part of a typical recipe for this dish.
+Dish: Pisang Goreng
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Roti Canai
+Label: Ask the kitchen
+Reason: Peanut may be hidden: many curries use peanut or nut pastes. | Peanut may be hidden: many curries use peanut or nut pastes (found in a typical recipe: fish curry).
+Dish: Nasi Goreng
+Label: Avoid
+Reason: Peanut: kecap manis is an essential part of a typical recipe for this dish.
+Dish: Mie Goreng
+Label: Avoid
+Reason: Peanut: kecap manis is an essential part of a typical recipe for this dish.
+Dish: Laksa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Beef Rendang
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ayam Goreng
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Es Teh Manis
+Label: Avoid
+Reason: Peanut is listed on the menu ("mani" in the dish name).
+=== PROFILE-B
+Dish: Satay Ayam
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gado-Gado
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pisang Goreng
+Label: Ask the kitchen
+Reason: Sesame: sesame seed is sometimes in this dish (a typical recipe, not the menu).
+Dish: Roti Canai
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: many curries use cashew or almond pastes. | Tree nuts may be hidden: many curries use cashew or almond pastes (found in a typical recipe: fish curry).
+Dish: Nasi Goreng
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Mie Goreng
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Laksa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Beef Rendang
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ayam Goreng
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Es Teh Manis
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Satay Ayam
+Label: Avoid
+Reason: Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Gado-Gado
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Soy is listed on the menu ("tofu" in the listed ingredient). | Soy: tofu is an essential part of a typical recipe for this dish. | Soy: tempeh is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Pisang Goreng
+Label: Avoid
+Reason: Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Roti Canai
+Label: Avoid
+Reason: Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: ghee is an essential part of a typical recipe for this dish.
+Dish: Nasi Goreng
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Soy is listed on the menu ("soy" in the listed ingredient). | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Mie Goreng
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Wheat / gluten is listed on the menu ("noodle" in the listed ingredient). | Wheat / gluten: yellow wheat noodle is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Laksa
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("noodle" in the listed ingredient). | Soy is listed on the menu ("tofu" in the listed ingredient).
+Dish: Beef Rendang
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ayam Goreng
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Es Teh Manis
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Satay Ayam
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gado-Gado
+Label: Ask the kitchen
+Reason: Crustaceans: shrimp paste is commonly in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: shrimp paste is made from shrimp (found in a typical recipe: shrimp paste).
+Dish: Pisang Goreng
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Roti Canai
+Label: Ask the kitchen
+Reason: Fish may be hidden: many Thai and Vietnamese curries contain fish sauce or shrimp paste. | Crustaceans may be hidden: many Southeast Asian curries contain shrimp paste. | Fish: fish curry is sometimes in this dish (a typical recipe, not the menu). | Fish may be hidden: many Thai and Vietnamese curries contain fish sauce or shrimp paste (found in a typical recipe: fish curry). | Crustaceans may be hidden: many Southeast Asian curries contain shrimp paste (found in a typical recipe: fish curry).
+Dish: Nasi Goreng
+Label: Avoid
+Reason: Crustaceans: shrimp paste is an essential part of a typical recipe for this dish.
+Dish: Mie Goreng
+Label: Ask the kitchen
+Reason: Crustaceans: shrimp paste is commonly in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: shrimp paste is made from shrimp (found in a typical recipe: shrimp paste). | Crustaceans: shrimp is commonly in this dish (a typical recipe, not the menu). | Crustaceans: prawn cracker is sometimes in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: prawn crackers are made from prawn (found in a typical recipe: prawn cracker).
+Dish: Laksa
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("prawn" in the listed ingredient). | Crustaceans: shrimp stock is an essential part of a typical recipe for this dish. | Crustaceans: dried shrimp paste is an essential part of a typical recipe for this dish.
+Dish: Beef Rendang
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ayam Goreng
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: sambal is often made with shrimp paste (found in a typical recipe: chili sambal).
+Dish: Es Teh Manis
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

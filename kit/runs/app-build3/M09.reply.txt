@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Phở Bò
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cơm Tôm Sườn
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bún Chợ Giò
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some spring rolls come with a peanut dip (found in a typical recipe: spring roll). | Peanut: peanut is sometimes in this dish (a typical recipe, not the menu).
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Bánh Mì Thốt
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Gỏi Cuốn
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient).
+Dish: Gỏi Gà
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient).
+Dish: Rau Mừng Xào Tỏi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fresh Fruit Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cà Phê Sữa Đá
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Phở Bò
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cơm Tôm Sườn
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bún Chợ Giò
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Bánh Mì Thốt
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread rolls may be topped with sesame.
+Dish: Gỏi Cuốn
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dipping sauces often contain sesame oil. | Tree nuts may be hidden: some hoisin sauces contain nut paste (found in a typical recipe: hoisin sauce). | Sesame may be hidden: hoisin sauce can contain sesame (found in a typical recipe: hoisin sauce).
+Dish: Gỏi Gà
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Rau Mừng Xào Tỏi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fresh Fruit Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cà Phê Sữa Đá
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Phở Bò
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("brot" in the listed ingredient).
+Dish: Cơm Tôm Sườn
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient).
+Dish: Bún Chợ Giò
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: spring roll wrappers are wheat (found in a typical recipe: spring roll).
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Bánh Mì Thốt
+Label: Avoid
+Reason: Egg is listed on the menu ("mayo" in the listed ingredient). | Wheat / gluten is listed on the menu ("bánh mì" in the dish name).
+Dish: Gỏi Cuốn
+Label: Ask the kitchen
+Reason: Soy may be hidden: dipping sauces are often soy based. | Soy: hoisin sauce is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten may be hidden: hoisin sauce is thickened with wheat flour and often contains wheat (found in a typical recipe: hoisin sauce).
+Dish: Gỏi Gà
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Rau Mừng Xào Tỏi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fresh Fruit Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cà Phê Sữa Đá
+Label: Avoid
+Reason: Milk is listed on the menu ("sữa" in the dish name). | Milk: sweetened condensed milk is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Phở Bò
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Cơm Tôm Sườn
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("tôm" in the dish name). | Crustaceans: shrimp is an essential part of a typical recipe for this dish.
+Dish: Bún Chợ Giò
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Bánh Mì Thốt
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Gỏi Cuốn
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("shrimp" in the listed ingredient). | Crustaceans: shrimp is an essential part of a typical recipe for this dish.
+Dish: Gỏi Gà
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Rau Mừng Xào Tỏi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fresh Fruit Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cà Phê Sữa Đá
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

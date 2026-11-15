@@ -1,0 +1,25 @@
+Rosie's Diner
+
+## Plates
+Classic Cheeseburger  $13
+  beef patty, cheddar, bun, pickles
+Caesar Salad  $11
+  romaine, croutons, parmesan, Caesar dressing
+Worcestershire Glazed Chicken Sandwich  $14
+  grilled chicken, Worcestershire glaze, brioche
+Pulled Pork Plate  $15
+  slow-cooked pork, house BBQ sauce, slaw
+Beef Chili  $9
+  beef, beans, tomatoes, chili spices
+Grilled Steak  $24
+  8 oz sirloin, sea salt, black pepper
+
+## Sides and sweets
+Hand-Cut Fries  $5
+  russet potatoes, sea salt
+Garden Salad  $8
+  lettuce, tomato, cucumber, oil and vinegar
+Vanilla Milkshake  $7
+  ice cream, milk
+Chocolate Layer Cake  $8
+  chocolate cake, chocolate frosting

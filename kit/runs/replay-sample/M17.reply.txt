@@ -1,0 +1,131 @@
+SYNTHETIC SAMPLE: made from the answer key by tests/make_replay_sample.py to test the scorer with no model. Not model output. Case M17, variant: perfect reply with English dish names and end punctuation.
+STATUS: PAGES
+
+=== PROFILE-A
+Dish: Shrimp dumpling
+Label: No listed allergen found.
+Reason: test
+Dish: Pork and shrimp dumpling
+Label: No listed allergen found.
+Reason: test
+Dish: BBQ pork bun
+Label: No listed allergen found.
+Reason: test
+Dish: Shrimp rice noodle roll
+Label: No listed allergen found.
+Reason: test
+Dish: Turnip Cake
+Label: No listed allergen found.
+Reason: test
+Dish: Sesame Balls
+Label: Ask the kitchen.
+Reason: test
+Dish: Egg Tart
+Label: No listed allergen found.
+Reason: test
+Dish: Mango Pudding
+Label: No listed allergen found.
+Reason: test
+Dish: Plain Congee
+Label: No listed allergen found.
+Reason: test
+Dish: Blanched Lettuce
+Label: No listed allergen found.
+Reason: test
+
+=== PROFILE-B
+Dish: Shrimp dumpling
+Label: No listed allergen found.
+Reason: test
+Dish: Pork and shrimp dumpling
+Label: No listed allergen found.
+Reason: test
+Dish: BBQ pork bun
+Label: No listed allergen found.
+Reason: test
+Dish: Shrimp rice noodle roll
+Label: No listed allergen found.
+Reason: test
+Dish: Turnip Cake
+Label: No listed allergen found.
+Reason: test
+Dish: Sesame Balls
+Label: Avoid.
+Reason: test
+Dish: Egg Tart
+Label: No listed allergen found.
+Reason: test
+Dish: Mango Pudding
+Label: No listed allergen found.
+Reason: test
+Dish: Plain Congee
+Label: No listed allergen found.
+Reason: test
+Dish: Blanched Lettuce
+Label: No listed allergen found.
+Reason: test
+
+=== PROFILE-C
+Dish: Shrimp dumpling
+Label: Ask the kitchen.
+Reason: test
+Dish: Pork and shrimp dumpling
+Label: Avoid.
+Reason: test
+Dish: BBQ pork bun
+Label: Avoid.
+Reason: test
+Dish: Shrimp rice noodle roll
+Label: Avoid.
+Reason: test
+Dish: Turnip Cake
+Label: Ask the kitchen.
+Reason: test
+Dish: Sesame Balls
+Label: No listed allergen found.
+Reason: test
+Dish: Egg Tart
+Label: Avoid.
+Reason: test
+Dish: Mango Pudding
+Label: Avoid.
+Reason: test
+Dish: Plain Congee
+Label: No listed allergen found.
+Reason: test
+Dish: Blanched Lettuce
+Label: No listed allergen found.
+Reason: test
+
+=== PROFILE-D
+Dish: Shrimp dumpling
+Label: Avoid.
+Reason: test
+Dish: Pork and shrimp dumpling
+Label: Avoid.
+Reason: test
+Dish: BBQ pork bun
+Label: No listed allergen found.
+Reason: test
+Dish: Shrimp rice noodle roll
+Label: Avoid.
+Reason: test
+Dish: Turnip Cake
+Label: Ask the kitchen.
+Reason: test
+Dish: Sesame Balls
+Label: No listed allergen found.
+Reason: test
+Dish: Egg Tart
+Label: No listed allergen found.
+Reason: test
+Dish: Mango Pudding
+Label: Avoid.
+Reason: test
+Dish: Plain Congee
+Label: No listed allergen found.
+Reason: test
+Dish: Blanched Lettuce
+Label: No listed allergen found.
+Reason: test
+

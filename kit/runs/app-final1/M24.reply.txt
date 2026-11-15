@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Grilled Chicken Breast
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Steak
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Roasted Potatoes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Bowl of the Day
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: Garden Salad
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some Asian salad dressings contain peanut (found in a typical recipe: salad dressing).
+Dish: Steamed Broccoli
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baked Sweet Potato
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sliced Fresh Fruit
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sparkling Water
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Grilled Chicken Breast
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Steak
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Roasted Potatoes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Bowl of the Day
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: Garden Salad
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dressings often contain sesame oil (found in a typical recipe: salad dressing).
+Dish: Steamed Broccoli
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baked Sweet Potato
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sliced Fresh Fruit
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sparkling Water
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Grilled Chicken Breast
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Steak
+Label: Ask the kitchen
+Reason: Milk: butter is commonly in this dish (a typical recipe, not the menu).
+Dish: Roasted Potatoes
+Label: Ask the kitchen
+Reason: Milk: parmesan cheese is sometimes in this dish (a typical recipe, not the menu).
+Dish: Steamed Rice
+Label: Ask the kitchen
+Reason: Milk: butter is sometimes in this dish (a typical recipe, not the menu).
+Dish: Chef's Bowl of the Day
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: Garden Salad
+Label: Ask the kitchen
+Reason: Wheat / gluten: croutons is sometimes in this dish (a typical recipe, not the menu).
+Dish: Steamed Broccoli
+Label: Ask the kitchen
+Reason: Milk: butter is sometimes in this dish (a typical recipe, not the menu). | Milk: parmesan cheese is sometimes in this dish (a typical recipe, not the menu).
+Dish: Baked Sweet Potato
+Label: Ask the kitchen
+Reason: Milk: butter is commonly in this dish (a typical recipe, not the menu). | Milk: sour cream is sometimes in this dish (a typical recipe, not the menu).
+Dish: Sliced Fresh Fruit
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sparkling Water
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Grilled Chicken Breast
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Grilled Steak
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Roasted Potatoes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Bowl of the Day
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: Garden Salad
+Label: Ask the kitchen
+Reason: Fish may be hidden: Southeast Asian salad dressings often contain fish sauce (found in a typical recipe: salad dressing). | Crustaceans may be hidden: some Southeast Asian dressings contain dried shrimp (found in a typical recipe: salad dressing).
+Dish: Steamed Broccoli
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baked Sweet Potato
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sliced Fresh Fruit
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sparkling Water
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

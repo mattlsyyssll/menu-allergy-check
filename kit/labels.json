@@ -1,0 +1,73 @@
+{
+ "header": [],
+ "pages": {
+  "PROFILE-A": {
+   "labels": [
+    {
+     "kind": "name",
+     "name": "Dish"
+    },
+    {
+     "kind": "label",
+     "name": "Label"
+    },
+    {
+     "kind": "text",
+     "name": "Reason"
+    }
+   ],
+   "repeat": "Dish"
+  },
+  "PROFILE-B": {
+   "labels": [
+    {
+     "kind": "name",
+     "name": "Dish"
+    },
+    {
+     "kind": "label",
+     "name": "Label"
+    },
+    {
+     "kind": "text",
+     "name": "Reason"
+    }
+   ],
+   "repeat": "Dish"
+  },
+  "PROFILE-C": {
+   "labels": [
+    {
+     "kind": "name",
+     "name": "Dish"
+    },
+    {
+     "kind": "label",
+     "name": "Label"
+    },
+    {
+     "kind": "text",
+     "name": "Reason"
+    }
+   ],
+   "repeat": "Dish"
+  },
+  "PROFILE-D": {
+   "labels": [
+    {
+     "kind": "name",
+     "name": "Dish"
+    },
+    {
+     "kind": "label",
+     "name": "Label"
+    },
+    {
+     "kind": "text",
+     "name": "Reason"
+    }
+   ],
+   "repeat": "Dish"
+  }
+ }
+}

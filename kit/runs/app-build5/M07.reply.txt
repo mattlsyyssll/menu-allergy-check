@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Edamame
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Miso Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pork Gyoza
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Seaweed Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cucumber Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Salmon Sashimi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Katsu
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Shrimp Tempura
+Label: Ask the kitchen
+Reason: Peanut may be hidden: Southeast Asian dipping sauces are often made with peanuts.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Mochi Ice Cream
+Label: Ask the kitchen
+Reason: Peanut: common versions of this dish contain it (Peanut butter flavor variants exist).
+=== PROFILE-B
+Dish: Edamame
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (Sometimes served with sesame oil). | Sesame: sesame oil is sometimes in this dish (a typical recipe, not the menu).
+Dish: Miso Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pork Gyoza
+Label: Avoid
+Reason: Sesame: this dish usually contains it (Sesame oil is typically used in the filling or dipping sauce). | Sesame: sesame oil is an essential part of a typical recipe for this dish.
+Dish: Seaweed Salad
+Label: Avoid
+Reason: Sesame is listed on the menu ("sesame" in the listed ingredient). | Sesame: this dish usually contains it (Contains sesame oil and sesame seeds). | Sesame: sesame oil is an essential part of a typical recipe for this dish. | Sesame: sesame seeds is an essential part of a typical recipe for this dish.
+Dish: Cucumber Salad
+Label: Ask the kitchen
+Reason: Sesame: a typical version usually contains it (Sesame oil and sesame seeds are standard dressings), but the printed ingredients do not show it. Ask the kitchen. | Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu). | Sesame: sesame seeds is commonly in this dish (a typical recipe, not the menu).
+Dish: Salmon Sashimi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Katsu
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Shrimp Tempura
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dipping sauces often contain sesame oil.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Mochi Ice Cream
+Label: Ask the kitchen
+Reason: Tree nuts: common versions of this dish contain it (Tree nut flavor variants exist). | Sesame: common versions of this dish contain it (Black sesame flavor variants exist).
+=== PROFILE-C
+Dish: Edamame
+Label: Avoid
+Reason: Soy is listed on the menu ("edamame" in the dish name). | Soy: this dish usually contains it (Made from soybeans). | Soy: edamame is an essential part of a typical recipe for this dish.
+Dish: Miso Soup
+Label: Avoid
+Reason: Soy is listed on the menu ("miso" in the dish name). | Soy: this dish usually contains it (Miso paste is made from soybeans). | Soy: miso paste is an essential part of a typical recipe for this dish.
+Dish: Pork Gyoza
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (Gyoza wrappers are made of wheat flour). | Soy: this dish usually contains it (Filling and dipping sauce contain soy sauce). | Soy: soy sauce is an essential part of a typical recipe for this dish. | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Seaweed Salad
+Label: Avoid
+Reason: Soy: this dish usually contains it (Dressing contains soy sauce). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Cucumber Salad
+Label: Ask the kitchen
+Reason: Wheat / gluten: common versions of this dish contain it (Soy sauce in the dressing may contain wheat). | Soy: common versions of this dish contain it (Soy sauce is commonly used in dressing variants). | Soy: soy sauce is sometimes in this dish (a typical recipe, not the menu). | Wheat / gluten may be hidden: soy sauce is brewed with wheat (found in a typical recipe: soy sauce).
+Dish: Salmon Sashimi
+Label: Ask the kitchen
+Reason: Soy may be hidden: sashimi is served with soy sauce.
+Dish: Chicken Katsu
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("panko" in the listed ingredient). | Egg: this dish usually contains it (Eggs are used in the breading station). | Wheat / gluten: this dish usually contains it (Flour and panko breadcrumbs contain wheat). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Wheat / gluten: panko breadcrumbs is an essential part of a typical recipe for this dish.
+Dish: Shrimp Tempura
+Label: Avoid
+Reason: Egg: this dish usually contains it (Egg is typically used in the tempura batter). | Wheat / gluten: this dish usually contains it (Tempura batter is made with wheat flour). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Mochi Ice Cream
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the dish name). | Milk: this dish usually contains it (Ice cream filling is dairy-based). | Milk: ice cream is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Edamame
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Miso Soup
+Label: Avoid
+Reason: Fish: this dish usually contains it (Dashi broth typically contains bonito flakes). | Fish: dashi is an essential part of a typical recipe for this dish.
+Dish: Pork Gyoza
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: dumpling fillings often contain shrimp.
+Dish: Seaweed Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cucumber Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Salmon Sashimi
+Label: Avoid
+Reason: Fish is listed on the menu ("salmon" in the dish name). | Fish: this dish usually contains it (Salmon is a fish). | Fish: salmon is an essential part of a typical recipe for this dish.
+Dish: Chicken Katsu
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Shrimp Tempura
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("shrimp" in the dish name). | Crustaceans: this dish usually contains it (Shrimp is a crustacean). | Crustaceans: shrimp is an essential part of a typical recipe for this dish.
+Dish: Steamed Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Mochi Ice Cream
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

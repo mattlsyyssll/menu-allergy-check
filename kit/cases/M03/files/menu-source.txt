@@ -1,0 +1,25 @@
+La Casa de Mole
+
+## Platos fuertes
+Mole Poblano con Pollo  $165
+  pollo con salsa de chiles y chocolate
+Tacos de Pescado  $120
+  pescado empanizado, col, crema
+Camarones al Ajillo  $190
+  camarones, ajo, guajillo
+Enchiladas de Queso  $110
+  tortilla de maíz, queso, salsa roja
+
+## Entradas y postres
+Guacamole con Totopos  $85
+  aguacate, cebolla, cilantro, limón
+Sopa de Tortilla  $75
+  caldo de pollo, tortilla, aguacate, chile pasilla
+Ensalada de Nopales  $70
+  nopal, jitomate, cebolla, cilantro
+Churros con Chocolate  $65
+  masa frita con azúcar y canela
+Flan Napolitano  $70
+  huevo, leche, caramelo
+Agua de Horchata  $35
+  arroz, canela, leche

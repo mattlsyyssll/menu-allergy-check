@@ -1,0 +1,29 @@
+Trattoria Da Marco
+
+## Primi
+Trofie al Pesto  € 12
+  pasta fresca di Genova
+Risotto ai Funghi  € 14
+  riso Carnaroli, funghi porcini, brodo
+Pasta alla Norma  € 12
+  pomodoro, melanzane, ricotta salata
+Zuppa del Giorno  € 6
+  chiedere al cameriere
+
+## Secondi e contorni
+Pizza Margherita  € 10
+  pomodoro, mozzarella, basilico
+Calamari Fritti  € 11
+  anelli di calamaro, farina, limone
+Insalata Rucola e Pomodorini  € 8
+  rucola, pomodorini, olio extravergine, limone
+Contorno di Patate  € 5
+  patate arrosto, sale, rosmarino
+
+## Dolci
+Tiramisù  € 7
+  mascarpone, savoiardi, caffè, cacao
+Gelato al Pistacchio  € 5
+  pistacchio, latte, panna
+Caffè Espresso  € 2
+  caffè

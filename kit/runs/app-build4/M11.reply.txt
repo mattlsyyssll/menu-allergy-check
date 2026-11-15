@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Buttermilk Pancakes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Eggs Benedict
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Avocado Toast
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Granola Bowl
+Label: Ask the kitchen
+Reason: Peanut may be hidden: granola and trail mix often contain peanuts. | Peanut may be hidden: granola and trail mix often contain peanuts (found in a typical recipe: granola).
+Dish: Fresh Fruit Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Almond Croissant
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Marzipan Danish
+Label: Ask the kitchen
+Reason: Peanut may be hidden: marzipan is sometimes extended with peanut.
+Dish: Crispy Hash Browns
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bacon Strips
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Orange Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Buttermilk Pancakes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Eggs Benedict
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Avocado Toast
+Label: Ask the kitchen
+Reason: Sesame may be hidden: toast and sliced breads are often seeded or topped with seeds, including sesame.
+Dish: Granola Bowl
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: granola often contains tree nuts. | Tree nuts may be hidden: granola often contains tree nuts (found in a typical recipe: granola).
+Dish: Fresh Fruit Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Almond Croissant
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("almond" in the dish name). | Tree nuts: almond flour is an essential part of a typical recipe for this dish. | Tree nuts: sliced almond is an essential part of a typical recipe for this dish.
+Dish: Marzipan Danish
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("marzipan" in the dish name). | Tree nuts: almond paste is an essential part of a typical recipe for this dish.
+Dish: Crispy Hash Browns
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bacon Strips
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Orange Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Buttermilk Pancakes
+Label: Avoid
+Reason: Milk is listed on the menu ("buttermilk" in the dish name). | Wheat / gluten: all-purpose flour is an essential part of a typical recipe for this dish. | Milk: buttermilk is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Eggs Benedict
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the dish name). | Egg: poached egg is an essential part of a typical recipe for this dish. | Egg: egg yolk is an essential part of a typical recipe for this dish. | Milk: clarified butter is an essential part of a typical recipe for this dish.
+Dish: Avocado Toast
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("sourdough" in the listed ingredient). | Wheat / gluten: bread is an essential part of a typical recipe for this dish.
+Dish: Granola Bowl
+Label: Avoid
+Reason: Milk is listed on the menu ("yogurt" in the listed ingredient). | Milk: yogurt is an essential part of a typical recipe for this dish.
+Dish: Fresh Fruit Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Almond Croissant
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient). | Wheat / gluten is listed on the menu ("croissant" in the dish name). | Wheat / gluten: croissant is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Wheat / gluten: almond flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Marzipan Danish
+Label: Avoid
+Reason: Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Crispy Hash Browns
+Label: Ask the kitchen
+Reason: Milk: butter is commonly in this dish (a typical recipe, not the menu).
+Dish: Bacon Strips
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Orange Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Buttermilk Pancakes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Eggs Benedict
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Avocado Toast
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Granola Bowl
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fresh Fruit Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Almond Croissant
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Marzipan Danish
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crispy Hash Browns
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bacon Strips
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Orange Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

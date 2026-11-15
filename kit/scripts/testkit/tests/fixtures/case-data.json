@@ -1,0 +1,20 @@
+{"cases": [
+ {"id": "M1", "title": "Mini one",
+  "prompt": "Read the files of case M1 and write the pages SUMMARY, ITEMS and LETTER.",
+  "steps": [{"step": 1, "expert": "files", "reply": "vm-2026-10-15.m4a 08:40\nIMG_1.png"}],
+  "person": {"step1-answer.txt": "Yes"},
+  "served": {"IMG_1.png.txt": "Pay 1,200 to account 55213390"},
+  "key": {
+   "SUMMARY": [{"What happened": {"value": "Caller said the account is under attack", "group": "story"}, "Date of event": "2026-10-15", "Total": {"value": "1200.00 CAD", "group": "money"}, "Items count": "2"}],
+   "ITEMS": [{"Item": "Voicemail", "Code": "A3", "Tags": "fraud; urgent"}, {"Item": "Screenshot", "Code": "B1", "Tags": "gift card"}],
+   "LETTER": [{"Total": {"value": "1200.00 CAD", "group": "money"}, "Date of letter": "2026-11-12", "Reference": "REF-77"}]}},
+ {"id": "M2", "title": "Mini two",
+  "prompt": "Read the files of case M2 and write the pages SUMMARY, ITEMS and LETTER.",
+  "steps": [{"step": 1, "expert": "files", "reply": "chat-2026-09-20.png"}],
+  "person": {"step1-answer.txt": "No"},
+  "served": {"chat-2026-09-20.png.txt": "Send 850 to JK Holdings"},
+  "key": {
+   "SUMMARY": [{"What happened": {"value": "A friend asked for money in a chat", "group": "story"}, "Date of event": "2026-09-20", "Total": {"value": "850.00 CAD", "group": "money"}, "Items count": "1"}],
+   "ITEMS": [{"Item": "Chat", "Code": "D2", "Tags": "romance"}],
+   "LETTER": [{"Total": {"value": "850.00 CAD", "group": "money"}, "Date of letter": "2026-11-12", "Reference": "REF-81"}]}}
+]}

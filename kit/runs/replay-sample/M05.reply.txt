@@ -1,0 +1,131 @@
+SYNTHETIC SAMPLE: made from the answer key by tests/make_replay_sample.py to test the scorer with no model. Not model output. Case M05, variant: perfect reply; no cloud call (empty log).
+STATUS: PAGES
+
+=== PROFILE-A
+Dish: Soupe à l'oignon gratinée
+Label: No listed allergen found
+Reason: test
+Dish: Salade niçoise
+Label: No listed allergen found
+Reason: test
+Dish: Quiche lorraine
+Label: No listed allergen found
+Reason: test
+Dish: Salade verte
+Label: No listed allergen found
+Reason: test
+Dish: Sole meunière
+Label: No listed allergen found
+Reason: test
+Dish: Moules marinières
+Label: No listed allergen found
+Reason: test
+Dish: Ratatouille
+Label: No listed allergen found
+Reason: test
+Dish: Frites maison
+Label: No listed allergen found
+Reason: test
+Dish: Crème brûlée
+Label: No listed allergen found
+Reason: test
+Dish: Tarte aux amandes
+Label: No listed allergen found
+Reason: test
+
+=== PROFILE-B
+Dish: Soupe à l'oignon gratinée
+Label: No listed allergen found
+Reason: test
+Dish: Salade niçoise
+Label: No listed allergen found
+Reason: test
+Dish: Quiche lorraine
+Label: No listed allergen found
+Reason: test
+Dish: Salade verte
+Label: No listed allergen found
+Reason: test
+Dish: Sole meunière
+Label: No listed allergen found
+Reason: test
+Dish: Moules marinières
+Label: No listed allergen found
+Reason: test
+Dish: Ratatouille
+Label: No listed allergen found
+Reason: test
+Dish: Frites maison
+Label: No listed allergen found
+Reason: test
+Dish: Crème brûlée
+Label: No listed allergen found
+Reason: test
+Dish: Tarte aux amandes
+Label: Avoid
+Reason: test
+
+=== PROFILE-C
+Dish: Soupe à l'oignon gratinée
+Label: Avoid
+Reason: test
+Dish: Salade niçoise
+Label: Avoid
+Reason: test
+Dish: Quiche lorraine
+Label: Avoid
+Reason: test
+Dish: Salade verte
+Label: No listed allergen found
+Reason: test
+Dish: Sole meunière
+Label: Avoid
+Reason: test
+Dish: Moules marinières
+Label: Ask the kitchen
+Reason: test
+Dish: Ratatouille
+Label: No listed allergen found
+Reason: test
+Dish: Frites maison
+Label: No listed allergen found
+Reason: test
+Dish: Crème brûlée
+Label: Avoid
+Reason: test
+Dish: Tarte aux amandes
+Label: Avoid
+Reason: test
+
+=== PROFILE-D
+Dish: Soupe à l'oignon gratinée
+Label: No listed allergen found
+Reason: test
+Dish: Salade niçoise
+Label: Avoid
+Reason: test
+Dish: Quiche lorraine
+Label: No listed allergen found
+Reason: test
+Dish: Salade verte
+Label: No listed allergen found
+Reason: test
+Dish: Sole meunière
+Label: Avoid
+Reason: test
+Dish: Moules marinières
+Label: Ask the kitchen
+Reason: test
+Dish: Ratatouille
+Label: No listed allergen found
+Reason: test
+Dish: Frites maison
+Label: No listed allergen found
+Reason: test
+Dish: Crème brûlée
+Label: No listed allergen found
+Reason: test
+Dish: Tarte aux amandes
+Label: No listed allergen found
+Reason: test
+

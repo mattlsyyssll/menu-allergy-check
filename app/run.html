@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Batch runner (dev only)</title>
+    <meta name="robots" content="noindex" />
+    <style>
+      body { font: 15px/1.45 system-ui, sans-serif; max-width: 960px; margin: 24px auto; padding: 0 16px; color: #1c1c1c; }
+      h1 { font-size: 20px; } label { display: block; margin: 8px 0 2px; font-weight: 600; }
+      input[type=text] { width: 100%; padding: 6px; font: inherit; box-sizing: border-box; }
+      button { padding: 8px 14px; font: inherit; margin-right: 8px; cursor: pointer; }
+      .bar { height: 12px; background: #e6e6e6; border-radius: 6px; margin: 10px 0; } .bar > div { height: 100%; width: 0; background: #2f7d32; border-radius: 6px; }
+      table { border-collapse: collapse; width: 100%; margin-top: 12px; } td, th { border-bottom: 1px solid #ddd; padding: 4px 8px; text-align: left; }
+      .bad { color: #b00020; font-weight: 600; } .ok { color: #2f7d32; } .muted { color: #666; } pre { background: #f5f5f5; padding: 8px; overflow: auto; max-height: 200px; }
+    </style>
+  </head>
+  <body>
+    <h1>Batch runner <span class="muted">(dev server only; not in the production build)</span></h1>
+    <p class="muted">Runs the same check as the app on kit menus, per allergy list. Records the label and decider per dish and the cloud request exactly as sent (one per menu, dish names only). Held-out menus (set 1, and set 2 = M25 to M32) are refused unless the address has <code>?final=1</code>. The Download button also saves the run to the kit&#39;s <code>runs/</code> folder (name from <code>?save=NAME</code>, never overwrites).</p>
+    <label for="menus">Menus (ids separated by commas, or <code>dev</code> for the 16 practice menus)</label>
+    <input id="menus" type="text" />
+    <label for="profiles">Allergy lists (A,B,C,D or PROFILE-A...)</label>
+    <input id="profiles" type="text" />
+    <p><label style="display:inline"><input id="cloud" type="checkbox" /> Cloud recipe lookup on (one request per menu with all dish names; only works when a Firebase config is present)</label></p>
+    <p><button id="start">Start</button><button id="stop" disabled>Stop after this list</button><button id="download" disabled>Download JSON</button></p>
+    <p id="status" aria-live="polite">Idle.</p>
+    <div class="bar"><div id="fill"></div></div>
+    <p id="time" class="muted"></p>
+    <table id="table"><thead><tr><th>Menu</th><th>Dishes</th><th>Device calls</th><th>Cloud requests</th><th>Seconds</th><th>Result</th></tr></thead><tbody></tbody></table>
+    <h2 style="font-size:16px">Log</h2>
+    <pre id="log"></pre>
+    <script type="module" src="/src/runner/run.ts"></script>
+  </body>
+</html>

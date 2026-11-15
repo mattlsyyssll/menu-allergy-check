@@ -1,0 +1,137 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Chiles en Nogada
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fish Tacos Baja
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tacos al Pastor
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Camarones a la Diabla
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pozole Rojo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tamales Verdes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ceviche of the Day
+Label: Ask the kitchen
+Reason: "Ceviche of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Guacamole
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chilaquiles Verdes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Buñuelos con Piloncillo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Agua de Jamaica
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Chiles en Nogada
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("walnut" in the English dish name). | Tree nuts: this dish usually contains it (walnuts and pecans are essential for the nogada sauce). | Tree nuts: walnut is an essential part of a typical recipe for this dish.
+Dish: Fish Tacos Baja
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tacos al Pastor
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Camarones a la Diabla
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pozole Rojo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tamales Verdes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ceviche of the Day
+Label: Ask the kitchen
+Reason: "Ceviche of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Guacamole
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chilaquiles Verdes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Buñuelos con Piloncillo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Agua de Jamaica
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Chiles en Nogada
+Label: Avoid
+Reason: Milk: milk is an essential part of a typical recipe for this dish.
+Dish: Fish Tacos Baja
+Label: Avoid
+Reason: Milk is listed on the menu ("crema" in the listed ingredient). | Wheat / gluten is listed on the menu ("flour" in the listed ingredient). | Egg: this dish usually contains it (mayonnaise in the white sauce and egg in batter). | Wheat / gluten: this dish usually contains it (flour used for fish batter and flour tortillas). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: mayonnaise is an essential part of a typical recipe for this dish.
+Dish: Tacos al Pastor
+Label: Ask the kitchen
+Reason: Soy may be hidden: marinades often contain soy sauce. | Wheat / gluten: common versions of this dish contain it (flour tortillas or beer/vinegar derivatives sometimes used). | Soy: common versions of this dish contain it (cooking oils or commercial achiote paste may contain soy).
+Dish: Camarones a la Diabla
+Label: Ask the kitchen
+Reason: Milk: common versions of this dish contain it (butter is commonly used for cooking). | Soy: common versions of this dish contain it (cooking oil or worcestershire sauce variants may contain soy). | Milk: butter is commonly in this dish (a typical recipe, not the menu).
+Dish: Pozole Rojo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tamales Verdes
+Label: Avoid
+Reason: Wheat / gluten: corn masa flour is an essential part of a typical recipe for this dish.
+Dish: Ceviche of the Day
+Label: Ask the kitchen
+Reason: "Ceviche of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Guacamole
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("tortilla" in the listed ingredient).
+Dish: Chilaquiles Verdes
+Label: Avoid
+Reason: Milk is listed on the menu ("queso" in the listed ingredient). | Egg is listed on the menu ("egg" in the listed ingredient). | Wheat / gluten is listed on the menu ("tortilla" in the listed ingredient). | Milk: this dish usually contains it (queso fresco or crema are standard toppings). | Milk: queso fresco is an essential part of a typical recipe for this dish. | Milk: mexican crema is an essential part of a typical recipe for this dish.
+Dish: Buñuelos con Piloncillo
+Label: Avoid
+Reason: Egg: this dish usually contains it (eggs are standard in buñuelo dough). | Wheat / gluten: this dish usually contains it (wheat flour is the base of the pastry). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Agua de Jamaica
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Chiles en Nogada
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fish Tacos Baja
+Label: Avoid
+Reason: Fish is listed on the menu ("fish" in the dish name). | Fish: this dish usually contains it (fish is the main protein of the dish). | Fish: white fish is an essential part of a typical recipe for this dish.
+Dish: Tacos al Pastor
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Camarones a la Diabla
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("camaron" in the dish name). | Crustaceans: this dish usually contains it (shrimp is the main ingredient). | Crustaceans: shrimp is an essential part of a typical recipe for this dish.
+Dish: Pozole Rojo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tamales Verdes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ceviche of the Day
+Label: Ask the kitchen
+Reason: Molluscs may be hidden: ceviche often contains squid or other molluscs. | "Ceviche of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Guacamole
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chilaquiles Verdes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Buñuelos con Piloncillo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Agua de Jamaica
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

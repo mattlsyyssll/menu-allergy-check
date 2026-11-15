@@ -1,0 +1,131 @@
+SYNTHETIC SAMPLE: made from the answer key by tests/make_replay_sample.py to test the scorer with no model. Not model output. Case M01, variant: perfect reply; two dish names sent to the cloud.
+STATUS: PAGES
+
+=== PROFILE-A
+Dish: Spring Rolls
+Label: Ask the kitchen
+Reason: test
+Dish: Papaya Salad
+Label: Ask the kitchen
+Reason: test
+Dish: Chicken Satay
+Label: Avoid
+Reason: test
+Dish: Tom Yum Shrimp Soup
+Label: No listed allergen found
+Reason: test
+Dish: Pad Thai
+Label: Avoid
+Reason: test
+Dish: Green Curry Chicken
+Label: No listed allergen found
+Reason: test
+Dish: Egg Fried Rice
+Label: No listed allergen found
+Reason: test
+Dish: Steamed Jasmine Rice
+Label: No listed allergen found
+Reason: test
+Dish: Fresh Mango Slices
+Label: No listed allergen found
+Reason: test
+Dish: Thai Iced Tea
+Label: No listed allergen found
+Reason: test
+
+=== PROFILE-B
+Dish: Spring Rolls
+Label: No listed allergen found
+Reason: test
+Dish: Papaya Salad
+Label: No listed allergen found
+Reason: test
+Dish: Chicken Satay
+Label: No listed allergen found
+Reason: test
+Dish: Tom Yum Shrimp Soup
+Label: No listed allergen found
+Reason: test
+Dish: Pad Thai
+Label: No listed allergen found
+Reason: test
+Dish: Green Curry Chicken
+Label: No listed allergen found
+Reason: test
+Dish: Egg Fried Rice
+Label: No listed allergen found
+Reason: test
+Dish: Steamed Jasmine Rice
+Label: No listed allergen found
+Reason: test
+Dish: Fresh Mango Slices
+Label: No listed allergen found
+Reason: test
+Dish: Thai Iced Tea
+Label: No listed allergen found
+Reason: test
+
+=== PROFILE-C
+Dish: Spring Rolls
+Label: Avoid
+Reason: test
+Dish: Papaya Salad
+Label: No listed allergen found
+Reason: test
+Dish: Chicken Satay
+Label: Ask the kitchen
+Reason: test
+Dish: Tom Yum Shrimp Soup
+Label: No listed allergen found
+Reason: test
+Dish: Pad Thai
+Label: Avoid
+Reason: test
+Dish: Green Curry Chicken
+Label: No listed allergen found
+Reason: test
+Dish: Egg Fried Rice
+Label: Avoid
+Reason: test
+Dish: Steamed Jasmine Rice
+Label: No listed allergen found
+Reason: test
+Dish: Fresh Mango Slices
+Label: No listed allergen found
+Reason: test
+Dish: Thai Iced Tea
+Label: Avoid
+Reason: test
+
+=== PROFILE-D
+Dish: Spring Rolls
+Label: No listed allergen found
+Reason: test
+Dish: Papaya Salad
+Label: Ask the kitchen
+Reason: test
+Dish: Chicken Satay
+Label: No listed allergen found
+Reason: test
+Dish: Tom Yum Shrimp Soup
+Label: Avoid
+Reason: test
+Dish: Pad Thai
+Label: Ask the kitchen
+Reason: test
+Dish: Green Curry Chicken
+Label: Ask the kitchen
+Reason: test
+Dish: Egg Fried Rice
+Label: No listed allergen found
+Reason: test
+Dish: Steamed Jasmine Rice
+Label: No listed allergen found
+Reason: test
+Dish: Fresh Mango Slices
+Label: No listed allergen found
+Reason: test
+Dish: Thai Iced Tea
+Label: No listed allergen found
+Reason: test
+

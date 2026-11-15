@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: 焼き鳥盛り合わせ
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 鶏の唐揚げ
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: たこ焼き
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: お好み焼き
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 焼きおにぎり
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 刺身盛り合わせ
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: だし巻き卵
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ポテトサラダ
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ごま豆腐
+Label: Ask the kitchen
+Reason: Peanut may be hidden: sesame fillings in sweets and sauces are sometimes extended with peanut (found in a typical recipe: sesame paste).
+Dish: きゅうりの浅漬け
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: 焼き鳥盛り合わせ
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (sometimes used as garnish).
+Dish: 鶏の唐揚げ
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: たこ焼き
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: お好み焼き
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 焼きおにぎり
+Label: Ask the kitchen
+Reason: Sesame may be hidden: rice balls are often sprinkled with sesame. | Sesame: common versions of this dish contain it (sesame oil or seeds used). | Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu). | Sesame: sesame seeds is sometimes in this dish (a typical recipe, not the menu).
+Dish: 刺身盛り合わせ
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: だし巻き卵
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ポテトサラダ
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ごま豆腐
+Label: Avoid
+Reason: Sesame is listed on the menu ("ごま" in the dish name). | Sesame: this dish usually contains it (sesame paste is main ingredient). | Sesame: sesame paste is an essential part of a typical recipe for this dish.
+Dish: きゅうりの浅漬け
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (sesame oil or seeds as garnish). | Sesame: sesame oil is sometimes in this dish (a typical recipe, not the menu). | Sesame: sesame seeds is sometimes in this dish (a typical recipe, not the menu).
+=== PROFILE-C
+Dish: 焼き鳥盛り合わせ
+Label: Avoid
+Reason: Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 鶏の唐揚げ
+Label: Avoid
+Reason: Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: たこ焼き
+Label: Avoid
+Reason: Egg is listed on the menu ("マヨネーズ" in the listed ingredient). | Egg: this dish usually contains it (egg is part of batter). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: お好み焼き
+Label: Avoid
+Reason: Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: 焼きおにぎり
+Label: Avoid
+Reason: Soy is listed on the menu ("醤油" in the listed ingredient). | Wheat / gluten: this dish usually contains it (soy sauce contains wheat). | Soy: this dish usually contains it (soy sauce used for glaze). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 刺身盛り合わせ
+Label: Avoid
+Reason: Soy: this dish usually contains it (served with soy sauce). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: だし巻き卵
+Label: Avoid
+Reason: Egg is listed on the menu ("卵" in the dish name). | Egg: this dish usually contains it (egg is the main ingredient). | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: ポテトサラダ
+Label: Avoid
+Reason: Egg is listed on the menu ("マヨネーズ" in the listed ingredient). | Egg: this dish usually contains it (Japanese mayonnaise contains egg). | Egg: mayonnaise is an essential part of a typical recipe for this dish.
+Dish: ごま豆腐
+Label: Avoid
+Reason: Soy is listed on the menu ("豆腐" in the dish name). | Soy: this dish usually contains it (soy sauce in dipping sauce).
+Dish: きゅうりの浅漬け
+Label: Ask the kitchen
+Reason: Wheat / gluten: common versions of this dish contain it (soy sauce or dashi often used). | Soy: common versions of this dish contain it (soy sauce often used). | Soy: soy sauce is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten may be hidden: soy sauce is brewed with wheat (found in a typical recipe: soy sauce).
+=== PROFILE-D
+Dish: 焼き鳥盛り合わせ
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 鶏の唐揚げ
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: たこ焼き
+Label: Avoid
+Reason: Fish is listed on the menu ("かつお" in the listed ingredient). | Molluscs is listed on the menu ("たこ" in the dish name). | Fish: this dish usually contains it (bonito flakes and dashi). | Molluscs: this dish usually contains it (octopus is the main filling). | Fish: dashi is an essential part of a typical recipe for this dish. | Molluscs: octopus is an essential part of a typical recipe for this dish. | Fish: bonito flakes is an essential part of a typical recipe for this dish.
+Dish: お好み焼き
+Label: Avoid
+Reason: Fish: this dish usually contains it (dashi and bonito flakes). | Fish: dashi is an essential part of a typical recipe for this dish. | Fish: bonito flakes is an essential part of a typical recipe for this dish.
+Dish: 焼きおにぎり
+Label: Ask the kitchen
+Reason: Fish: common versions of this dish contain it (dashi or bonito flakes in rice or glaze). | Fish: dashi is commonly in this dish (a typical recipe, not the menu).
+Dish: 刺身盛り合わせ
+Label: Avoid
+Reason: Fish is listed on the menu ("魚" in the listed ingredient). | Fish: this dish usually contains it (raw fish is the main ingredient). | Fish: tuna is an essential part of a typical recipe for this dish.
+Dish: だし巻き卵
+Label: Avoid
+Reason: Fish is listed on the menu ("dashi" in the English dish name). | Fish: this dish usually contains it (dashi broth made from fish). | Fish: dashi is an essential part of a typical recipe for this dish.
+Dish: ポテトサラダ
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: ごま豆腐
+Label: Ask the kitchen
+Reason: Fish: common versions of this dish contain it (dashi used in sauce). | Fish: dashi is commonly in this dish (a typical recipe, not the menu).
+Dish: きゅうりの浅漬け
+Label: Ask the kitchen
+Reason: Fish: common versions of this dish contain it (dashi or bonito flakes used). | Fish: dashi is commonly in this dish (a typical recipe, not the menu).

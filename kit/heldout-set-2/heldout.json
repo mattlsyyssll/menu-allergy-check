@@ -1,0 +1,44 @@
+{
+ "set": 2,
+ "heldout": [
+  "M25",
+  "M26",
+  "M27",
+  "M28",
+  "M29",
+  "M30",
+  "M31",
+  "M32"
+ ],
+ "development": [],
+ "set1": {
+  "cases": [
+   "M02",
+   "M03",
+   "M04",
+   "M12",
+   "M14",
+   "M18",
+   "M21",
+   "M24"
+  ],
+  "status": "SPENT",
+  "spent": "2026-11-15T00:12Z, model app-final1, see ../FINAL-1-RESULT.md. Do not use set 1 to measure again.",
+  "note": "M24 was partly seen by a helper (see ../KIT-NOTES.md, held-out exposure log)."
+ },
+ "set2": {
+  "cases": [
+   "M25",
+   "M26",
+   "M27",
+   "M28",
+   "M29",
+   "M30",
+   "M31",
+   "M32"
+  ],
+  "status": "SEALED",
+  "rule": "Held-out set 2 measures the NEXT app build. Do not tune on these cases. Score once, after the build is final. Do not open keys/, cases/, case-data.json or ANSWER-KEYS.md in this folder while building the app. Read menus/ and ../profiles.json allergen lists only."
+ },
+ "rule": "Set 1 (M02 M03 M04 M12 M14 M18 M21 M24) is spent. Set 2 (M25-M32) is sealed and scored once."
+}

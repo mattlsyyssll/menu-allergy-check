@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Buttermilk Pancakes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Eggs Benedict
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Avocado Toast
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Granola Bowl
+Label: Ask the kitchen
+Reason: Peanut may be hidden: granola and trail mix often contain peanuts.
+Dish: Fresh Fruit Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Almond Croissant
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Marzipan Danish
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Crispy Hash Browns
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Bacon Strips
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Orange Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Buttermilk Pancakes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Eggs Benedict
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Avocado Toast
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Granola Bowl
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: granola often contains tree nuts.
+Dish: Fresh Fruit Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Almond Croissant
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("almond" in the dish name).
+Dish: Marzipan Danish
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("marzipan" in the dish name).
+Dish: Crispy Hash Browns
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Bacon Strips
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Orange Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-C
+Dish: Buttermilk Pancakes
+Label: Avoid
+Reason: Milk is listed on the menu ("buttermilk" in the dish name).
+Dish: Eggs Benedict
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the dish name).
+Dish: Avocado Toast
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("sourdough" in the listed ingredient).
+Dish: Granola Bowl
+Label: Avoid
+Reason: Milk is listed on the menu ("yogurt" in the listed ingredient).
+Dish: Fresh Fruit Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Almond Croissant
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient). | Wheat / gluten is listed on the menu ("croissant" in the dish name).
+Dish: Marzipan Danish
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Crispy Hash Browns
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Bacon Strips
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Orange Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-D
+Dish: Buttermilk Pancakes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Eggs Benedict
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Avocado Toast
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Granola Bowl
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Fresh Fruit Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Almond Croissant
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Marzipan Danish
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Crispy Hash Browns
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Bacon Strips
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Orange Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

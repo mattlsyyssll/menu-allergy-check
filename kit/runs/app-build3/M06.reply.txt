@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Tortilla Española
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Patatas Bravas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Croquetas de Jamón
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pulpo a la Gallega
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ensalada Mixta
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Paella de Mariscos
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gazpacho Andaluz
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crema Catalana
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Turrón de Almendra
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Agua con Gas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Tortilla Española
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Patatas Bravas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Croquetas de Jamón
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pulpo a la Gallega
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ensalada Mixta
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Paella de Mariscos
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gazpacho Andaluz
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crema Catalana
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Turrón de Almendra
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("almendra" in the dish name). | Tree nuts: almond is an essential part of a typical recipe for this dish.
+Dish: Agua con Gas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Tortilla Española
+Label: Avoid
+Reason: Egg is listed on the menu ("huevo" in the listed ingredient). | Wheat / gluten is listed on the menu ("tortilla" in the dish name). | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Patatas Bravas
+Label: Avoid
+Reason: Egg is listed on the menu ("alioli" in the listed ingredient).
+Dish: Croquetas de Jamón
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pan rallado" in the listed ingredient). | Milk: milk is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Wheat / gluten: breadcrumbs is an essential part of a typical recipe for this dish.
+Dish: Pulpo a la Gallega
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ensalada Mixta
+Label: Ask the kitchen
+Reason: Egg: hard-boiled egg is commonly in this dish (a typical recipe, not the menu).
+Dish: Paella de Mariscos
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("brot" in the English ingredient).
+Dish: Gazpacho Andaluz
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bread" in the English ingredient).
+Dish: Crema Catalana
+Label: Avoid
+Reason: Milk is listed on the menu ("crema" in the dish name). | Egg is listed on the menu ("yema" in the listed ingredient). | Milk: milk is an essential part of a typical recipe for this dish. | Egg: egg yolk is an essential part of a typical recipe for this dish.
+Dish: Turrón de Almendra
+Label: Avoid
+Reason: Egg is listed on the menu ("huevo" in the listed ingredient). | Egg: egg white is an essential part of a typical recipe for this dish.
+Dish: Agua con Gas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Tortilla Española
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Patatas Bravas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Croquetas de Jamón
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pulpo a la Gallega
+Label: Avoid
+Reason: Molluscs is listed on the menu ("pulpo" in the dish name). | Molluscs: octopus is an essential part of a typical recipe for this dish.
+Dish: Ensalada Mixta
+Label: Avoid
+Reason: Fish is listed on the menu ("atún" in the listed ingredient).
+Dish: Paella de Mariscos
+Label: Avoid
+Reason: Fish is listed on the menu ("pescado" in the listed ingredient). | Crustaceans is listed on the menu ("marisco" in the dish name). | Molluscs is listed on the menu ("marisco" in the dish name). | Molluscs: mussels is an essential part of a typical recipe for this dish. | Crustaceans: shrimp is an essential part of a typical recipe for this dish. | Molluscs: squid is an essential part of a typical recipe for this dish. | Fish: fish stock is an essential part of a typical recipe for this dish.
+Dish: Gazpacho Andaluz
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crema Catalana
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Turrón de Almendra
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Agua con Gas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

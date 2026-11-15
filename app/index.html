@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Menu allergy check for a parent</title>
+    <meta name="description" content="Photograph a menu. Your child's allergy list stays on this device. Each dish is marked No listed allergen found, Ask the kitchen or Avoid." />
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <header class="top">
+      <h1>Menu allergy check</h1>
+      <p class="sub">Photograph a menu. Your allergy list never leaves this device.</p>
+      <div class="chips" id="chips" aria-live="polite"></div>
+    </header>
+
+    <main>
+      <section class="card" aria-labelledby="s1">
+        <h2 id="s1"><span class="n">1</span> Allergy list <small>saved only in this browser</small></h2>
+        <div class="allergens" id="allergens"></div>
+        <label class="row">Also avoid (comma separated)
+          <input id="custom" type="text" placeholder="e.g. kiwi, mustard" autocomplete="off" />
+        </label>
+        <label class="row">My language (for the waiter question)
+          <select id="parentLang"></select>
+        </label>
+        <p class="hint" id="saved"></p>
+      </section>
+
+      <section class="card" aria-labelledby="s2">
+        <h2 id="s2"><span class="n">2</span> Menu photo</h2>
+        <div class="actions">
+          <label class="btn">Take or choose a photo
+            <input id="photo" type="file" accept="image/jpeg,image/png,image/*" capture="environment" hidden />
+          </label>
+          <button id="sample" class="btn ghost" type="button">Try a sample menu</button>
+        </div>
+        <img id="preview" alt="Menu photo preview" hidden />
+        <button id="run" class="btn primary" type="button" disabled>Check this menu</button>
+        <p class="hint" id="runHint"></p>
+        <div class="progress" id="progress" hidden>
+          <div class="bar"><div id="barFill"></div></div>
+          <p id="progressText"></p>
+        </div>
+      </section>
+
+      <section class="card" id="resultsCard" aria-labelledby="s3" hidden>
+        <h2 id="s3"><span class="n">3</span> Dishes</h2>
+        <p class="hint">Marks come from the menu text and a built-in list of hidden sources. They are not a guarantee. Always ask the kitchen when in doubt.</p>
+        <ul class="dishes" id="dishes"></ul>
+      </section>
+
+      <section class="card" id="waiterCard" aria-labelledby="s4" hidden>
+        <h2 id="s4"><span class="n">4</span> Question for the waiter</h2>
+        <label class="row">Menu language
+          <select id="menuLang"></select>
+        </label>
+        <div id="waiter"></div>
+      </section>
+
+      <section class="card" aria-labelledby="s5">
+        <h2 id="s5">What left this device</h2>
+        <div id="leftPanel"></div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Open source (MIT). Built with Firebase AI Logic hybrid inference: Chrome's built-in model on the device, a Gemini model in the cloud that gets dish names only, to look up typical recipes.</p>
+    </footer>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Mole Poblano con Pollo
+Label: Ask the kitchen
+Reason: Peanut may be hidden: mole sauces often contain peanuts or other nuts. | Peanut: peanut is commonly in this dish (a typical recipe, not the menu).
+Dish: Tacos de Pescado
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Camarones al Ajillo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Enchiladas de Queso
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Guacamole con Totopos
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sopa de Tortilla
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ensalada de Nopales
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Churros con Chocolate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Flan Napolitano
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Agua de Horchata
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Mole Poblano con Pollo
+Label: Avoid
+Reason: Tree nuts: almond is an essential part of a typical recipe for this dish. | Sesame: sesame seed is an essential part of a typical recipe for this dish.
+Dish: Tacos de Pescado
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Camarones al Ajillo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Enchiladas de Queso
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Guacamole con Totopos
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sopa de Tortilla
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ensalada de Nopales
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Churros con Chocolate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Flan Napolitano
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Agua de Horchata
+Label: Ask the kitchen
+Reason: Tree nuts: almond is commonly in this dish (a typical recipe, not the menu).
+=== PROFILE-C
+Dish: Mole Poblano con Pollo
+Label: Ask the kitchen
+Reason: Milk may be hidden: chocolate often contains milk powder. | Milk may be hidden: chocolate often contains milk powder (found in a typical recipe: mexican chocolate).
+Dish: Tacos de Pescado
+Label: Avoid
+Reason: Milk is listed on the menu ("crema" in the listed ingredient). | Egg: mayonnaise is an essential part of a typical recipe for this dish.
+Dish: Camarones al Ajillo
+Label: Ask the kitchen
+Reason: Milk: butter is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten: bread is commonly in this dish (a typical recipe, not the menu).
+Dish: Enchiladas de Queso
+Label: Avoid
+Reason: Milk is listed on the menu ("queso" in the dish name). | Wheat / gluten is listed on the menu ("tortilla" in the listed ingredient). | Milk: queso fresco is an essential part of a typical recipe for this dish.
+Dish: Guacamole con Totopos
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("tortilla" in the English dish name).
+Dish: Sopa de Tortilla
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("tortilla" in the dish name). | Milk: queso fresco is an essential part of a typical recipe for this dish.
+Dish: Ensalada de Nopales
+Label: Ask the kitchen
+Reason: Milk: queso fresco is commonly in this dish (a typical recipe, not the menu).
+Dish: Churros con Chocolate
+Label: Avoid
+Reason: Wheat / gluten: all-purpose flour is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish.
+Dish: Flan Napolitano
+Label: Avoid
+Reason: Milk is listed on the menu ("leche" in the listed ingredient). | Egg is listed on the menu ("huevo" in the listed ingredient). | Milk: sweetened condensed milk is an essential part of a typical recipe for this dish. | Milk: evaporated milk is an essential part of a typical recipe for this dish. | Milk: cream cheese is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Agua de Horchata
+Label: Avoid
+Reason: Milk is listed on the menu ("leche" in the listed ingredient).
+=== PROFILE-D
+Dish: Mole Poblano con Pollo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tacos de Pescado
+Label: Avoid
+Reason: Fish is listed on the menu ("pescado" in the dish name). | Fish: fish fillet is an essential part of a typical recipe for this dish.
+Dish: Camarones al Ajillo
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("camaron" in the dish name). | Crustaceans: shrimp is an essential part of a typical recipe for this dish.
+Dish: Enchiladas de Queso
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Guacamole con Totopos
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sopa de Tortilla
+Label: Ask the kitchen
+Reason: Fish may be hidden: broth may be made with fish.
+Dish: Ensalada de Nopales
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Churros con Chocolate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Flan Napolitano
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Agua de Horchata
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

@@ -1,0 +1,125 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Tortilla Española
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Patatas Bravas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Croquetas de Jamón
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pulpo a la Gallega
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Ensalada Mixta
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Paella de Mariscos
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Gazpacho Andaluz
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Crema Catalana
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Turrón de Almendra
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Agua con Gas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-B
+Dish: Tortilla Española
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Patatas Bravas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Croquetas de Jamón
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pulpo a la Gallega
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Ensalada Mixta
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Paella de Mariscos
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Gazpacho Andaluz
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Crema Catalana
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Turrón de Almendra
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("almendra" in the dish name).
+Dish: Agua con Gas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-C
+Dish: Tortilla Española
+Label: Avoid
+Reason: Egg is listed on the menu ("huevo" in the listed ingredient). | Wheat / gluten is listed on the menu ("tortilla" in the dish name).
+Dish: Patatas Bravas
+Label: Avoid
+Reason: Egg is listed on the menu ("alioli" in the listed ingredient).
+Dish: Croquetas de Jamón
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pan rallado" in the listed ingredient).
+Dish: Pulpo a la Gallega
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Ensalada Mixta
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Paella de Mariscos
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("brot" in the English ingredient).
+Dish: Gazpacho Andaluz
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bread" in the English ingredient).
+Dish: Crema Catalana
+Label: Avoid
+Reason: Milk is listed on the menu ("crema" in the dish name). | Egg is listed on the menu ("yema" in the listed ingredient).
+Dish: Turrón de Almendra
+Label: Avoid
+Reason: Egg is listed on the menu ("huevo" in the listed ingredient).
+Dish: Agua con Gas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+=== PROFILE-D
+Dish: Tortilla Española
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Patatas Bravas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Croquetas de Jamón
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Pulpo a la Gallega
+Label: Avoid
+Reason: Molluscs is listed on the menu ("pulpo" in the dish name).
+Dish: Ensalada Mixta
+Label: Avoid
+Reason: Fish is listed on the menu ("atún" in the listed ingredient).
+Dish: Paella de Mariscos
+Label: Avoid
+Reason: Fish is listed on the menu ("pescado" in the listed ingredient). | Crustaceans is listed on the menu ("marisco" in the dish name). | Molluscs is listed on the menu ("marisco" in the dish name).
+Dish: Gazpacho Andaluz
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Crema Catalana
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Turrón de Almendra
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.
+Dish: Agua con Gas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text.

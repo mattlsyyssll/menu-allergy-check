@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Test-kit kit.json",
+  "description": "Paths are relative to the folder that holds kit.json. The contest supplies this data; the library holds all code.",
+  "type": "object",
+  "required": ["name", "labels", "case_data", "entry", "freeze"],
+  "properties": {
+    "name": {"type": "string"},
+    "labels": {"type": "string", "description": "labels.json: header labels on every page, the pages, their labels in order and each label's value kind. Page: {labels: [{name, kind: text|number|date|money|list|code, rule_words?}], repeat?: label that starts a new row, prefix?: page-name prefix that maps to this page}."},
+    "case_data": {"type": "string", "description": "Case-data JSON: {cases: [{id, title, prompt, steps: [{step, expert, reply}], person: {file: text}, served: {file: text}, key: {PAGE: [{label: value | {value, group, match}}]}}]}"},
+    "dirs": {
+      "type": "object",
+      "description": "Folders for cases, keys, runs, scores, prompts (defaults: the same names).",
+      "properties": {"cases": {"type": "string"}, "keys": {"type": "string"}, "runs": {"type": "string"}, "scores": {"type": "string"}, "prompts": {"type": "string"}}
+    },
+    "entry": {
+      "type": "object",
+      "description": "The entry under test, for trace.py.",
+      "required": ["templates"],
+      "properties": {"templates": {"type": "string"}, "text": {"type": "array", "items": {"type": "string"}}, "rules": {"type": "string", "description": "JSON {forbid: [{page, label, value, rule}]}"}}
+    },
+    "freeze": {
+      "type": "object",
+      "required": ["files"],
+      "properties": {"files": {"type": "array", "items": {"type": "string"}}, "hashfile": {"type": "string", "default": "FROZEN-HASHES.txt"}}
+    },
+    "replay": {
+      "type": "object",
+      "properties": {
+        "rules": {"type": "array", "items": {"type": "object", "required": ["rule"], "properties": {"rule": {"enum": ["same_fact", "copy_hashes"]}, "name": {"type": "string"}, "refs": {"type": "array"}, "kind": {"type": "string"}, "page": {"type": "string"}}}},
+        "allowed_reads": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "plugin": {"type": ["string", "null"], "description": "Python file with optional score_extra(case, key, status, pages, text) and replay_extra(case, key, status, pages, text, transcript)."}
+  }
+}
