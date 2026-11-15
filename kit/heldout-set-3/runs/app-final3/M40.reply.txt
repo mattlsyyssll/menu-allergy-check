@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Hokkien Mee
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bak Kut Teh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Oyster Omelette
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some chili sauces and dips contain ground peanuts. | Peanut may be hidden: some chili sauces and dips contain ground peanuts (found in a typical recipe: chili sauce).
+Dish: Chee Cheong Fun
+Label: Ask the kitchen
+Reason: Peanut: a typical version usually contains it (toasted sesame and crushed peanuts often served on top), but the printed ingredients do not show it. Ask the kitchen. | Peanut: crushed peanut is commonly in this dish (a typical recipe, not the menu).
+Dish: Hainanese Chicken Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Curry Mee
+Label: Ask the kitchen
+Reason: Peanut may be hidden: many curries use peanut or nut pastes. | Peanut may be hidden: many curries use peanut or nut pastes (found in a typical recipe: curry paste).
+Dish: Ipoh Bean Sprout Chicken
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some chili sauces and dips contain ground peanuts (found in a typical recipe: chili sauce).
+Dish: Kaya Toast Set
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pandan Chiffon Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ais Kacang
+Label: Ask the kitchen
+Reason: Peanut: a typical version usually contains it (toasted crushed peanuts sprinkled on top), but the printed ingredients do not show it. Ask the kitchen. | Peanut: crushed peanut is commonly in this dish (a typical recipe, not the menu).
+Dish: Kopi O
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kopitiam Special of the Day
+Label: Ask the kitchen
+Reason: "Kopitiam Special of the Day" changes from day to day or cook to cook ("special"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-B
+Dish: Hokkien Mee
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (sesame oil). | Sesame: sesame oil is sometimes in this dish (a typical recipe, not the menu).
+Dish: Bak Kut Teh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Oyster Omelette
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chee Cheong Fun
+Label: Avoid
+Reason: Sesame: sesame oil is an essential part of a typical recipe for this dish.
+Dish: Hainanese Chicken Rice
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (sesame oil used on chicken). | Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: Curry Mee
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: many curries use cashew or almond pastes. | Tree nuts may be hidden: many curries use cashew or almond pastes (found in a typical recipe: curry paste).
+Dish: Ipoh Bean Sprout Chicken
+Label: Avoid
+Reason: Sesame: this dish usually contains it (sesame oil used generously). | Sesame: sesame oil is an essential part of a typical recipe for this dish.
+Dish: Kaya Toast Set
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame. | Sesame may be hidden: bread, buns and rolls may contain sesame (found in a typical recipe: white bread).
+Dish: Pandan Chiffon Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ais Kacang
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kopi O
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kopitiam Special of the Day
+Label: Ask the kitchen
+Reason: "Kopitiam Special of the Day" changes from day to day or cook to cook ("special"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-C
+Dish: Hokkien Mee
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Wheat / gluten is listed on the menu ("noodle" in the listed ingredient). | Wheat / gluten: this dish usually contains it (yellow wheat noodles). | Wheat / gluten: yellow wheat noodle is an essential part of a typical recipe for this dish. | Soy: light soy sauce is an essential part of a typical recipe for this dish.
+Dish: Bak Kut Teh
+Label: Avoid
+Reason: Soy is listed on the menu ("soy" in the listed ingredient). | Soy: this dish usually contains it (dark and light soy sauce in broth and dip).
+Dish: Oyster Omelette
+Label: Avoid
+Reason: Egg is listed on the menu ("omelette" in the dish name). | Egg: this dish usually contains it (main base is egg). | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Chee Cheong Fun
+Label: Avoid
+Reason: Soy: light soy sauce is an essential part of a typical recipe for this dish.
+Dish: Hainanese Chicken Rice
+Label: Avoid
+Reason: Soy is listed on the menu ("soy" in the listed ingredient). | Soy: this dish usually contains it (light and dark soy sauce and ginger-soy dip). | Soy: light soy sauce is an essential part of a typical recipe for this dish.
+Dish: Curry Mee
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("noodle" in the listed ingredient). | Soy is listed on the menu ("tofu" in the listed ingredient). | Wheat / gluten: this dish usually contains it (yellow wheat noodles). | Wheat / gluten: yellow wheat noodle is an essential part of a typical recipe for this dish.
+Dish: Ipoh Bean Sprout Chicken
+Label: Avoid
+Reason: Soy is listed on the menu ("soy" in the listed ingredient). | Soy: this dish usually contains it (light soy sauce base for poaching liquid and dressing). | Soy: light soy sauce is an essential part of a typical recipe for this dish.
+Dish: Kaya Toast Set
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Egg is listed on the menu ("egg" in the listed ingredient). | Wheat / gluten is listed on the menu ("bread" in the listed ingredient). | Milk: this dish usually contains it (butter is essential). | Egg: this dish usually contains it (kaya contains eggs and served with soft-boiled eggs). | Wheat / gluten: this dish usually contains it (white bread slices). | Wheat / gluten: white bread is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Pandan Chiffon Slice
+Label: Avoid
+Reason: Egg: this dish usually contains it (egg whites and yolks are essential for chiffon structure). | Wheat / gluten: this dish usually contains it (cake flour contains wheat gluten). | Wheat / gluten: cake flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Ais Kacang
+Label: Avoid
+Reason: Milk is listed on the menu ("milk" in the listed ingredient). | Milk: this dish usually contains it (evaporated milk or condensed milk drizzled over ice). | Milk: evaporated milk is an essential part of a typical recipe for this dish.
+Dish: Kopi O
+Label: Ask the kitchen
+Reason: Soy may be hidden: margarine often contains soy oil or lecithin (found in a typical recipe: margarine).
+Dish: Kopitiam Special of the Day
+Label: Ask the kitchen
+Reason: "Kopitiam Special of the Day" changes from day to day or cook to cook ("special"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-D
+Dish: Hokkien Mee
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("prawn" in the listed ingredient). | Molluscs is listed on the menu ("squid" in the listed ingredient). | Crustaceans: this dish usually contains it (prawns and prawn stock). | Molluscs: this dish usually contains it (squid and oyster sauce). | Crustaceans: prawn is an essential part of a typical recipe for this dish. | Crustaceans: prawn stock is an essential part of a typical recipe for this dish.
+Dish: Bak Kut Teh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Oyster Omelette
+Label: Avoid
+Reason: Molluscs is listed on the menu ("oyster" in the dish name). | Molluscs: this dish usually contains it (oysters are essential). | Molluscs: oyster is an essential part of a typical recipe for this dish.
+Dish: Chee Cheong Fun
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("shrimp" in the listed ingredient).
+Dish: Hainanese Chicken Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Curry Mee
+Label: Avoid
+Reason: Molluscs is listed on the menu ("cockle" in the listed ingredient). | Crustaceans: this dish usually contains it (prawns and dried shrimp paste (belacan)). | Crustaceans: dried shrimp paste is an essential part of a typical recipe for this dish.
+Dish: Ipoh Bean Sprout Chicken
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kaya Toast Set
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pandan Chiffon Slice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ais Kacang
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kopi O
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kopitiam Special of the Day
+Label: Ask the kitchen
+Reason: "Kopitiam Special of the Day" changes from day to day or cook to cook ("special"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.

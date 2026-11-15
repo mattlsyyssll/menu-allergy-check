@@ -1,0 +1,161 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: 餐肉蛋治
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 乾炒河粉
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 星洲炒米
+Label: Ask the kitchen
+Reason: Peanut may be hidden: many curries use peanut or nut pastes. | Peanut may be hidden: many curries use peanut or nut pastes (found in a typical recipe: curry powder).
+Dish: 焗豬扒飯
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 咖哩魚蛋
+Label: Ask the kitchen
+Reason: Peanut may be hidden: many curries use peanut or nut pastes. | Peanut may be hidden: many curries use peanut or nut pastes (found in a typical recipe: curry powder).
+Dish: 沙爹牛肉麵
+Label: Avoid
+Reason: Peanut: this dish usually contains it (Satay sauce contains peanut butter). | Peanut: peanut butter is an essential part of a typical recipe for this dish.
+Dish: 點心與飲品
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: 菠蘿油
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 西多士
+Label: Avoid
+Reason: Peanut is listed on the menu ("花生" in the listed ingredient). | Peanut: this dish usually contains it (Peanut butter filling). | Peanut: peanut butter is an essential part of a typical recipe for this dish.
+Dish: 港式奶茶
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Coconut Milk
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 凍檸茶
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 今日小湯
+Label: Ask the kitchen
+Reason: "今日小湯" changes from day to day or cook to cook ("今日"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-B
+Dish: 餐肉蛋治
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame. | Sesame may be hidden: bread, buns and rolls may contain sesame (found in a typical recipe: white bread).
+Dish: 乾炒河粉
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (Sesame oil used). | Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: 星洲炒米
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: many curries use cashew or almond pastes. | Sesame: common versions of this dish contain it (Sesame oil). | Tree nuts may be hidden: many curries use cashew or almond pastes (found in a typical recipe: curry powder).
+Dish: 焗豬扒飯
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 咖哩魚蛋
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: many curries use cashew or almond pastes. | Tree nuts may be hidden: many curries use cashew or almond pastes (found in a typical recipe: curry powder).
+Dish: 沙爹牛肉麵
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (Sesame paste or oil in satay). | Tree nuts may be hidden: many curries use cashew or almond pastes (found in a typical recipe: curry powder).
+Dish: 點心與飲品
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: 菠蘿油
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame.
+Dish: 西多士
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame. | Sesame may be hidden: bread, buns and rolls may contain sesame (found in a typical recipe: white bread).
+Dish: 港式奶茶
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Coconut Milk
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 凍檸茶
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 今日小湯
+Label: Ask the kitchen
+Reason: "今日小湯" changes from day to day or cook to cook ("今日"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-C
+Dish: 餐肉蛋治
+Label: Avoid
+Reason: Egg is listed on the menu ("蛋" in the dish name). | Wheat / gluten is listed on the menu ("bread" in the English ingredient). | Egg: this dish usually contains it (Contains fried egg). | Wheat / gluten: this dish usually contains it (White bread slice). | Wheat / gluten: white bread is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: 乾炒河粉
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (Soy sauce contains wheat). | Soy: this dish usually contains it (Soy sauce and dark soy sauce). | Soy: soy sauce is an essential part of a typical recipe for this dish. | Soy: dark soy sauce is an essential part of a typical recipe for this dish.
+Dish: 星洲炒米
+Label: Avoid
+Reason: Egg: this dish usually contains it (Scrambled egg strips). | Soy: this dish usually contains it (Soy sauce used). | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: 焗豬扒飯
+Label: Avoid
+Reason: Milk is listed on the menu ("芝士" in the listed ingredient). | Milk: this dish usually contains it (Cheese topping and butter).
+Dish: 咖哩魚蛋
+Label: Avoid
+Reason: Egg is listed on the menu ("蛋" in the dish name).
+Dish: 沙爹牛肉麵
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("麵" in the dish name). | Wheat / gluten: this dish usually contains it (Instant noodle blocks are wheat-based). | Wheat / gluten: instant noodle is an essential part of a typical recipe for this dish.
+Dish: 點心與飲品
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: 菠蘿油
+Label: Avoid
+Reason: Milk is listed on the menu ("牛油" in the listed ingredient). | Milk: this dish usually contains it (Butter slice and milk in bun). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: 西多士
+Label: Avoid
+Reason: Milk is listed on the menu ("奶粉" in the listed ingredient). | Wheat / gluten is listed on the menu ("麵包" in the listed ingredient). | Milk: this dish usually contains it (Milk mixed with egg wash). | Egg: this dish usually contains it (Egg coating). | Wheat / gluten: this dish usually contains it (Bread slices). | Wheat / gluten: white bread is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: 港式奶茶
+Label: Avoid
+Reason: Milk is listed on the menu ("奶茶" in the dish name). | Milk: this dish usually contains it (Evaporated milk and condensed milk). | Milk: evaporated milk is an essential part of a typical recipe for this dish.
+Dish: Coconut Milk
+Label: Avoid
+Reason: Milk is listed on the menu ("奶茶" in the listed ingredient).
+Dish: 凍檸茶
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 今日小湯
+Label: Ask the kitchen
+Reason: "今日小湯" changes from day to day or cook to cook ("今日"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-D
+Dish: 餐肉蛋治
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 乾炒河粉
+Label: Ask the kitchen
+Reason: Molluscs: common versions of this dish contain it (Oyster sauce in seasoning). | Molluscs: oyster sauce is commonly in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: some oyster sauces contain shrimp or other shellfish extract (found in a typical recipe: oyster sauce). | Molluscs may be hidden: oyster sauce is made from oysters (found in a typical recipe: oyster sauce).
+Dish: 星洲炒米
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("蝦" in the listed ingredient). | Molluscs is listed on the menu ("seafood" in the English dish name). | Crustaceans: this dish usually contains it (Shrimp used).
+Dish: 焗豬扒飯
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 咖哩魚蛋
+Label: Avoid
+Reason: Fish is listed on the menu ("魚" in the dish name). | Fish: this dish usually contains it (Fish balls made of fish surimi). | Fish: fish ball is an essential part of a typical recipe for this dish.
+Dish: 沙爹牛肉麵
+Label: Ask the kitchen
+Reason: Fish: common versions of this dish contain it (Fish sauce or dried shrimp in satay). | Crustaceans: common versions of this dish contain it (Dried shrimp paste in satay). | Fish may be hidden: many Thai and Vietnamese curries contain fish sauce or shrimp paste (found in a typical recipe: curry powder). | Crustaceans may be hidden: many Southeast Asian curries contain shrimp paste (found in a typical recipe: curry powder).
+Dish: 點心與飲品
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: 菠蘿油
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 西多士
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 港式奶茶
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Coconut Milk
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 凍檸茶
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 今日小湯
+Label: Ask the kitchen
+Reason: "今日小湯" changes from day to day or cook to cook ("今日"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.

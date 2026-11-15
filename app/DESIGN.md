@@ -26,7 +26,8 @@ There are exactly three, and none says "safe":
 
 How a dish gets its label:
 - An allergen printed on the menu gives **Avoid**.
-- A hidden-sources table hit, or a cloud rating of `often`, `unknown` or no rating for a listed allergen, gives **Ask the kitchen**.
+- A hidden-sources table hit (dishes, sauces and the named foods on FARE's "may contain" lists), a cloud rating of `unknown` or no rating, or a rating of `often` for peanut or tree nuts, gives **Ask the kitchen**. For other allergens a rating of `often` counts only through an ingredient in the cloud's recipe list.
+- A line that looks like a menu section heading ("Snacks and Desserts", "Salades et soupes") is at least **Ask the kitchen**: the photo read may have merged several dishes under it.
 - A cloud rating of `usually` gives **Avoid**. If the menu prints ingredients and neither the printed words nor the table point to that allergen, it gives **Ask the kitchen**.
 - Dishes whose name says they vary ("of the day", "del giorno", "du jour", "special", "chef's", "seasonal", "house" and the same ideas in other languages) are at least **Ask the kitchen**.
 - The stricter mark wins across printed text, tables, recipe and rating. A cloud answer never lowers a mark set from the menu text.

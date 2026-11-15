@@ -1,6 +1,6 @@
 # Kit notes: menu allergy check for a parent
 
-Status: kit built and frozen 2026-11-14, before any run. The sections below describe the kit as frozen. Results of later runs are in `FINAL-1-RESULT.md`, `FINAL-2-RESULT.md`, `scores/` and `heldout-set-2/scores/`; held-out sets 1 and 2 are both spent and their keys are published.
+Status: kit built and frozen 2026-11-14, before any run. The sections below describe the kit as frozen. Results of later runs are in `FINAL-1-RESULT.md` to `FINAL-5-RESULT.md`, `scores/` and `heldout-set-2/scores/` to `heldout-set-5/scores/`; held-out sets 1 to 5 are all spent and their keys are published.
 
 ## Numbers
 
@@ -122,3 +122,10 @@ Sources fetched 2026-11-14 and checked against the page text: FDA food allergies
 ## Held-out set 2 (built 2026-11-15 00:21 UTC)
 - Set 1 is spent (FINAL-1-RESULT.md). Set 2 = M25 to M32, 8 menus, 91 dishes, 364 answers, in `heldout-set-2/` (own kit.json, keys, menus, freeze file `FROZEN-HASHES-2.txt`). Keys hashed in `KEYS-HASHES-2.txt` (timestamp on line 1). Set-1 files, the frozen checker and root `heldout.json` are unchanged; the set-2 `heldout.json` lists set 1 as SPENT and set 2 as SEALED. See `heldout-set-2/README-SET2.md`.
 - Check: `cd heldout-set-2; python3 -I ../scripts/testkit/freeze.py check kit.json`. The set-2 freeze list includes `../scripts` and `../allergy_plugin.py`, so a checker change fails it.
+
+## Held-out sets 3 to 5 (built 2026-11-15)
+- Each set was built by a helper that never read the app, in its own folder with its own kit.json, keys, menus and freeze file; keys hashed before any run (`KEYS-HASHES-3.txt` 01:46:24 UTC, `KEYS-HASHES-4.txt` 02:28:05 UTC, `KEYS-HASHES-5.txt` 03:21:48 UTC). Frozen set-1 and set-2 files are unchanged (each set's freeze check covers `../scripts` and `../allergy_plugin.py`).
+- Set 3 (M33-M40): the brief said "apply each FARE rule to every dish it covers", and the key writer also applied FARE's broad cross-contact lines per dish (baked goods, sauces and marinades, soups, shellfish dipped in milk). 69 of 206 hazard answers rest only on those lines; all 38 official false-safe answers are among them. `rescore-set3/` re-labels those answers with the set 1-2 rules; it was made after the official score was seen, and the official score stands.
+- Sets 4 (M41-M48) and 5 (M49-M56): key rules written before each run (`heldout-set-4/README-SET4.md`, copied unchanged into `heldout-set-5/README-SET5.md`): named foods count for every dish that holds them; broad category, cuisine and cross-contact lines do not. All set-5 menus have section headings.
+- Known key question, set 4: Picanha na Brasa is wheat Avoid because farofa was read as flour; farofa is usually toasted cassava flour. Unverified; the official score stands.
+- The kit test `test_keys_written_before_any_run` expects only folders directly under `runs/`; the runner's whole-run files are in `runs/saved/`.

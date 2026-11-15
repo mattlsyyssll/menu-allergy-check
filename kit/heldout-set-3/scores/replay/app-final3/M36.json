@@ -1,0 +1,32 @@
+{
+ "case": "M36",
+ "model": "app-final3",
+ "pass": false,
+ "rules": [
+  {
+   "detail": "4 pages parsed",
+   "name": "pages_parsed",
+   "ok": true
+  },
+  {
+   "detail": "all key pages present",
+   "name": "required_pages",
+   "ok": true
+  },
+  {
+   "detail": "1 cloud requests read",
+   "name": "cloud_log_readable",
+   "ok": true
+  },
+  {
+   "detail": "allergy term sent: request 1: 'allerg'; request 1: 'crustacean'; request 1: 'crustaceans'; request 1: 'egg'; request 1: 'fish'",
+   "name": "privacy_allergy_terms",
+   "ok": false
+  },
+  {
+   "detail": "no image data in 1 cloud requests",
+   "name": "privacy_image_data",
+   "ok": true
+  }
+ ]
+}

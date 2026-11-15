@@ -1,0 +1,161 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Adjaruli Khachapuri
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Phkati
+Label: Ask the kitchen
+Reason: The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Lobiani
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chakhokhti
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Msiladi
+Label: Ask the kitchen
+Reason: The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Khinkali
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kupati
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Supra Master's Choice
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: Salads, sweets and drinks
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: Tomato Salad with Sunflower Oil
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Churchkhela
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fig and Pear Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tarkhuna Lemonade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Adjaruli Khachapuri
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame.
+Dish: Phkati
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("walnut" in the listed ingredient).
+Dish: Lobiani
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame.
+Dish: Chakhokhti
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Msiladi
+Label: Ask the kitchen
+Reason: The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Khinkali
+Label: Ask the kitchen
+Reason: Sesame may be hidden: dumpling fillings and dips often contain sesame oil.
+Dish: Kupati
+Label: Ask the kitchen
+Reason: Sesame may be hidden: FARE lists this food as a possible sesame source.
+Dish: Supra Master's Choice
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: Salads, sweets and drinks
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: Tomato Salad with Sunflower Oil
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Churchkhela
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("walnut" in the listed ingredient). | Tree nuts: this dish usually contains it (Walnuts are essential). | Tree nuts: walnut is an essential part of a typical recipe for this dish.
+Dish: Fig and Pear Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tarkhuna Lemonade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Adjaruli Khachapuri
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Egg is listed on the menu ("egg" in the listed ingredient). | Wheat / gluten is listed on the menu ("bread" in the listed ingredient). | Milk: this dish usually contains it (Cheese and butter are essential). | Egg: this dish usually contains it (Raw egg yolk is added on top). | Wheat / gluten: this dish usually contains it (Wheat flour dough is essential). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: sulguni cheese is an essential part of a typical recipe for this dish. | Milk: imereti cheese is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Phkati
+Label: Ask the kitchen
+Reason: The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Lobiani
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bread" in the listed ingredient). | Wheat / gluten: this dish usually contains it (Wheat flour is used for the dough). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Chakhokhti
+Label: Ask the kitchen
+Reason: Milk: butter is commonly in this dish (a typical recipe, not the menu).
+Dish: Msiladi
+Label: Ask the kitchen
+Reason: The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Khinkali
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (Wheat flour is essential for the wrapper). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Kupati
+Label: Ask the kitchen
+Reason: Milk may be hidden: FARE lists this food as a possible milk source (for example butter, milk powder or casein). | Wheat / gluten may be hidden: sausages often contain breadcrumbs or rusk. | Soy may be hidden: FARE lists this food as a possible soy source.
+Dish: Supra Master's Choice
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: Salads, sweets and drinks
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: Tomato Salad with Sunflower Oil
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Churchkhela
+Label: Ask the kitchen
+Reason: Wheat / gluten: wheat flour is commonly in this dish (a typical recipe, not the menu).
+Dish: Fig and Pear Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tarkhuna Lemonade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Adjaruli Khachapuri
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Phkati
+Label: Ask the kitchen
+Reason: The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Lobiani
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chakhokhti
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Msiladi
+Label: Ask the kitchen
+Reason: The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Khinkali
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: dumpling fillings often contain shrimp.
+Dish: Kupati
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Supra Master's Choice
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: Salads, sweets and drinks
+Label: Ask the kitchen
+Reason: The typical recipe of this dish could not be worked out with confidence. Ask the kitchen what is in it.
+Dish: Tomato Salad with Sunflower Oil
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Churchkhela
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fig and Pear Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tarkhuna Lemonade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

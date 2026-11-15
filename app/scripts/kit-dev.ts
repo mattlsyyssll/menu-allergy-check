@@ -1,15 +1,16 @@
 // Dev-only helpers for the Vite dev server (used by vite.config.js, never part of `vite build`):
 //  - read-only access to a few kit files so /run.html can load menus and profiles;
-//  - POST /kit-save: writes one run JSON to <kit>/runs/<name>.json so results do not depend on browser downloads.
+//  - POST /kit-save: writes one run JSON to <kit>/runs/saved/<name>.json so results do not depend on browser downloads
+//    (a subfolder: the kit's frozen test expects only folders directly under runs/).
 // Held-out KEYS and case data are not reachable: only the exact paths below are served.
 import fs from 'node:fs';
 import path from 'node:path';
 import type { IncomingMessage, ServerResponse } from 'node:http';
 
-/** Exactly these URLs are served. Set 1: menus + profiles + heldout.json. Set 2 (M25-M32): menus + profiles.json + heldout.json. */
-export const ALLOWED = /^\/kit\/(menus\/M\d\d\.png|profiles\.json|heldout\.json|set2\/menus\/M(?:2[5-9]|3[0-2])\.png|set2\/profiles\.json|set2\/heldout\.json)$/;
+/** Exactly these URLs are served. Set 1: menus + profiles + heldout.json. Set 2 (M25-M32) set 3 (M33-M40) set 4 (M41-M48) and set 5 (M49-M56): menus + profiles.json + heldout.json. */
+export const ALLOWED = /^\/kit\/(menus\/M\d\d\.png|profiles\.json|heldout\.json|set2\/menus\/M(?:2[5-9]|3[0-2])\.png|set2\/profiles\.json|set2\/heldout\.json|set3\/menus\/M(?:3[3-9]|40)\.png|set3\/profiles\.json|set3\/heldout\.json|set4\/menus\/M4[1-8]\.png|set4\/profiles\.json|set4\/heldout\.json|set5\/menus\/M(?:49|5[0-6])\.png|set5\/profiles\.json|set5\/heldout\.json)$/;
 /** Where each allowed URL lives under the kit folder. */
-export const KIT_PATH_OF = (url: string) => url.slice('/kit/'.length).replace(/^set2\//, 'heldout-set-2/');
+export const KIT_PATH_OF = (url: string) => url.slice('/kit/'.length).replace(/^set2\//, 'heldout-set-2/').replace(/^set3\//, 'heldout-set-3/').replace(/^set4\//, 'heldout-set-4/').replace(/^set5\//, 'heldout-set-5/');
 
 export const MAX_SAVE_BYTES = 100 * 1024 * 1024;
 
@@ -54,7 +55,7 @@ export function kitMiddleware(kitDir: string) {
         try {
           const text = Buffer.concat(chunks).toString('utf8');
           JSON.parse(text); // must be valid JSON
-          const dir = path.join(kitDir, 'runs');
+          const dir = path.join(kitDir, 'runs', 'saved');
           fs.mkdirSync(dir, { recursive: true });
           const file = path.join(dir, `${name}.json`);
           if (!file.startsWith(dir + path.sep)) return send(res, 400, 'bad name');
@@ -63,7 +64,7 @@ export function kitMiddleware(kitDir: string) {
           res.end(JSON.stringify({ saved: path.relative(kitDir, file) }));
         } catch (e) {
           const err = e as NodeJS.ErrnoException;
-          if (err.code === 'EEXIST') return send(res, 409, `runs/${name}.json already exists; pick another name`);
+          if (err.code === 'EEXIST') return send(res, 409, `runs/saved/${name}.json already exists; pick another name`);
           send(res, 400, `not saved: ${err.message}`);
         }
       });

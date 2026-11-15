@@ -34,14 +34,16 @@ describe('parsing the all-allergen rating', () => {
 
 describe('device reads only the user\'s allergens', () => {
   it('usually -> Avoid; often -> Ask; unknown or missing -> Ask; rarely -> keeps the clean result', () => {
-    const r = rec({ sesame: { level: 'usually', why: 'bun' }, milk: { level: 'often', why: '' }, egg: { level: 'unknown', why: '' }, soy: { level: 'rarely', why: '' } });
+    const r = rec({ sesame: { level: 'usually', why: 'bun' }, milk: { level: 'often', why: '' }, peanut: { level: 'often', why: '' }, egg: { level: 'unknown', why: '' }, soy: { level: 'rarely', why: '' } });
     const m = (...ids: AllergyList['allergens']) => mergeMarks(applyRecipe(r, L(...ids))).mark;
     expect(m('sesame')).toBe('avoid');
-    expect(m('milk')).toBe('ask');
+    // Round 7: "often" alone raises Ask only for peanut and tree nuts; other allergens need an ingredient in the recipe.
+    expect(m('milk')).toBe('no_listed');
+    expect(m('peanut')).toBe('ask');
     expect(m('egg')).toBe('ask');
     expect(m('fish')).toBe('ask'); // no rating returned for fish
     expect(m('soy')).toBe('no_listed');
-    expect(m('soy', 'milk')).toBe('ask'); // the stricter allergen wins
+    expect(m('soy', 'peanut')).toBe('ask'); // the stricter allergen wins
   });
   it('usually is contradicted by printed ingredients that do not show it: Ask, not Avoid and not No listed', () => {
     const r = rec({ sesame: { level: 'usually', why: 'seeded bun' } });
@@ -60,8 +62,8 @@ describe('device reads only the user\'s allergens', () => {
     expect(mergeMarks(all).mark).toBe('avoid');
   });
   it('the reason of the rating is shown', () => {
-    const f = applyRatings(rec({ sesame: { level: 'often', why: 'seeded bun' } }), L('sesame'));
-    expect(f[0].reason).toContain('seeded bun');
+    const f = applyRatings(rec({ tree_nut: { level: 'often', why: 'almond paste' } }), L('tree_nut'));
+    expect(f[0].reason).toContain('almond paste');
   });
 });
 

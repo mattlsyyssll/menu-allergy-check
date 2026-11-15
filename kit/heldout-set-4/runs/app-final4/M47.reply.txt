@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Chicken Adobo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pork Sinigang
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kare-Kare
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient). | Peanut: this dish usually contains it (peanut butter and ground peanuts are essential base ingredients). | Peanut: peanut butter is an essential part of a typical recipe for this dish. | Peanut: ground peanut is an essential part of a typical recipe for this dish.
+Dish: Pancit Canton
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lumpiang Shanghai
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some spring rolls come with a peanut dip. | Peanut may be hidden: some spring rolls come with a peanut dip (found in a typical recipe: spring roll wrapper). | Peanut may be hidden: some chili sauces and dips contain ground peanuts (found in a typical recipe: sweet chili sauce).
+Dish: Chef's Ulam of the Day
+Label: Ask the kitchen
+Reason: "Chef's Ulam of the Day" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Sisig
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crispy Pata
+Label: Ask the kitchen
+Reason: Peanut may be hidden: Southeast Asian dipping sauces are often made with peanuts.
+Dish: Bibingka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Turon
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some spring rolls come with a peanut dip. | Peanut may be hidden: some spring rolls come with a peanut dip (found in a typical recipe: spring roll wrapper).
+Dish: Halo-Halo
+Label: Ask the kitchen
+Reason: Peanut: common versions of this dish contain it (crushed roasted peanuts are a common topping variant).
+Dish: Calamansi Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Chicken Adobo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pork Sinigang
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kare-Kare
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pancit Canton
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lumpiang Shanghai
+Label: Ask the kitchen
+Reason: Tree nuts: water chestnut is sometimes in this dish (a typical recipe, not the menu).
+Dish: Chef's Ulam of the Day
+Label: Ask the kitchen
+Reason: "Chef's Ulam of the Day" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Sisig
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crispy Pata
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dipping sauces often contain sesame oil.
+Dish: Bibingka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Turon
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Halo-Halo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Calamansi Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Chicken Adobo
+Label: Avoid
+Reason: Soy is listed on the menu ("soy" in the listed ingredient). | Wheat / gluten: this dish usually contains it (soy sauce typically contains wheat). | Soy: this dish usually contains it (soy sauce is a primary base ingredient). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Pork Sinigang
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kare-Kare
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pancit Canton
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("wheat" in the listed ingredient). | Soy is listed on the menu ("soy" in the listed ingredient). | Wheat / gluten: this dish usually contains it (canton noodles are wheat-based flour noodles). | Soy: this dish usually contains it (soy sauce is essential for flavor and color). | Wheat / gluten: wheat flour noodle is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Lumpiang Shanghai
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (spring roll wrappers are made from wheat flour).
+Dish: Chef's Ulam of the Day
+Label: Ask the kitchen
+Reason: "Chef's Ulam of the Day" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Sisig
+Label: Avoid
+Reason: Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Crispy Pata
+Label: Avoid
+Reason: Soy is listed on the menu ("soy" in the listed ingredient).
+Dish: Bibingka
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Egg is listed on the menu ("egg" in the listed ingredient). | Milk: this dish usually contains it (butter and cheese are standard toppings and sometimes milk in batter). | Egg: this dish usually contains it (eggs are an essential ingredient in the batter). | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Turon
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (spring roll wrappers are made from wheat flour).
+Dish: Halo-Halo
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient). | Milk: this dish usually contains it (evaporated or condensed milk is poured over the shaved ice and ingredients). | Milk: evaporated milk is an essential part of a typical recipe for this dish.
+Dish: Calamansi Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Chicken Adobo
+Label: Ask the kitchen
+Reason: Fish: fish sauce is sometimes in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: some fish sauce blends and dipping sauces are made with shrimp (found in a typical recipe: fish sauce).
+Dish: Pork Sinigang
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Kare-Kare
+Label: Avoid
+Reason: Crustaceans: fermented shrimp paste is an essential part of a typical recipe for this dish.
+Dish: Pancit Canton
+Label: Ask the kitchen
+Reason: Crustaceans: shrimp is commonly in this dish (a typical recipe, not the menu). | Molluscs: oyster sauce is commonly in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: some oyster sauces contain shrimp or other shellfish extract (found in a typical recipe: oyster sauce). | Molluscs may be hidden: oyster sauce is made from oysters (found in a typical recipe: oyster sauce). | Fish: fish sauce is sometimes in this dish (a typical recipe, not the menu). | Crustaceans may be hidden: some fish sauce blends and dipping sauces are made with shrimp (found in a typical recipe: fish sauce).
+Dish: Lumpiang Shanghai
+Label: Ask the kitchen
+Reason: Fish may be hidden: Vietnamese and Thai rolls often come with fish sauce dips. | Crustaceans may be hidden: spring rolls often contain shrimp. | Fish may be hidden: Vietnamese and Thai rolls often come with fish sauce dips (found in a typical recipe: spring roll wrapper). | Crustaceans may be hidden: spring rolls often contain shrimp (found in a typical recipe: spring roll wrapper).
+Dish: Chef's Ulam of the Day
+Label: Ask the kitchen
+Reason: "Chef's Ulam of the Day" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Sisig
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crispy Pata
+Label: Ask the kitchen
+Reason: Fish may be hidden: Southeast Asian dipping sauces are often made with fish sauce. | Crustaceans may be hidden: some Southeast Asian dipping sauces contain shrimp paste.
+Dish: Bibingka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Turon
+Label: Ask the kitchen
+Reason: Fish may be hidden: Vietnamese and Thai rolls often come with fish sauce dips. | Crustaceans may be hidden: spring rolls often contain shrimp. | Fish may be hidden: Vietnamese and Thai rolls often come with fish sauce dips (found in a typical recipe: spring roll wrapper). | Crustaceans may be hidden: spring rolls often contain shrimp (found in a typical recipe: spring roll wrapper).
+Dish: Halo-Halo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Calamansi Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

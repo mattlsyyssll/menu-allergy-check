@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Kibbeh Mekliyeh
+Label: Ask the kitchen
+Reason: Peanut may be hidden: the menu mentions nuts without saying which. | Peanut may be hidden: the menu mentions nuts without saying which (found in a typical recipe: pine nut).
+Dish: Muhammarah
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Manakish Za'atar
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fatteh
+Label: Ask the kitchen
+Reason: Peanut may be hidden: the menu mentions nuts without saying which. | Peanut may be hidden: the menu mentions nuts without saying which (found in a typical recipe: pine nut).
+Dish: Mujdara
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Warak Enab
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Mezze Selection
+Label: Ask the kitchen
+Reason: "Chef's Mezze Selection" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Shish Taouk
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kafta Skewers
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ma'amoul
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Knafeh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lemon Mint Lemonade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Kibbeh Mekliyeh
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pine nut" in the listed ingredient). | Tree nuts: this dish usually contains it (pine nuts are standard in the filling).
+Dish: Muhammarah
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("walnut" in the listed ingredient). | Tree nuts: this dish usually contains it (walnuts are a main ingredient). | Tree nuts: walnut is an essential part of a typical recipe for this dish.
+Dish: Manakish Za'atar
+Label: Avoid
+Reason: Sesame: this dish usually contains it (sesame seeds are essential in za'atar). | Sesame: sesame seed is an essential part of a typical recipe for this dish.
+Dish: Fatteh
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pine nut" in the listed ingredient). | Tree nuts: this dish usually contains it (pine nuts or almonds are standard garnish). | Sesame: this dish usually contains it (tahini is used in the yogurt sauce). | Sesame: tahini is an essential part of a typical recipe for this dish.
+Dish: Mujdara
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Warak Enab
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Mezze Selection
+Label: Ask the kitchen
+Reason: "Chef's Mezze Selection" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Shish Taouk
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (toom or tahini might contain it).
+Dish: Kafta Skewers
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ma'amoul
+Label: Ask the kitchen
+Reason: Tree nuts: a typical version usually contains it (pistachios, walnuts or dates are used as filling), but the printed ingredients do not show it. Ask the kitchen. | Tree nuts: pistachio is commonly in this dish (a typical recipe, not the menu). | Tree nuts: walnut is commonly in this dish (a typical recipe, not the menu).
+Dish: Knafeh
+Label: Ask the kitchen
+Reason: Tree nuts: common versions of this dish contain it (pistachios used as topping garnish). | Tree nuts: pistachio is commonly in this dish (a typical recipe, not the menu).
+Dish: Lemon Mint Lemonade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Kibbeh Mekliyeh
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bulgur" in the listed ingredient). | Wheat / gluten: this dish usually contains it (bulgur wheat forms the shell). | Wheat / gluten: bulgur is an essential part of a typical recipe for this dish.
+Dish: Muhammarah
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("breadcrumb" in the listed ingredient). | Wheat / gluten: this dish usually contains it (breadcrumbs used as binder).
+Dish: Manakish Za'atar
+Label: Avoid
+Reason: Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Fatteh
+Label: Avoid
+Reason: Milk is listed on the menu ("yogurt" in the listed ingredient). | Wheat / gluten is listed on the menu ("pita" in the listed ingredient). | Milk: this dish usually contains it (yogurt is an essential ingredient). | Wheat / gluten: this dish usually contains it (pita bread is a main component). | Wheat / gluten: pita bread is an essential part of a typical recipe for this dish. | Milk: yogurt is an essential part of a typical recipe for this dish.
+Dish: Mujdara
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Warak Enab
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Mezze Selection
+Label: Ask the kitchen
+Reason: "Chef's Mezze Selection" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Shish Taouk
+Label: Avoid
+Reason: Milk: yogurt is an essential part of a typical recipe for this dish.
+Dish: Kafta Skewers
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ma'amoul
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("semolina" in the listed ingredient). | Wheat / gluten: this dish usually contains it (semolina and wheat flour form the dough). | Wheat / gluten: semolina is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Knafeh
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Milk: this dish usually contains it (cheese and butter are main ingredients). | Wheat / gluten: this dish usually contains it (kataifi pastry contains wheat flour). | Milk: akkawi cheese is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Lemon Mint Lemonade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Kibbeh Mekliyeh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Muhammarah
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Manakish Za'atar
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fatteh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Mujdara
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Warak Enab
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Mezze Selection
+Label: Ask the kitchen
+Reason: "Chef's Mezze Selection" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Shish Taouk
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kafta Skewers
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ma'amoul
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Knafeh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lemon Mint Lemonade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

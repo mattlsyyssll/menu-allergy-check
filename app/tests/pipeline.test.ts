@@ -88,13 +88,13 @@ describe('pipeline with the cloud recipe lookup', () => {
   });
 
   it('the device reads only the user\'s allergens from the all-allergen rating', async () => {
-    const r: R[] = [{ name: 'Gaeng Som', confident: true, ingredients: [['fish', 'essential']], ratings: { wheat: 'usually', sesame: 'usually', crustacean: 'often' } }];
+    const r: R[] = [{ name: 'Gaeng Som', confident: true, ingredients: [['fish', 'essential']], ratings: { wheat: 'usually', sesame: 'usually', tree_nut: 'often' } }];
     const wheat = fakes({ recipes: r }); const sesame = fakes({ recipes: r }); const none = fakes({ recipes: r });
     const asWheat = await runCheck({ imageDataUrl: IMAGE, list: { allergens: ['wheat'], custom: [] }, device: wheat.device, cloud: wheat.cloud });
-    const asCrust = await runCheck({ imageDataUrl: IMAGE, list: { allergens: ['crustacean'], custom: [] }, device: sesame.device, cloud: sesame.cloud });
+    const asCrust = await runCheck({ imageDataUrl: IMAGE, list: { allergens: ['tree_nut'], custom: [] }, device: sesame.device, cloud: sesame.cloud });
     const asMilk = await runCheck({ imageDataUrl: IMAGE, list: { allergens: ['milk'], custom: [] }, device: none.device, cloud: none.cloud });
     expect(mark(asWheat, 'Gaeng Som').mark).toBe('avoid'); // usually, nothing printed to contradict it
-    expect(mark(asCrust, 'Gaeng Som').mark).toBe('ask'); // often -> Ask
+    expect(mark(asCrust, 'Gaeng Som').mark).toBe('ask'); // often -> Ask (peanut and tree nuts only, round 7)
     expect(mark(asMilk, 'Gaeng Som').mark).toBe('no_listed'); // rarely -> keep the clean result
   });
 

@@ -1,0 +1,33 @@
+Crêperie Le Moulin Breton
+
+## Galettes salées
+Galette Complète  € 11
+  galette de sarrasin, jambon, emmental, œuf
+Galette Forestière  € 12
+  galette de sarrasin, champignons, crème
+Galette du Jour  € 13
+  demandez au serveur
+
+## Crêpes sucrées
+Crêpe Beurre-Sucre  € 5
+  crêpe au beurre salé et sucre
+Crêpe Suzette  € 9
+  crêpe flambée au Grand Marnier, sauce orange et beurre
+Crêpe Chocolat-Noisette  € 8
+  crêpe au chocolat et noisettes grillées
+Crêpe Citron  € 5
+  crêpe au citron et sucre
+
+## Salades et soupes
+Salade de Chèvre Chaud  € 12
+  chèvre chaud sur toasts, miel et noix
+Soupe de Poisson  € 9
+  soupe de poisson, rouille et croûtons
+Salade de Lentilles  € 8
+  lentilles vertes, échalotes, vinaigrette à la moutarde
+
+## Boissons
+Cidre Breton  € 5
+  cidre brut ou doux, servi en bolée
+Chocolat Chaud  € 5
+  chocolat chaud au lait

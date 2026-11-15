@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Loco Moco
+Label: Ask the kitchen
+Reason: Peanut may be hidden: FARE lists this food as a possible peanut source (an ingredient or shared equipment).
+Dish: Kalua Pork Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kahuku Shrimp Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Teriyaki Beef Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ahi Poke Bowl
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Today's Plate Special
+Label: Ask the kitchen
+Reason: "Today's Plate Special" changes from day to day or cook to cook ("today's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Spam Musubi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Long Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Haupia
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Malasadas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Macadamia Pancakes
+Label: Ask the kitchen
+Reason: Peanut may be hidden: the menu mentions nuts without saying which. | Peanut may be hidden: the menu mentions nuts without saying which (found in a typical recipe: macadamia nuts).
+Dish: POG Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Loco Moco
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kalua Pork Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kahuku Shrimp Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Teriyaki Beef Plate
+Label: Ask the kitchen
+Reason: Sesame may be hidden: teriyaki dishes are often topped with sesame seeds. | Sesame: sesame oil is sometimes in this dish (a typical recipe, not the menu). | Sesame: sesame seeds is sometimes in this dish (a typical recipe, not the menu).
+Dish: Ahi Poke Bowl
+Label: Avoid
+Reason: Sesame is listed on the menu ("sesame" in the listed ingredient). | Sesame: this dish usually contains it (Sesame oil and sesame seeds are essential/common). | Sesame: sesame oil is an essential part of a typical recipe for this dish.
+Dish: Today's Plate Special
+Label: Ask the kitchen
+Reason: "Today's Plate Special" changes from day to day or cook to cook ("today's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Spam Musubi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Long Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Haupia
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Malasadas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Macadamia Pancakes
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("macadamia" in the dish name). | Tree nuts: this dish usually contains it (Macadamia nuts are essential). | Tree nuts: macadamia nuts is an essential part of a typical recipe for this dish.
+Dish: POG Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Loco Moco
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Egg: this dish usually contains it (Fried egg on top is essential). | Wheat / gluten: this dish usually contains it (Soy sauce and flour/starch in brown gravy). | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Kalua Pork Plate
+Label: Avoid
+Reason: Egg is listed on the menu ("mayonnaise" in the listed ingredient). | Wheat / gluten is listed on the menu ("macaroni" in the listed ingredient).
+Dish: Kahuku Shrimp Plate
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Milk: this dish usually contains it (Butter is a primary ingredient in scampi style shrimp). | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Teriyaki Beef Plate
+Label: Avoid
+Reason: Soy is listed on the menu ("teriyaki" in the dish name). | Wheat / gluten: this dish usually contains it (Soy sauce contains wheat). | Soy: this dish usually contains it (Soy sauce is the base of teriyaki sauce). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Ahi Poke Bowl
+Label: Avoid
+Reason: Soy is listed on the menu ("shoyu" in the listed ingredient). | Soy: this dish usually contains it (Soy sauce is essential for poke marinade). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Today's Plate Special
+Label: Ask the kitchen
+Reason: "Today's Plate Special" changes from day to day or cook to cook ("today's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Spam Musubi
+Label: Avoid
+Reason: Soy is listed on the menu ("soy" in the listed ingredient). | Wheat / gluten: this dish usually contains it (Soy sauce contains wheat). | Soy: this dish usually contains it (Soy sauce is used in the glaze). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Chicken Long Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Haupia
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Malasadas
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (Wheat flour is the base of the dough). | Wheat / gluten: all-purpose flour is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Macadamia Pancakes
+Label: Avoid
+Reason: Milk is listed on the menu ("buttermilk" in the listed ingredient). | Milk: this dish usually contains it (Milk is used in pancake batter). | Egg: this dish usually contains it (Eggs are used in pancake batter). | Wheat / gluten: all-purpose flour is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: POG Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Loco Moco
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kalua Pork Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kahuku Shrimp Plate
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("shrimp" in the dish name). | Crustaceans: this dish usually contains it (Shrimp is the main ingredient). | Crustaceans: shrimp is an essential part of a typical recipe for this dish.
+Dish: Teriyaki Beef Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ahi Poke Bowl
+Label: Avoid
+Reason: Fish is listed on the menu ("tuna" in the listed ingredient). | Fish: this dish usually contains it (Ahi tuna is the main ingredient). | Fish: ahi tuna is an essential part of a typical recipe for this dish.
+Dish: Today's Plate Special
+Label: Ask the kitchen
+Reason: "Today's Plate Special" changes from day to day or cook to cook ("today's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Spam Musubi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Long Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Haupia
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Malasadas
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Macadamia Pancakes
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: POG Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

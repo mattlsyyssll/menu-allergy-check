@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Moo Ping
+Label: Ask the kitchen
+Reason: Peanut may be hidden: Southeast Asian dipping sauces are often made with peanuts (found in a typical recipe: chili dipping sauce).
+Dish: Khao Man Gai
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pad Kra Pao Kai Dao
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Hoi Tod
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some chili sauces and dips contain ground peanuts.
+Dish: Gai Yang
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some chili sauces and dips contain ground peanuts. | Peanut may be hidden: Southeast Asian dipping sauces are often made with peanuts (found in a typical recipe: chili dipping sauce).
+Dish: Sai Oua
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Khao Soi
+Label: Ask the kitchen
+Reason: Peanut may be hidden: many curries use peanut or nut pastes. | Peanut may be hidden: many curries use peanut or nut pastes (found in a typical recipe: red curry paste). | Peanut may be hidden: many curries use peanut or nut pastes (found in a typical recipe: curry powder).
+Dish: Larb Moo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Roti Gluay
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Mango Sticky Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Vendor's Choice of the Day
+Label: Ask the kitchen
+Reason: "Vendor's Choice of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Fresh Coconut Water
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Moo Ping
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (sesame oil is used in some recipes). | Sesame may be hidden: Asian dipping sauces often contain sesame oil (found in a typical recipe: chili dipping sauce).
+Dish: Khao Man Gai
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pad Kra Pao Kai Dao
+Label: Ask the kitchen
+Reason: Sesame may be hidden: stir-fries are often finished with sesame oil.
+Dish: Hoi Tod
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gai Yang
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian marinades often contain sesame oil. | Sesame may be hidden: Asian dipping sauces often contain sesame oil (found in a typical recipe: chili dipping sauce).
+Dish: Sai Oua
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Khao Soi
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: many curries use cashew or almond pastes. | Tree nuts may be hidden: many curries use cashew or almond pastes (found in a typical recipe: red curry paste). | Tree nuts may be hidden: many curries use cashew or almond pastes (found in a typical recipe: curry powder).
+Dish: Larb Moo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Roti Gluay
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame.
+Dish: Mango Sticky Rice
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (toasted sesame seeds are sprinkled on top). | Sesame: sesame seed is commonly in this dish (a typical recipe, not the menu).
+Dish: Vendor's Choice of the Day
+Label: Ask the kitchen
+Reason: "Vendor's Choice of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Fresh Coconut Water
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Moo Ping
+Label: Avoid
+Reason: Soy is listed on the menu ("soy" in the listed ingredient). | Soy: this dish usually contains it (soy sauce is used in the marinade). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Khao Man Gai
+Label: Avoid
+Reason: Soy is listed on the menu ("soybean" in the listed ingredient). | Soy: this dish usually contains it (fermented soybean paste and soy sauce in sauce). | Soy: soybean paste is an essential part of a typical recipe for this dish. | Soy: fermented soybean is an essential part of a typical recipe for this dish.
+Dish: Pad Kra Pao Kai Dao
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Wheat / gluten is listed on the menu ("pão" in the dish name). | Egg: this dish usually contains it (served with a fried egg on top). | Soy: this dish usually contains it (soy sauce and oyster sauce are used). | Soy: soy sauce is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Hoi Tod
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Egg: this dish usually contains it (egg is a core part of the batter). | Egg: egg is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Gai Yang
+Label: Avoid
+Reason: Soy: this dish usually contains it (soy sauce is used in the marinade). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Sai Oua
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: sausages often contain breadcrumbs or rusk.
+Dish: Khao Soi
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Wheat / gluten is listed on the menu ("noodle" in the listed ingredient). | Egg: this dish usually contains it (egg noodles are standard). | Wheat / gluten: this dish usually contains it (wheat noodles are the base of the dish). | Egg: egg noodle is an essential part of a typical recipe for this dish. | Wheat / gluten: egg noodle is an essential part of a typical recipe for this dish. | Egg: crispy egg noodle is an essential part of a typical recipe for this dish. | Wheat / gluten: crispy egg noodle is an essential part of a typical recipe for this dish.
+Dish: Larb Moo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Roti Gluay
+Label: Avoid
+Reason: Milk is listed on the menu ("milk" in the listed ingredient). | Egg is listed on the menu ("egg" in the listed ingredient). | Egg: this dish usually contains it (egg is folded into the roti dough or filling). | Wheat / gluten: this dish usually contains it (wheat flour is the base of the roti dough). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: sweetened condensed milk is an essential part of a typical recipe for this dish.
+Dish: Mango Sticky Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Vendor's Choice of the Day
+Label: Ask the kitchen
+Reason: "Vendor's Choice of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Fresh Coconut Water
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Moo Ping
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Khao Man Gai
+Label: Ask the kitchen
+Reason: Fish: a typical version usually contains it (fish sauce is used in the dipping sauce), but the printed ingredients do not show it. Ask the kitchen.
+Dish: Pad Kra Pao Kai Dao
+Label: Avoid
+Reason: Molluscs is listed on the menu ("oyster" in the listed ingredient). | Molluscs: this dish usually contains it (oyster extract in oyster sauce). | Fish: fish sauce is an essential part of a typical recipe for this dish. | Molluscs: oyster sauce is an essential part of a typical recipe for this dish.
+Dish: Hoi Tod
+Label: Avoid
+Reason: Molluscs is listed on the menu ("mussel" in the listed ingredient). | Molluscs: this dish usually contains it (mussels or oysters are the main protein). | Molluscs: mussel is an essential part of a typical recipe for this dish. | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Gai Yang
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Sai Oua
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Khao Soi
+Label: Avoid
+Reason: Fish: this dish usually contains it (fish sauce or shrimp paste is in the curry paste). | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Larb Moo
+Label: Avoid
+Reason: Fish is listed on the menu ("fish" in the listed ingredient). | Fish: this dish usually contains it (fish sauce is essential for seasoning). | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Roti Gluay
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Mango Sticky Rice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Vendor's Choice of the Day
+Label: Ask the kitchen
+Reason: "Vendor's Choice of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Fresh Coconut Water
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

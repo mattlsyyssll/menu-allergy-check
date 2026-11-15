@@ -3,9 +3,10 @@
 This folder lets anyone re-check the published test results with no model and no network. It needs Python 3 (standard library only). Run every command from this folder (`kit/`). GitHub runs the same commands on every change (`.github/workflows/check.yml`).
 
 ## What the kit holds
-- 32 invented menu photos (`menus/` for M01 to M24, `heldout-set-2/menus/` for M25 to M32), 331 dishes, 4 allergy lists, an answer key per dish and per list.
-- Held-out set 1 (M02 M03 M04 M12 M14 M18 M21 M24) and held-out set 2 (M25 to M32) are both spent: each was scored once. Their keys are published here.
-- Saved app runs: development builds `app-build2` to `app-build5` (16 menus each), `app-final1` (set 1) and `app-final2` (set 2, in `heldout-set-2/runs/`), with the saved scores.
+- 56 invented menu photos (`menus/` for M01 to M24, `heldout-set-2/` to `heldout-set-5/` for M25 to M56), 619 dishes, 4 allergy lists, an answer key per dish and per list.
+- Held-out sets 1 to 5 (set 1 = M02 M03 M04 M12 M14 M18 M21 M24; sets 2 to 5 = M25 to M56, 8 menus each) are all spent: each was scored once. Their keys are published here.
+- Set 3 used a stricter key policy than the others (FARE's broad cross-contact lines applied per dish); `rescore-set3/` holds a documented re-score with the set 1-2 rules, made after the official score.
+- Saved app runs: development builds `app-build2` to `app-build5` (16 menus each), `app-final1` (set 1), `app-final2` to `app-final5` (sets 2 to 5, in each set's `runs/`), with the saved scores. `runs/saved/` holds the runner's whole-run files and the saved cloud answers used by the app's replay tool (`app/scripts/replay/`).
 
 | Folder or file | What it is |
 |---|---|
@@ -19,9 +20,11 @@ This folder lets anyone re-check the published test results with no model and no
 | `runs/` | Saved app replies and cloud-request logs (`app-build2` to `app-build5`, `app-final1`) and the synthetic `replay-sample` that tests the scorer. |
 | `scores/` | Saved scores, `RESULTS.md`, `METRICS.md`, `KEY-TRACE.md`. |
 | `scripts-v2/` | The privacy rule v2 (documented rescore), its tests and saved results (`METRICS-v2-set1.md`, `METRICS-v2.md` for set 2). |
-| `heldout-set-2/` | Held-out set 2: its own menus, keys, hashes, runs and scores. |
-| `FINAL-1-RESULT.md`, `FINAL-2-RESULT.md` | The two final exams. |
-| `FROZEN-HASHES.txt`, `KEYS-HASHES-2.txt` | Hashes of every frozen file, and of the set-2 keys. |
+| `heldout-set-2/` to `heldout-set-5/` | Held-out sets 2 to 5: each with its own menus, keys, hashes, rule notes (`README-SET*.md`), runs and scores (`scores/METRICS.md`, `scores/METRICS-v2.md` for sets 3 to 5). |
+| `rescore-set3/` | The documented set-3 re-score: re-labelled keys, scorer output, and `make_rescore.py`, which rebuilds both and checks they match. |
+| `HELD-OUT-RESULTS.md` | All five held-out tests in one table, what each round changed, and what the numbers rest on. |
+| `FINAL-1-RESULT.md` to `FINAL-5-RESULT.md` | The five final exams. |
+| `FROZEN-HASHES.txt`, `KEYS-HASHES-2.txt` to `KEYS-HASHES-5.txt` | Hashes of every frozen file, and of the keys of sets 2 to 5. |
 | `KIT-NOTES.md` | Numbers, the four lists, how labels are decided, what is unverified, and the held-out exposure log. |
 
 ## Commands and the first line each prints
@@ -36,11 +39,13 @@ python3 -I scripts/testkit/trace.py kit.json          # last line: TRACE done: 8
 python3 -I scripts/metrics.py kit.json --out /tmp/m.md && diff /tmp/m.md scores/METRICS.md   # no output: the re-score equals the saved scores
 python3 -I scripts-v2/test_privacy_v2.py              # the 9 self-tests of privacy rule v2
 cd heldout-set-2 && python3 -I ../scripts/testkit/freeze.py check kit.json && python3 -I ../scripts/metrics.py kit.json --out /tmp/m2.md && diff /tmp/m2.md scores/METRICS.md
+# the same pair for heldout-set-3, heldout-set-4 and heldout-set-5 (with /tmp/m3.md, /tmp/m4.md, /tmp/m5.md)
+python3 -I rescore-set3/make_rescore.py               # last line: rescore check ok
 ```
 The saved scores are not edited by a re-run. A re-run writes to the path after `--out`.
 
 ## Results
-See `FINAL-1-RESULT.md`, `FINAL-2-RESULT.md` and the root `README.md` for the table, including every false-safe label. Do not read the `replay-sample` rows as results: those replies are hand-made to test the scorer.
+See `FINAL-1-RESULT.md` to `FINAL-5-RESULT.md` and the root `README.md` for the table, including every false-safe label. Do not read the `replay-sample` rows as results: those replies are hand-made to test the scorer.
 
 ## What is simulated and what is not yet run
 Simulated:

@@ -1,0 +1,197 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Galette Complète
+Label: Ask the kitchen
+Reason: Peanut may be hidden: FARE lists this food as a possible peanut source (an ingredient or shared equipment).
+Dish: Galette Forestière
+Label: Ask the kitchen
+Reason: Peanut may be hidden: FARE lists this food as a possible peanut source (an ingredient or shared equipment).
+Dish: Galette du Jour
+Label: Ask the kitchen
+Reason: "Galette du Jour" changes from day to day or cook to cook ("du jour"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: chèvre chaud
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: toast
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: miel
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: noix
+Label: Ask the kitchen
+Reason: Peanut may be hidden: the menu mentions nuts without saying which.
+Dish: Soupe de Poisson
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Salade de Lentilles
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crêpes sucrées
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crêpe Suzette
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crêpe Chocolat-Noisette
+Label: Ask the kitchen
+Reason: Peanut may be hidden: FARE lists this food as a possible peanut source (an ingredient or shared equipment). | Peanut: common versions of this dish contain it (may contain traces). | Peanut may be hidden: FARE lists this food as a possible peanut source (an ingredient or shared equipment) (found in a typical recipe: chocolate hazelnut spread).
+Dish: Crêpe Citron
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: cidre Breton
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: cidre brut ou doux, servi en bolée
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Chocolat Chaud
+Label: Ask the kitchen
+Reason: Peanut may be hidden: FARE lists this food as a possible peanut source (an ingredient or shared equipment). | Peanut may be hidden: FARE lists this food as a possible peanut source (an ingredient or shared equipment) (found in a typical recipe: chocolate).
+=== PROFILE-B
+Dish: Galette Complète
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Galette Forestière
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Galette du Jour
+Label: Ask the kitchen
+Reason: "Galette du Jour" changes from day to day or cook to cook ("du jour"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: chèvre chaud
+Label: Ask the kitchen
+Reason: Tree nuts: common versions of this dish contain it (walnuts often added). | Sesame may be hidden: bread, buns and rolls may contain sesame (found in a typical recipe: bread).
+Dish: toast
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame.
+Dish: miel
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: noix
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("noix" in the dish name). | Tree nuts: this dish usually contains it (nuts are the item itself). | Tree nuts: walnut is an essential part of a typical recipe for this dish.
+Dish: Soupe de Poisson
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame.
+Dish: Salade de Lentilles
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crêpes sucrées
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crêpe Suzette
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crêpe Chocolat-Noisette
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("noisette" in the dish name). | Tree nuts: this dish usually contains it (hazelnuts in spread). | Tree nuts: chocolate hazelnut spread is an essential part of a typical recipe for this dish.
+Dish: Crêpe Citron
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: cidre Breton
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: cidre brut ou doux, servi en bolée
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Chocolat Chaud
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: FARE lists this food as a possible tree nut source. | Tree nuts may be hidden: FARE lists this food as a possible tree nut source (found in a typical recipe: chocolate).
+=== PROFILE-C
+Dish: Galette Complète
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the English ingredient). | Egg is listed on the menu ("oeuf" in the listed ingredient). | Milk: this dish usually contains it (butter and cheese used). | Egg: this dish usually contains it (egg is a main component). | Wheat / gluten: buckwheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: gruyere cheese is an essential part of a typical recipe for this dish.
+Dish: Galette Forestière
+Label: Avoid
+Reason: Milk is listed on the menu ("creme" in the listed ingredient). | Milk: this dish usually contains it (butter and cream used). | Wheat / gluten: buckwheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Galette du Jour
+Label: Ask the kitchen
+Reason: "Galette du Jour" changes from day to day or cook to cook ("du jour"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: chèvre chaud
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the English dish name). | Milk: this dish usually contains it (goat cheese contains milk). | Wheat / gluten: this dish usually contains it (toast contains wheat). | Milk: goat cheese is an essential part of a typical recipe for this dish. | Wheat / gluten: bread is an essential part of a typical recipe for this dish.
+Dish: toast
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (wheat flour is standard). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: miel
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: noix
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Soupe de Poisson
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("crouton" in the listed ingredient).
+Dish: Salade de Lentilles
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crêpes sucrées
+Label: Avoid
+Reason: Milk is listed on the menu ("beurre" in the listed ingredient). | Milk: this dish usually contains it (milk is used in batter). | Egg: this dish usually contains it (eggs used in batter). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Crêpe Suzette
+Label: Avoid
+Reason: Milk is listed on the menu ("beurre" in the listed ingredient). | Milk: this dish usually contains it (butter and milk in crêpe and sauce). | Egg: this dish usually contains it (eggs in crêpe batter). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Crêpe Chocolat-Noisette
+Label: Avoid
+Reason: Milk: this dish usually contains it (milk in chocolate spread and batter). | Egg: this dish usually contains it (eggs in crêpe batter). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Crêpe Citron
+Label: Avoid
+Reason: Egg: this dish usually contains it (eggs in crêpes). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: cidre Breton
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: cidre brut ou doux, servi en bolée
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Chocolat Chaud
+Label: Avoid
+Reason: Milk is listed on the menu ("lait" in the listed ingredient). | Milk: this dish usually contains it (milk is the base). | Milk: milk is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Galette Complète
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Galette Forestière
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Galette du Jour
+Label: Ask the kitchen
+Reason: "Galette du Jour" changes from day to day or cook to cook ("du jour"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: chèvre chaud
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: toast
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: miel
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: noix
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Soupe de Poisson
+Label: Avoid
+Reason: Fish is listed on the menu ("poisson" in the dish name). | Fish: this dish usually contains it (fish is main ingredient). | Fish: fish is an essential part of a typical recipe for this dish.
+Dish: Salade de Lentilles
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crêpes sucrées
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crêpe Suzette
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crêpe Chocolat-Noisette
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Crêpe Citron
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: cidre Breton
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: cidre brut ou doux, servi en bolée
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Chocolat Chaud
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

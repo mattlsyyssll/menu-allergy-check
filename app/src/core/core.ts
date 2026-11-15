@@ -136,6 +136,45 @@ function parseDishRecord(rec: Record<string, unknown>, name: string): MenuDish {
   return dish;
 }
 
+
+// ---------- section headings read as dishes ----------
+// Round 8: the device model once read the heading "小吃与甜品" (Snacks and Desserts) as one dish and put the 5 dishes under it
+// in its ingredient list, so those dishes were never checked. A dish whose name is only menu-section words, with 2 or more
+// "ingredients", is split back into one dish per item.
+// Round 8b (after final exam 5): splitting is NOT used by the app any more. In final exam 5 its only firing split one real
+// dish's ingredients (toast, honey, walnuts) into fake dishes, and the read-prompt change alone fixed the case above.
+// Instead `isSectionHeading` marks such a line "Ask the kitchen" in `firstPass` (dishes may be merged under it).
+// Singular words that are also dish names (soup, salad, noodle, sweet) are left out: "Soup" alone can be a dish.
+const SECTION_WORDS_EN = new Set(['snack', 'snacks', 'dessert', 'desserts', 'sweets', 'appetizer', 'appetizers', 'appetiser', 'appetisers',
+  'starter', 'starters', 'main', 'mains', 'main course', 'main courses', 'main dish', 'main dishes', 'entree', 'entrees', 'entrée', 'entrées',
+  'side', 'sides', 'side dish', 'side dishes', 'drink', 'drinks', 'beverage', 'beverages', 'soups', 'salads', 'noodles',
+  'noodle dishes', 'rice dishes', 'small plates', 'sharing plates', 'small bites', 'bites', 'light meals', 'cold dishes', 'hot dishes', 'cold appetizers',
+  'hot appetizers', 'snacks and desserts', 'pastries', 'cakes', 'breakfast', 'lunch', 'dinner', 'others', 'extras', 'add-ons', 'sandwiches', 'burgers', 'pizzas', 'pasta dishes']);
+const SECTION_WORDS_CJK = ['小吃', '小食', '甜品', '甜点', '甜點', '主食', '凉菜', '涼菜', '热菜', '熱菜', '饮品', '飲品', '饮料', '飲料', '汤类', '湯類', '前菜', '主菜', '点心', '點心',
+  'デザート', 'ドリンク', '一品料理', 'ご飯もの', '麺類', '飲み物', '디저트', '음료', '사이드'];
+export function isSectionHeading(d: MenuDish): boolean {
+  const en = (d.nameEnglish || d.name).toLowerCase().replace(/[^a-zà-ÿ&,/\s-]/g, ' ').trim();
+  const parts = en.split(/\s*(?:&|,|\/|\band\b|\bor\b)\s*/).map((t) => t.trim()).filter(Boolean);
+  if (parts.length && parts.every((t) => SECTION_WORDS_EN.has(t))) return true;
+  let rest = d.name.replace(/[与和及、・\s&]/g, '');
+  for (const w of SECTION_WORDS_CJK) rest = rest.split(w).join('');
+  return rest.length === 0 && d.name.trim().length > 0 && /[^\x00-\x7f]/.test(d.name);
+}
+/** Split heading-like "dishes" whose ingredients are really the dishes of that section. */
+export function splitSectionHeadings(dishes: MenuDish[]): MenuDish[] {
+  const out: MenuDish[] = [];
+  for (const d of dishes) {
+    if (d.ingredients.length >= 2 && isSectionHeading(d)) {
+      d.ingredients.forEach((text, i) => {
+        const name = text.trim();
+        if (name && !out.some((x) => x.name.toLowerCase() === name.toLowerCase()))
+          out.push({ name, nameEnglish: d.ingredientsEnglish?.[i] || undefined, ingredients: [], ingredientsEnglish: [] });
+      });
+    } else if (!out.some((x) => x.name.toLowerCase() === d.name.toLowerCase())) out.push(d);
+  }
+  return out.slice(0, MAX_DISHES);
+}
+
 /**
  * Read the dishes that are already complete in a half-finished streamed reply, so the screen can
  * show them before the model has stopped. Only whole {...} dish objects count; a cut-off one is ignored.
@@ -481,6 +520,16 @@ export function unknownRecipeFinding(source: Source, why?: string): Finding {
  *   often, unknown, or no rating returned for this allergen -> Ask the kitchen;
  *   rarely -> nothing here (the printed-text and recipe results stand).
  */
+/**
+ * Which cloud signals may raise "Ask the kitchen" on their own, per allergen. 'all' = every allergen.
+ * oftenAsk: a rating of "often" (common versions contain it). possibleAsk: an ingredient of level "possible" naming it.
+ * Exported as a mutable object so the dev replay tool can compare policies; the app never changes it.
+ */
+// Round 7: "often" alone raises Ask only for peanut and tree nuts (the most severe). For every other allergen the cloud's own
+// ingredient list is the evidence: on 32 replayed menus "often" caught 1 hazard nothing else caught, and flagged 142 clean answers.
+export const RATING_POLICY: { oftenAsk: 'all' | AllergenId[]; possibleAsk: 'all' | AllergenId[] } = { oftenAsk: ['peanut', 'tree_nut'], possibleAsk: 'all' };
+const allows = (p: 'all' | AllergenId[], id: AllergenId) => p === 'all' || p.includes(id);
+
 export function applyRatings(recipe: CloudRecipe, list: AllergyList, source: Source = 'cloud', dish?: MenuDish): Finding[] {
   const out: Finding[] = [];
   for (const def of listedDefs(list)) {
@@ -496,6 +545,7 @@ export function applyRatings(recipe: CloudRecipe, list: AllergyList, source: Sou
         : { mark: 'avoid', kind: 'rated', allergen: def.label, source,
             reason: `${def.label}: this dish usually contains it${why}.` });
     } else if (r.level === 'often') {
+      if (!allows(RATING_POLICY.oftenAsk, def.id)) continue;
       out.push({ mark: 'ask', kind: 'rated', allergen: def.label, source,
         reason: `${def.label}: common versions of this dish contain it${why}.` });
     } else {
@@ -517,9 +567,11 @@ export function applyRecipe(recipe: CloudRecipe | undefined, list: AllergyList, 
   const out: Finding[] = [...applyRatings(recipe, list, source, dish)];
   const unread = recipe.ingredients.filter((i) => hasNonLatinLetters(i.name)).map((i) => i.name);
   out.push(...untranslatedFinding(unread, source));
+  const possibleList: AllergyList = RATING_POLICY.possibleAsk === 'all' ? list
+    : { allergens: list.allergens.filter((id) => allows(RATING_POLICY.possibleAsk, id)), custom: list.custom };
   for (const ing of recipe.ingredients) {
     const asDish: MenuDish = { name: '', ingredients: [ing.name] };
-    for (const f of checkListed(asDish, list, source)) {
+    for (const f of checkListed(asDish, ing.level === 'possible' ? possibleList : list, source)) {
       const essential = ing.level === 'essential';
       out.push({ ...f, mark: essential ? 'avoid' : 'ask', kind: 'typical',
         reason: essential
@@ -556,6 +608,10 @@ export function firstPass(dish: MenuDish, list: AllergyList, language?: string):
   if (untranslatedDishName(dish)) {
     findings.push({ mark: 'ask', kind: 'untranslated', allergen: '', source: 'device',
       reason: `The app could not translate the dish name "${dish.name}", so it cannot check it against your list. Ask the kitchen what is in this dish.` });
+  }
+  if (isSectionHeading(dish)) {
+    findings.push({ mark: 'ask', kind: 'variable', allergen: '', source: 'device',
+      reason: `"${dish.name}" looks like a menu section, not one dish: the photo read may have merged several dishes here. Ask the kitchen about each dish under it.` });
   }
   const variable = variableDishWord(dish.name, dish.nameEnglish);
   if (variable) {

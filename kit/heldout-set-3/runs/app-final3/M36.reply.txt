@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Chicken Tikka Masala
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lamb Rogan Josh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dal Makhani
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Paneer Tikka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Goan Prawn Curry
+Label: Ask the kitchen
+Reason: Peanut may be hidden: many curries use peanut or nut pastes.
+Dish: Aloo Gobi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Poha
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient). | Peanut: this dish usually contains it (Roasted peanuts are a standard topping/ingredient). | Peanut: peanut is an essential part of a typical recipe for this dish.
+Dish: Amritsari Kulcha
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken 65
+Label: Ask the kitchen
+Reason: Peanut may be hidden: many curries use peanut or nut pastes. | Peanut may be hidden: many curries use peanut or nut pastes (found in a typical recipe: curry leaves).
+Dish: Gajar Halwa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Tandoor Special
+Label: Ask the kitchen
+Reason: "Chef's Tandoor Special" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Cucumber Raita
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Chicken Tikka Masala
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: tikka masala sauce often uses cashew or almond paste. | Tree nuts: common versions of this dish contain it (Cashews often used in the sauce). | Tree nuts: cashew is sometimes in this dish (a typical recipe, not the menu).
+Dish: Lamb Rogan Josh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dal Makhani
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: makhani (butter) sauces often use cashew paste.
+Dish: Paneer Tikka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Goan Prawn Curry
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: many curries use cashew or almond pastes.
+Dish: Aloo Gobi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Poha
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: many curries use cashew or almond pastes. | Tree nuts may be hidden: many curries use cashew or almond pastes (found in a typical recipe: curry leaves).
+Dish: Amritsari Kulcha
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame.
+Dish: Chicken 65
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: many curries use cashew or almond pastes. | Tree nuts may be hidden: many curries use cashew or almond pastes (found in a typical recipe: curry leaves).
+Dish: Gajar Halwa
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("almond" in the listed ingredient). | Sesame is listed on the menu ("halwa" in the dish name). | Tree nuts: this dish usually contains it (Cashews, almonds, and pistachios are standard garnishes).
+Dish: Chef's Tandoor Special
+Label: Ask the kitchen
+Reason: "Chef's Tandoor Special" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Cucumber Raita
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Chicken Tikka Masala
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient). | Milk: this dish usually contains it (Yogurt and cream are standard). | Milk: yogurt is an essential part of a typical recipe for this dish. | Milk: cream is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Lamb Rogan Josh
+Label: Avoid
+Reason: Milk: ghee is an essential part of a typical recipe for this dish.
+Dish: Dal Makhani
+Label: Avoid
+Reason: Milk: this dish usually contains it (Butter and cream are essential). | Milk: butter is an essential part of a typical recipe for this dish. | Milk: cream is an essential part of a typical recipe for this dish.
+Dish: Paneer Tikka
+Label: Avoid
+Reason: Milk is listed on the menu ("paneer" in the dish name). | Milk: this dish usually contains it (Paneer and yogurt are essential). | Milk: paneer is an essential part of a typical recipe for this dish. | Milk: yogurt is an essential part of a typical recipe for this dish.
+Dish: Goan Prawn Curry
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Aloo Gobi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Poha
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Amritsari Kulcha
+Label: Avoid
+Reason: Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Chicken 65
+Label: Avoid
+Reason: Milk is listed on the menu ("yogurt" in the listed ingredient).
+Dish: Gajar Halwa
+Label: Avoid
+Reason: Milk is listed on the menu ("milk" in the listed ingredient). | Milk: this dish usually contains it (Milk, khoya (mova), and ghee are essential). | Milk: milk is an essential part of a typical recipe for this dish. | Milk: ghee is an essential part of a typical recipe for this dish.
+Dish: Chef's Tandoor Special
+Label: Ask the kitchen
+Reason: "Chef's Tandoor Special" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Cucumber Raita
+Label: Avoid
+Reason: Milk is listed on the menu ("yogurt" in the listed ingredient). | Milk: this dish usually contains it (Yogurt is the base ingredient). | Milk: yogurt is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Chicken Tikka Masala
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lamb Rogan Josh
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dal Makhani
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Paneer Tikka
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Goan Prawn Curry
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("prawn" in the dish name). | Crustaceans: this dish usually contains it (Contains prawns/shrimp). | Crustaceans: prawn is an essential part of a typical recipe for this dish.
+Dish: Aloo Gobi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Poha
+Label: Ask the kitchen
+Reason: Fish may be hidden: many Thai and Vietnamese curries contain fish sauce or shrimp paste. | Crustaceans may be hidden: many Southeast Asian curries contain shrimp paste. | Fish may be hidden: many Thai and Vietnamese curries contain fish sauce or shrimp paste (found in a typical recipe: curry leaves). | Crustaceans may be hidden: many Southeast Asian curries contain shrimp paste (found in a typical recipe: curry leaves).
+Dish: Amritsari Kulcha
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken 65
+Label: Ask the kitchen
+Reason: Fish may be hidden: many Thai and Vietnamese curries contain fish sauce or shrimp paste. | Crustaceans may be hidden: many Southeast Asian curries contain shrimp paste. | Fish may be hidden: many Thai and Vietnamese curries contain fish sauce or shrimp paste (found in a typical recipe: curry leaves). | Crustaceans may be hidden: many Southeast Asian curries contain shrimp paste (found in a typical recipe: curry leaves).
+Dish: Gajar Halwa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Tandoor Special
+Label: Ask the kitchen
+Reason: "Chef's Tandoor Special" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Cucumber Raita
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

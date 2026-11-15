@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Pepperoni Pizza
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: White Pie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Parm Sub
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Meatball Sub
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Caesar Wrap
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Slice of the Day
+Label: Ask the kitchen
+Reason: "Slice of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Garlic Breadsticks
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baked Ziti
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Buffalo Wings
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sicilian Tomato Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: New York Cheesecake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fresh Lemonade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Pepperoni Pizza
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: White Pie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Parm Sub
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame (found in a typical recipe: breadcrumbs).
+Dish: Meatball Sub
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame (found in a typical recipe: breadcrumbs).
+Dish: Chicken Caesar Wrap
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Slice of the Day
+Label: Ask the kitchen
+Reason: "Slice of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Garlic Breadsticks
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame.
+Dish: Baked Ziti
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Buffalo Wings
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sicilian Tomato Salad
+Label: Ask the kitchen
+Reason: Tree nuts: common versions of this dish contain it (Sicilian recipes sometimes include almonds).
+Dish: New York Cheesecake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fresh Lemonade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Pepperoni Pizza
+Label: Avoid
+Reason: Milk is listed on the menu ("mozzarella" in the listed ingredient). | Milk: this dish usually contains it (Contains mozzarella cheese). | Wheat / gluten: this dish usually contains it (Pizza crust is made of wheat flour). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: mozzarella cheese is an essential part of a typical recipe for this dish.
+Dish: White Pie
+Label: Avoid
+Reason: Milk is listed on the menu ("ricotta" in the listed ingredient). | Milk: this dish usually contains it (Contains mozzarella and ricotta cheeses). | Wheat / gluten: this dish usually contains it (Crust is made of wheat flour). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: ricotta cheese is an essential part of a typical recipe for this dish. | Milk: mozzarella cheese is an essential part of a typical recipe for this dish.
+Dish: Chicken Parm Sub
+Label: Avoid
+Reason: Milk is listed on the menu ("mozzarella" in the listed ingredient). | Milk: this dish usually contains it (Contains mozzarella and parmesan cheese). | Egg: this dish usually contains it (Used in the chicken breading process). | Wheat / gluten: this dish usually contains it (Present in bread roll and breadcrumbs). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Wheat / gluten: breadcrumbs is an essential part of a typical recipe for this dish. | Milk: mozzarella cheese is an essential part of a typical recipe for this dish.
+Dish: Meatball Sub
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Milk: this dish usually contains it (Contains cheese in meatballs or on top). | Egg: this dish usually contains it (Used to bind meatballs). | Wheat / gluten: this dish usually contains it (Present in bread roll and breadcrumbs in meatballs). | Wheat / gluten: breadcrumbs is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Chicken Caesar Wrap
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("flour" in the listed ingredient). | Milk: this dish usually contains it (Contains parmesan cheese in the dressing). | Egg: this dish usually contains it (Used to emulsify Caesar dressing). | Wheat / gluten: this dish usually contains it (Tortilla wrap is made of wheat). | Wheat / gluten: flour tortilla is an essential part of a typical recipe for this dish. | Milk: parmesan cheese is an essential part of a typical recipe for this dish. | Egg: egg yolk is an essential part of a typical recipe for this dish.
+Dish: Slice of the Day
+Label: Ask the kitchen
+Reason: "Slice of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Garlic Breadsticks
+Label: Avoid
+Reason: Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Baked Ziti
+Label: Avoid
+Reason: Milk is listed on the menu ("mozzarella" in the listed ingredient). | Milk: this dish usually contains it (Contains mozzarella, ricotta, and parmesan cheese). | Wheat / gluten: ziti pasta is an essential part of a typical recipe for this dish. | Milk: ricotta cheese is an essential part of a typical recipe for this dish. | Milk: mozzarella cheese is an essential part of a typical recipe for this dish. | Milk: parmesan cheese is an essential part of a typical recipe for this dish.
+Dish: Buffalo Wings
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Milk: this dish usually contains it (Contains butter in the hot sauce, and served with blue cheese dressing). | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Sicilian Tomato Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: New York Cheesecake
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient). | Milk: this dish usually contains it (Main ingredient is cream cheese). | Milk: butter is an essential part of a typical recipe for this dish. | Milk: cream cheese is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Fresh Lemonade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Pepperoni Pizza
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: White Pie
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Parm Sub
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Meatball Sub
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Caesar Wrap
+Label: Avoid
+Reason: Fish: this dish usually contains it (Anchovies are standard in Caesar dressing). | Fish: anchovy is an essential part of a typical recipe for this dish.
+Dish: Slice of the Day
+Label: Ask the kitchen
+Reason: "Slice of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Garlic Breadsticks
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baked Ziti
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Buffalo Wings
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sicilian Tomato Salad
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: New York Cheesecake
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Fresh Lemonade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

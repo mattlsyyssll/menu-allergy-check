@@ -1,0 +1,137 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Tiradito Nikkei
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lomo Saltado
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ají de Gallina
+Label: Ask the kitchen
+Reason: Peanut: common versions of this dish contain it (Pecans or walnuts sometimes substituted with peanuts).
+Dish: Papa a la Huancaína
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Anticuchos de Corazón
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Arroz Chaufa de Mariscos
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Causa Limeña
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Choclo con Queso
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Picarones
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Susupiro a la Limeña
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicha Morada
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Tiradito Nikkei
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (Sesame oil or seeds often used in Nikkei dressing). | Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: Lomo Saltado
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ají de Gallina
+Label: Avoid
+Reason: Tree nuts: walnut is an essential part of a typical recipe for this dish.
+Dish: Papa a la Huancaína
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Anticuchos de Corazón
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Arroz Chaufa de Mariscos
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (Sesame oil is commonly used). | Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: Causa Limeña
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Choclo con Queso
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Picarones
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Susupiro a la Limeña
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicha Morada
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Tiradito Nikkei
+Label: Avoid
+Reason: Milk is listed on the menu ("crema" in the listed ingredient). | Soy is listed on the menu ("soy" in the English ingredient). | Wheat / gluten: this dish usually contains it (Soy sauce contains wheat). | Soy: this dish usually contains it (Nikkei style uses soy sauce). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Lomo Saltado
+Label: Avoid
+Reason: Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Ají de Gallina
+Label: Avoid
+Reason: Milk is listed on the menu ("crema" in the listed ingredient). | Egg is listed on the menu ("huevo" in the listed ingredient). | Milk: this dish usually contains it (Evaporated milk and cheese are used). | Egg: this dish usually contains it (Hard-boiled eggs used for garnish). | Wheat / gluten: white bread is an essential part of a typical recipe for this dish. | Milk: evaporated milk is an essential part of a typical recipe for this dish.
+Dish: Papa a la Huancaína
+Label: Avoid
+Reason: Milk is listed on the menu ("queso" in the listed ingredient). | Egg is listed on the menu ("huevo" in the listed ingredient). | Milk: this dish usually contains it (Fresh cheese and evaporated milk or cream are essential). | Egg: this dish usually contains it (Hard-boiled eggs used for garnish). | Milk: queso fresco is an essential part of a typical recipe for this dish. | Milk: evaporated milk is an essential part of a typical recipe for this dish. | Egg: hard-boiled egg is an essential part of a typical recipe for this dish.
+Dish: Anticuchos de Corazón
+Label: Ask the kitchen
+Reason: Soy may be hidden: marinades often contain soy sauce.
+Dish: Arroz Chaufa de Mariscos
+Label: Avoid
+Reason: Egg is listed on the menu ("huevo" in the listed ingredient). | Soy is listed on the menu ("soy" in the English ingredient). | Egg: this dish usually contains it (Eggs are scrambled into the fried rice). | Wheat / gluten: this dish usually contains it (Soy sauce contains gluten). | Soy: this dish usually contains it (Soy sauce is essential). | Soy: soy sauce is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Causa Limeña
+Label: Avoid
+Reason: Egg is listed on the menu ("mayonesa" in the listed ingredient). | Egg: mayonnaise is an essential part of a typical recipe for this dish.
+Dish: Choclo con Queso
+Label: Avoid
+Reason: Milk is listed on the menu ("queso" in the dish name). | Milk: this dish usually contains it (Queso fresco is an essential component). | Milk: queso fresco is an essential part of a typical recipe for this dish.
+Dish: Picarones
+Label: Avoid
+Reason: Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Susupiro a la Limeña
+Label: Avoid
+Reason: Milk is listed on the menu ("leche" in the listed ingredient). | Egg is listed on the menu ("merengue" in the listed ingredient). | Milk: this dish usually contains it (Condensed and evaporated milk are essential). | Egg: this dish usually contains it (Egg yolks in the base and whites in the meringue). | Milk: evaporated milk is an essential part of a typical recipe for this dish. | Milk: condensed milk is an essential part of a typical recipe for this dish. | Egg: egg yolk is an essential part of a typical recipe for this dish. | Egg: egg white is an essential part of a typical recipe for this dish.
+Dish: Chicha Morada
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Tiradito Nikkei
+Label: Avoid
+Reason: Fish is listed on the menu ("pescado" in the listed ingredient). | Fish: this dish usually contains it (Made with raw fish). | Fish: white fish is an essential part of a typical recipe for this dish.
+Dish: Lomo Saltado
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ají de Gallina
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Papa a la Huancaína
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Anticuchos de Corazón
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Arroz Chaufa de Mariscos
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("marisco" in the dish name). | Molluscs is listed on the menu ("marisco" in the dish name). | Crustaceans: this dish usually contains it (Shrimp and crab are typically included). | Molluscs: this dish usually contains it (Squid and octopus are typically included). | Crustaceans: mixed seafood is an essential part of a typical recipe for this dish. | Molluscs: mixed seafood is an essential part of a typical recipe for this dish.
+Dish: Causa Limeña
+Label: Ask the kitchen
+Reason: Fish: common versions of this dish contain it (Tuna is a very common filling). | Crustaceans: common versions of this dish contain it (Crab or shrimp are common fillings). | Fish: tuna is commonly in this dish (a typical recipe, not the menu).
+Dish: Choclo con Queso
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Picarones
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Susupiro a la Limeña
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicha Morada
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

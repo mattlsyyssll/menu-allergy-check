@@ -22,12 +22,15 @@ const cfg = {
 };
 
 export const cloudConfigured = Boolean(cfg.apiKey && cfg.projectId && cfg.appId);
-const CLOUD_MODEL = (env.VITE_CLOUD_MODEL as string | undefined) || 'gemini-3.5-flash-lite';
+// Dev only: ?model=NAME on the page overrides the cloud model, to compare models on the same requests.
+const devModel = env.DEV && typeof location !== 'undefined' ? new URLSearchParams(location.search).get('model') : null;
+export const CLOUD_MODEL = devModel || (env.VITE_CLOUD_MODEL as string | undefined) || 'gemini-3.5-flash-lite';
 
 const MENU_PROMPT =
   'Read this restaurant menu photo. Reply with JSON only. ' +
   '"language": the menu\'s main language as a two-letter ISO 639-1 code (en, zh, ja, ko, th, vi, es, fr, it, de, pt...). ' +
-  '"dishes": every dish on the menu, in reading order. ' +
+  '"dishes": every dish on the menu, in reading order, from every section and column. ' +
+  'A section heading (such as Starters, Snacks and Desserts, Drinks) is not a dish: list each dish under it as its own dish. ' +
   '"name": the dish name exactly as printed, in the original language and script. ' +
   '"nameEnglish": an English translation of the dish name (copy the name if it is already English). ' +
   '"ingredients": only the ingredients printed on the menu for that dish, as separate items; use an empty list if none are printed. ' +

@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Sfogliaiella Riccia
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baba al Rum
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Torta della Nonna
+Label: Ask the kitchen
+Reason: Peanut may be hidden: the menu mentions nuts without saying which. | Peanut may be hidden: the menu mentions nuts without saying which (found in a typical recipe: pine nuts).
+Dish: Cantucci
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dolce del Giorno
+Label: Ask the kitchen
+Reason: "Dolce del Giorno" changes from day to day or cook to cook ("del giorno"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Pizza al Taglio
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Panino alla Mortadella
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: spremuta d'Arancia
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gelato Fior di Latte
+Label: Ask the kitchen
+Reason: Peanut may be hidden: FARE lists this food as a possible peanut source (an ingredient or shared equipment).
+Dish: Granita al Limone
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sorbetto di Fragola
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gusto del Giorno
+Label: Ask the kitchen
+Reason: "Gusto del Giorno" changes from day to day or cook to cook ("del giorno"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-B
+Dish: Sfogliaiella Riccia
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baba al Rum
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame.
+Dish: Torta della Nonna
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pinoli" in the listed ingredient). | Tree nuts: this dish usually contains it (pine nuts on top). | Tree nuts: pine nuts is an essential part of a typical recipe for this dish.
+Dish: Cantucci
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("mandorle" in the listed ingredient). | Tree nuts: this dish usually contains it (almonds are essential). | Tree nuts: almond is an essential part of a typical recipe for this dish.
+Dish: Dolce del Giorno
+Label: Ask the kitchen
+Reason: "Dolce del Giorno" changes from day to day or cook to cook ("del giorno"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Pizza al Taglio
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Panino alla Mortadella
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pistacchio" in the listed ingredient).
+Dish: spremuta d'Arancia
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gelato Fior di Latte
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Granita al Limone
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sorbetto di Fragola
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gusto del Giorno
+Label: Ask the kitchen
+Reason: "Gusto del Giorno" changes from day to day or cook to cook ("del giorno"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-C
+Dish: Sfogliaiella Riccia
+Label: Avoid
+Reason: Milk is listed on the menu ("ricotta" in the listed ingredient). | Wheat / gluten is listed on the menu ("semolina" in the English ingredient). | Milk: this dish usually contains it (ricotta cheese in filling). | Egg: this dish usually contains it (eggs in pastry and filling). | Wheat / gluten: this dish usually contains it (wheat flour in dough). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: ricotta cheese is an essential part of a typical recipe for this dish. | Wheat / gluten: semolina is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Baba al Rum
+Label: Avoid
+Reason: Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Torta della Nonna
+Label: Avoid
+Reason: Milk is listed on the menu ("crema" in the listed ingredient). | Milk: this dish usually contains it (milk in pastry cream). | Egg: this dish usually contains it (eggs in pastry and cream). | Wheat / gluten: this dish usually contains it (wheat flour in shortcrust pastry). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish.
+Dish: Cantucci
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (wheat flour is the base). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Dolce del Giorno
+Label: Ask the kitchen
+Reason: "Dolce del Giorno" changes from day to day or cook to cook ("del giorno"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Pizza al Taglio
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (wheat flour is dough base). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Panino alla Mortadella
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("panino" in the dish name). | Wheat / gluten: this dish usually contains it (bread is made of wheat flour). | Wheat / gluten: bread is an essential part of a typical recipe for this dish.
+Dish: spremuta d'Arancia
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gelato Fior di Latte
+Label: Avoid
+Reason: Milk is listed on the menu ("gelato" in the dish name). | Milk: this dish usually contains it (milk and cream are essential). | Milk: milk is an essential part of a typical recipe for this dish. | Milk: cream is an essential part of a typical recipe for this dish.
+Dish: Granita al Limone
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sorbetto di Fragola
+Label: Ask the kitchen
+Reason: Egg may be hidden: FARE lists this food as a possible egg source (for example an egg wash or egg in the dough).
+Dish: Gusto del Giorno
+Label: Ask the kitchen
+Reason: "Gusto del Giorno" changes from day to day or cook to cook ("del giorno"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-D
+Dish: Sfogliaiella Riccia
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Baba al Rum
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Torta della Nonna
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cantucci
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dolce del Giorno
+Label: Ask the kitchen
+Reason: "Dolce del Giorno" changes from day to day or cook to cook ("del giorno"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Pizza al Taglio
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Panino alla Mortadella
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: spremuta d'Arancia
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gelato Fior di Latte
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Granita al Limone
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sorbetto di Fragola
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gusto del Giorno
+Label: Ask the kitchen
+Reason: "Gusto del Giorno" changes from day to day or cook to cook ("del giorno"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.

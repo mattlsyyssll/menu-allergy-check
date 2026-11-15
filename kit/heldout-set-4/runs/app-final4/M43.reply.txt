@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Doro Wat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kitfo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tibs
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Misir Wat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gomen
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dulet
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Yebeyaynetu Veggie Platter
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dabo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sambusa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Wat of the Day
+Label: Ask the kitchen
+Reason: "Chef's Wat of the Day" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Spris
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Buna
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Doro Wat
+Label: Ask the kitchen
+Reason: Sesame may be hidden: spice blends often contain sesame (found in a typical recipe: berbere spice blend).
+Dish: Kitfo
+Label: Ask the kitchen
+Reason: Sesame may be hidden: spice blends often contain sesame (found in a typical recipe: mitmita spice blend).
+Dish: Tibs
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Misir Wat
+Label: Ask the kitchen
+Reason: Sesame may be hidden: spice blends often contain sesame (found in a typical recipe: berbere spice blend).
+Dish: Gomen
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dulet
+Label: Ask the kitchen
+Reason: Sesame may be hidden: spice blends often contain sesame (found in a typical recipe: mitmita spice blend).
+Dish: Yebeyaynetu Veggie Platter
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dabo
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame.
+Dish: Sambusa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Wat of the Day
+Label: Ask the kitchen
+Reason: "Chef's Wat of the Day" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Spris
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Buna
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Doro Wat
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient). | Egg: this dish usually contains it (hard-boiled eggs are a signature component). | Milk: clarified butter is an essential part of a typical recipe for this dish. | Egg: hard-boiled egg is an essential part of a typical recipe for this dish.
+Dish: Kitfo
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Milk: this dish usually contains it (prepared with spiced clarified butter). | Milk: clarified butter is an essential part of a typical recipe for this dish.
+Dish: Tibs
+Label: Avoid
+Reason: Milk: clarified butter is an essential part of a typical recipe for this dish.
+Dish: Misir Wat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gomen
+Label: Ask the kitchen
+Reason: Milk: clarified butter is commonly in this dish (a typical recipe, not the menu).
+Dish: Dulet
+Label: Avoid
+Reason: Milk: clarified butter is an essential part of a typical recipe for this dish.
+Dish: Yebeyaynetu Veggie Platter
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dabo
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bread" in the listed ingredient). | Wheat / gluten: this dish usually contains it (traditional wheat bread). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Sambusa
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (pastry wrapper is made of wheat flour). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Chef's Wat of the Day
+Label: Ask the kitchen
+Reason: "Chef's Wat of the Day" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Spris
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Buna
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Doro Wat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kitfo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Tibs
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Misir Wat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gomen
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dulet
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Yebeyaynetu Veggie Platter
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Dabo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sambusa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Wat of the Day
+Label: Ask the kitchen
+Reason: "Chef's Wat of the Day" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Spris
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Buna
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

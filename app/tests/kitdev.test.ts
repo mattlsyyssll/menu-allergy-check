@@ -55,23 +55,51 @@ describe('/kit-save', () => {
     expect(sanitizeName('')).toMatch(/^run-/);
     expect(sanitizeName(null)).toMatch(/^run-/);
   });
-  it('writes runs/<name>.json and refuses to overwrite', async () => {
+  it('writes runs/saved/<name>.json and refuses to overwrite', async () => {
     const r = await post('/kit-save?name=app-build6', '{"a":1}');
     expect(r.status).toBe(200);
-    expect(fs.readFileSync(path.join(dir, 'runs', 'app-build6.json'), 'utf8')).toBe('{"a":1}');
+    expect(fs.readFileSync(path.join(dir, 'runs', 'saved', 'app-build6.json'), 'utf8')).toBe('{"a":1}');
     expect((await post('/kit-save?name=app-build6', '{"a":2}')).status).toBe(409);
-    expect(fs.readFileSync(path.join(dir, 'runs', 'app-build6.json'), 'utf8')).toBe('{"a":1}');
+    expect(fs.readFileSync(path.join(dir, 'runs', 'saved', 'app-build6.json'), 'utf8')).toBe('{"a":1}');
   });
-  it('a traversal name stays inside runs/', async () => {
+  it('a traversal name stays inside runs/saved/', async () => {
     expect((await post('/kit-save?name=../../evil', '{}')).status).toBe(200);
-    expect(fs.existsSync(path.join(dir, 'runs', 'evil.json'))).toBe(true);
+    expect(fs.existsSync(path.join(dir, 'runs', 'saved', 'evil.json'))).toBe(true);
     expect(fs.existsSync(path.join(path.dirname(dir), 'evil.json'))).toBe(false);
   });
   it('rejects GET, non-JSON body, wrong content type and a foreign origin', async () => {
     expect((await call('/kit-save?name=g')).status).toBe(405);
     expect((await post('/kit-save?name=bad', 'not json')).status).toBe(400);
-    expect(fs.existsSync(path.join(dir, 'runs', 'bad.json'))).toBe(false);
+    expect(fs.existsSync(path.join(dir, 'runs', 'saved', 'bad.json'))).toBe(false);
     expect((await post('/kit-save?name=ct', '{}', { 'content-type': 'text/plain' })).status).toBe(415);
     expect((await post('/kit-save?name=orig', '{}', { 'content-type': 'application/json', origin: 'http://evil.example' })).status).toBe(403);
   });
+});
+
+describe('set 3 paths', () => {
+  it('allows exactly the set 3 menus M33-M40, profiles.json and heldout.json', () => {
+    for (let n = 33; n <= 40; n++) expect(ALLOWED.test(`/kit/set3/menus/M${n}.png`)).toBe(true);
+    for (const u of ['/kit/set3/profiles.json', '/kit/set3/heldout.json']) expect(ALLOWED.test(u)).toBe(true);
+    for (const u of ['/kit/set3/keys/M33.json', '/kit/set3/case-data.json', '/kit/set3/ANSWER-KEYS.md', '/kit/set3/menus/M32.png', '/kit/set3/menus/M41.png', '/kit/set3/kit.json', '/kit/set3/menus/../keys/M33.json'])
+      expect(ALLOWED.test(u), u).toBe(false);
+  });
+  it('maps set3 to heldout-set-3', () => expect(KIT_PATH_OF('/kit/set3/menus/M33.png')).toBe('heldout-set-3/menus/M33.png'));
+});
+
+describe('set 4 paths', () => {
+  it('allows exactly the set 4 menus M41-M48, profiles.json and heldout.json', () => {
+    for (let n = 41; n <= 48; n++) expect(ALLOWED.test(`/kit/set4/menus/M${n}.png`)).toBe(true);
+    for (const u of ['/kit/set4/profiles.json', '/kit/set4/heldout.json']) expect(ALLOWED.test(u)).toBe(true);
+    for (const u of ['/kit/set4/keys/M41.json', '/kit/set4/case-data.json', '/kit/set4/menus/M40.png', '/kit/set4/menus/M49.png', '/kit/set4/kit.json']) expect(ALLOWED.test(u), u).toBe(false);
+  });
+  it('maps set4 to heldout-set-4', () => expect(KIT_PATH_OF('/kit/set4/menus/M41.png')).toBe('heldout-set-4/menus/M41.png'));
+});
+
+describe('set 5 paths', () => {
+  it('allows exactly the set 5 menus M49-M56, profiles.json and heldout.json', () => {
+    for (let n = 49; n <= 56; n++) expect(ALLOWED.test(`/kit/set5/menus/M${n}.png`)).toBe(true);
+    for (const u of ['/kit/set5/profiles.json', '/kit/set5/heldout.json']) expect(ALLOWED.test(u)).toBe(true);
+    for (const u of ['/kit/set5/keys/M49.json', '/kit/set5/case-data.json', '/kit/set5/menus/M48.png', '/kit/set5/menus/M57.png']) expect(ALLOWED.test(u), u).toBe(false);
+  });
+  it('maps set5 to heldout-set-5', () => expect(KIT_PATH_OF('/kit/set5/menus/M49.png')).toBe('heldout-set-5/menus/M49.png'));
 });

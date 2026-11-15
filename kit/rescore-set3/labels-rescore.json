@@ -1,0 +1,594 @@
+{
+"M37": {
+"Tiradito Nikkei": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "Avoid"
+},
+"Lomo Saltado": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Ají de Gallina": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Papa a la Huancaína": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Anticuchos de Corazón": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+},
+"Arroz Chaufa de Mariscos": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "Avoid"
+},
+"Causa Limeña": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Choclo con Queso": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Picarones": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Suspiro a la Limeña": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Sugerencia del Chef": {
+"PROFILE-A": "Ask the kitchen",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "Ask the kitchen",
+"PROFILE-D": "Ask the kitchen"
+},
+"Chicha Morada": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+}
+},
+"M36": {
+"Chicken Tikka Masala": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Lamb Rogan Josh": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Ask the kitchen",
+"PROFILE-D": "No listed allergen found"
+},
+"Dal Makhani": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Paneer Tikka": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Goan Prawn Curry": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "Avoid"
+},
+"Aloo Gobi": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+},
+"Poha": {
+"PROFILE-A": "Avoid",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+},
+"Amritsari Kulcha": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Chicken 65": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Gajar Halwa": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "Avoid",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Chef's Tandoor Special": {
+"PROFILE-A": "Ask the kitchen",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "Ask the kitchen",
+"PROFILE-D": "Ask the kitchen"
+},
+"Cucumber Raita": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+}
+},
+"M40": {
+"Hokkien Mee": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "Avoid"
+},
+"Bak Kut Teh": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Oyster Omelette": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "Ask the kitchen"
+},
+"Chee Cheong Fun": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "Avoid"
+},
+"Hainanese Chicken Rice": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Curry Mee": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "Ask the kitchen"
+},
+"Ipoh Bean Sprout Chicken": {
+"PROFILE-A": "Ask the kitchen",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Kaya Toast Set": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Pandan Chiffon Slice": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Ais Kacang": {
+"PROFILE-A": "Avoid",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Kopi O": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+},
+"Kopitiam Special of the Day": {
+"PROFILE-A": "Ask the kitchen",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "Ask the kitchen",
+"PROFILE-D": "Ask the kitchen"
+}
+},
+"M34": {
+"Bánh Xèo": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "Avoid"
+},
+"Bún Thịt Nướng": {
+"PROFILE-A": "Avoid",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Ask the kitchen",
+"PROFILE-D": "Avoid"
+},
+"Cá Kho Tộ": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Ask the kitchen",
+"PROFILE-D": "Avoid"
+},
+"Canh Chua Tôm": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "Avoid"
+},
+"Bò Lúc Lắc": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Bánh Cuốn Nóng": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+},
+"Món Đặc Biệt Hôm Nay": {
+"PROFILE-A": "Ask the kitchen",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "Ask the kitchen",
+"PROFILE-D": "Ask the kitchen"
+},
+"Nem Nướng Cuốn": {
+"PROFILE-A": "Avoid",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Cà Phê Trứng": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Bánh Flan": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Chè Ba Màu": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+},
+"Nước Mía": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+}
+},
+"M35": {
+"Moo Ping": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Khao Man Gai": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Pad Kra Pao Kai Dao": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "Ask the kitchen"
+},
+"Hoi Tod": {
+"PROFILE-A": "Ask the kitchen",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "Ask the kitchen"
+},
+"Gai Yang": {
+"PROFILE-A": "Ask the kitchen",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "Ask the kitchen",
+"PROFILE-D": "Ask the kitchen"
+},
+"Sai Oua": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Ask the kitchen",
+"PROFILE-D": "Ask the kitchen"
+},
+"Khao Soi": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Larb Moo": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "Avoid"
+},
+"Roti Gluay": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Mango Sticky Rice": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+},
+"Vendor's Choice of the Day": {
+"PROFILE-A": "Ask the kitchen",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "Ask the kitchen",
+"PROFILE-D": "Ask the kitchen"
+},
+"Fresh Coconut Water": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+}
+},
+"M39": {
+"Kibbeh Mekliyeh": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "Avoid",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Muhammara": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "Avoid",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Manakish Za'atar": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Fatteh": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "Avoid",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Mujaddara": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+},
+"Warak Enab": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+},
+"Chef's Mezze Selection": {
+"PROFILE-A": "Ask the kitchen",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "Ask the kitchen",
+"PROFILE-D": "Ask the kitchen"
+},
+"Shish Taouk": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+},
+"Kafta Skewers": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+},
+"Ma'amoul": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Knafeh": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Lemon Mint Lemonade": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+}
+},
+"M38": {
+"Chicken and Waffles": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Biscuits and Sausage Gravy": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Shrimp and Grits": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "Avoid"
+},
+"Lox and Bagel": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "Avoid"
+},
+"Breakfast Burrito": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Banana Walnut French Toast": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "Avoid",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Corned Beef Hash": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Berry Parfait": {
+"PROFILE-A": "Ask the kitchen",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"Skillet of the Day": {
+"PROFILE-A": "Ask the kitchen",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "Ask the kitchen",
+"PROFILE-D": "Ask the kitchen"
+},
+"Seasonal Melon Plate": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+},
+"Home Fries": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+},
+"Cold-Pressed Grapefruit Juice": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+}
+},
+"M33": {
+"餐肉蛋治": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"乾炒牛河": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"星洲炒米": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "Avoid"
+},
+"焗豬扒飯": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"咖哩魚蛋": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "Avoid"
+},
+"沙嗲牛肉麵": {
+"PROFILE-A": "Avoid",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"今日例湯": {
+"PROFILE-A": "Ask the kitchen",
+"PROFILE-B": "Ask the kitchen",
+"PROFILE-C": "Ask the kitchen",
+"PROFILE-D": "Ask the kitchen"
+},
+"菠蘿油": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"西多士": {
+"PROFILE-A": "Avoid",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"港式奶茶": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"鴛鴦": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "Avoid",
+"PROFILE-D": "No listed allergen found"
+},
+"凍檸茶": {
+"PROFILE-A": "No listed allergen found",
+"PROFILE-B": "No listed allergen found",
+"PROFILE-C": "No listed allergen found",
+"PROFILE-D": "No listed allergen found"
+}
+}
+}

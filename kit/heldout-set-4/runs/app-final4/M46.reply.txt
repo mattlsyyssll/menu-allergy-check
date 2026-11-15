@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Picanha na Brasa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Feijoada Completa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Moqueca de Peixe
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Coxinha de Frango
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Acarajé com Camarão
+Label: Ask the kitchen
+Reason: Peanut: common versions of this dish contain it (vatapá filling often contains peanuts).
+Dish: Corte Especial do Dia
+Label: Ask the kitchen
+Reason: "Corte Especial do Dia" changes from day to day or cook to cook ("especial"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Pão de Queijo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pão Francês na Chapa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Brigadeiro
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pudim de Leite
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Salada de Palmito
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Suco de Maracujá
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Picanha na Brasa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Feijoada Completa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Moqueca de Peixe
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Coxinha de Frango
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame (found in a typical recipe: breadcrumbs).
+Dish: Acarajé com Camarão
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Corte Especial do Dia
+Label: Ask the kitchen
+Reason: "Corte Especial do Dia" changes from day to day or cook to cook ("especial"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Pão de Queijo
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame.
+Dish: Pão Francês na Chapa
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame.
+Dish: Brigadeiro
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pudim de Leite
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Salada de Palmito
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Suco de Maracujá
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Picanha na Brasa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Feijoada Completa
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: sausages often contain breadcrumbs or rusk. | Soy may be hidden: black bean sauce is fermented soybeans. | Soy may be hidden: black bean sauce is fermented soybeans (found in a typical recipe: black bean). | Wheat / gluten may be hidden: sausages often contain breadcrumbs or rusk (found in a typical recipe: smoked sausage).
+Dish: Moqueca de Peixe
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Coxinha de Frango
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("massa" in the listed ingredient). | Wheat / gluten: this dish usually contains it (dough made from wheat flour and breaded with breadcrumbs). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Wheat / gluten: breadcrumbs is an essential part of a typical recipe for this dish.
+Dish: Acarajé com Camarão
+Label: Ask the kitchen
+Reason: Egg may be hidden: fritters are made with egg batter.
+Dish: Corte Especial do Dia
+Label: Ask the kitchen
+Reason: "Corte Especial do Dia" changes from day to day or cook to cook ("especial"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Pão de Queijo
+Label: Avoid
+Reason: Milk is listed on the menu ("queijo" in the dish name). | Wheat / gluten is listed on the menu ("pão" in the dish name). | Milk: this dish usually contains it (made with cheese and milk). | Milk: milk is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: minas cheese is an essential part of a typical recipe for this dish.
+Dish: Pão Francês na Chapa
+Label: Avoid
+Reason: Milk is listed on the menu ("manteiga" in the listed ingredient). | Wheat / gluten is listed on the menu ("pão" in the dish name). | Milk: this dish usually contains it (butter is spread on the bread). | Wheat / gluten: this dish usually contains it (made from wheat flour). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Brigadeiro
+Label: Avoid
+Reason: Milk is listed on the menu ("leite" in the listed ingredient). | Milk: this dish usually contains it (made with condensed milk and butter). | Milk: condensed milk is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Pudim de Leite
+Label: Avoid
+Reason: Milk is listed on the menu ("leite" in the dish name). | Egg is listed on the menu ("ovo" in the listed ingredient). | Milk: this dish usually contains it (made with condensed milk and whole milk). | Egg: this dish usually contains it (whole eggs and yolks are essential for setting). | Milk: condensed milk is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Salada de Palmito
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Suco de Maracujá
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Picanha na Brasa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Feijoada Completa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Moqueca de Peixe
+Label: Avoid
+Reason: Fish is listed on the menu ("peixe" in the dish name). | Fish: this dish usually contains it (primary ingredient is fish). | Fish: fish is an essential part of a typical recipe for this dish.
+Dish: Coxinha de Frango
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Acarajé com Camarão
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("camarão" in the dish name). | Crustaceans: this dish usually contains it (made with shrimp filling). | Crustaceans: shrimp is an essential part of a typical recipe for this dish. | Crustaceans: dried shrimp is an essential part of a typical recipe for this dish.
+Dish: Corte Especial do Dia
+Label: Ask the kitchen
+Reason: "Corte Especial do Dia" changes from day to day or cook to cook ("especial"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Pão de Queijo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pão Francês na Chapa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Brigadeiro
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pudim de Leite
+Label: Ask the kitchen
+Reason: Fish may be hidden: Vietnamese caramel sauces are often made with fish sauce.
+Dish: Salada de Palmito
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Suco de Maracujá
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

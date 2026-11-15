@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Steamed Chicken Momo
+Label: Ask the kitchen
+Reason: Peanut may be hidden: Southeast Asian dipping sauces are often made with peanuts.
+Dish: Jhol Momo
+Label: Ask the kitchen
+Reason: Peanut: common versions of this dish contain it (Peanuts are commonly used in the jhol broth). | Peanut: peanut is commonly in this dish (a typical recipe, not the menu).
+Dish: Pan-Fried Buff Momo
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some chili sauces and dips contain ground peanuts (found in a typical recipe: chili sauce).
+Dish: Veg Thukpa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: House Momo Special
+Label: Ask the kitchen
+Reason: "House Momo Special" changes from day to day or cook to cook ("house"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Dal Bhat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Sekuwa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Aloo Tama
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sel Roti
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Peanut Sadheko
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the dish name). | Peanut: this dish usually contains it (Peanuts are the primary ingredient of this dish). | Peanut: peanut is an essential part of a typical recipe for this dish.
+Dish: Juju Dhaui
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Masala Chiya
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Steamed Chicken Momo
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dipping sauces often contain sesame oil. | Sesame: sesame seed is commonly in this dish (a typical recipe, not the menu).
+Dish: Jhol Momo
+Label: Avoid
+Reason: Sesame is listed on the menu ("sesame" in the listed ingredient). | Sesame: this dish usually contains it (Sesame seeds are a core ingredient in jhol broth). | Sesame: sesame seed is an essential part of a typical recipe for this dish.
+Dish: Pan-Fried Buff Momo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Veg Thukpa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: House Momo Special
+Label: Ask the kitchen
+Reason: "House Momo Special" changes from day to day or cook to cook ("house"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Dal Bhat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Sekuwa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Aloo Tama
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sel Roti
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Peanut Sadheko
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Juju Dhaui
+Label: Ask the kitchen
+Reason: Tree nuts: cashew is sometimes in this dish (a typical recipe, not the menu).
+Dish: Masala Chiya
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Steamed Chicken Momo
+Label: Avoid
+Reason: Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Jhol Momo
+Label: Avoid
+Reason: Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Pan-Fried Buff Momo
+Label: Avoid
+Reason: Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Veg Thukpa
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("wheat" in the listed ingredient). | Wheat / gluten: this dish usually contains it (Noodles are made from wheat flour). | Wheat / gluten: wheat noodle is an essential part of a typical recipe for this dish.
+Dish: House Momo Special
+Label: Ask the kitchen
+Reason: "House Momo Special" changes from day to day or cook to cook ("house"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Dal Bhat
+Label: Ask the kitchen
+Reason: Milk: ghee is commonly in this dish (a typical recipe, not the menu).
+Dish: Chicken Sekuwa
+Label: Avoid
+Reason: Milk: yogurt is an essential part of a typical recipe for this dish.
+Dish: Aloo Tama
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sel Roti
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: roti is wheat bread. | Milk: butter is commonly in this dish (a typical recipe, not the menu). | Milk: ghee is commonly in this dish (a typical recipe, not the menu).
+Dish: Peanut Sadheko
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Juju Dhaui
+Label: Avoid
+Reason: Milk is listed on the menu ("yogurt" in the listed ingredient). | Milk: this dish usually contains it (Made entirely from buffalo milk). | Milk: buffalo milk is an essential part of a typical recipe for this dish. | Milk: yogurt culture is an essential part of a typical recipe for this dish.
+Dish: Masala Chiya
+Label: Avoid
+Reason: Milk is listed on the menu ("milk" in the listed ingredient). | Milk: this dish usually contains it (Milk is a base liquid for masala chai). | Milk: milk is an essential part of a typical recipe for this dish.
+=== PROFILE-D
+Dish: Steamed Chicken Momo
+Label: Ask the kitchen
+Reason: Fish may be hidden: Southeast Asian dipping sauces are often made with fish sauce. | Crustaceans may be hidden: some Southeast Asian dipping sauces contain shrimp paste.
+Dish: Jhol Momo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Pan-Fried Buff Momo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Veg Thukpa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: House Momo Special
+Label: Ask the kitchen
+Reason: "House Momo Special" changes from day to day or cook to cook ("house"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Dal Bhat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chicken Sekuwa
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Aloo Tama
+Label: Ask the kitchen
+Reason: Fish may be hidden: many Thai and Vietnamese curries contain fish sauce or shrimp paste. | Crustaceans may be hidden: many Southeast Asian curries contain shrimp paste.
+Dish: Sel Roti
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Peanut Sadheko
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Juju Dhaui
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Masala Chiya
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

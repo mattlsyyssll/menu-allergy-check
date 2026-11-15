@@ -1,0 +1,29 @@
+Bếp Nhà Hạnh
+
+## Món chính
+Bánh Xèo  45k
+  bánh giòn nghệ, tôm, thịt ba chỉ, giá, nước chấm
+Bún Thịt Nướng  55k
+  thịt heo nướng, bún, rau thơm, đậu phộng, nước mắm pha
+Cá Kho Tộ  110k
+  cá lóc kho trong nồi đất, nước màu, tiêu
+Canh Chua Tôm  70k
+  canh chua tôm, dứa, cà chua, đậu bắp
+Bò Lúc Lắc  120k
+  bò thăn xào, nước tương, hành tây, cải xoong
+Bánh Cuốn Nóng  55k
+  bánh gạo hấp, thịt heo xay, mộc nhĩ, hành phi
+Món Đặc Biệt Hôm Nay  60k
+  hỏi nhân viên
+
+## Món cuốn và tráng miệng
+Nem Nướng Cuốn  65k
+  nem nướng, rau thơm, bánh tráng, tương đậu phộng
+Cà Phê Trứng  40k
+  cà phê, lòng đỏ trứng, sữa đặc
+Bánh Flan  30k
+  bánh flan caramel, cà phê
+Chè Ba Màu  35k
+  đậu xanh, đậu đỏ, thạch lá dứa, nước cốt dừa
+Nước Mía  20k
+  nước mía tươi, quất

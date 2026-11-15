@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: 滷肉飯
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 蒜香雞
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 大腸包小腸
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some chili sauces and dips contain ground peanuts (found in a typical recipe: chili sauce).
+Dish: 臭豆腐
+Label: Ask the kitchen
+Reason: Peanut may be hidden: some chili sauces and dips contain ground peanuts. | Peanut may be hidden: some chili sauces and dips contain ground peanuts (found in a typical recipe: chili sauce).
+Dish: 蔥抓餅
+Label: Ask the kitchen
+Reason: Peanut may be hidden: FARE lists this food as a possible peanut source (an ingredient or shared equipment).
+Dish: 今日限定小吃
+Label: Ask the kitchen
+Reason: "今日限定小吃" changes from day to day or cook to cook ("今日"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: 魚丸湯
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 花生淋冰淇淋
+Label: Avoid
+Reason: Peanut is listed on the menu ("花生" in the dish name). | Peanut: this dish usually contains it (Peanuts are shaved on top of the ice cream). | Peanut: peanut candy block is an essential part of a typical recipe for this dish.
+Dish: 豆花
+Label: Avoid
+Reason: Peanut is listed on the menu ("花生" in the listed ingredient).
+Dish: 地瓜球
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 珍珠奶茶
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 愛玉檸檬
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: 滷肉飯
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 蒜香雞
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 大腸包小腸
+Label: Ask the kitchen
+Reason: Sesame may be hidden: FARE lists this food as a possible sesame source. | Sesame may be hidden: FARE lists this food as a possible sesame source (found in a typical recipe: glutinous rice sausage). | Sesame may be hidden: FARE lists this food as a possible sesame source (found in a typical recipe: pork sausage).
+Dish: 臭豆腐
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 蔥抓餅
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 今日限定小吃
+Label: Ask the kitchen
+Reason: "今日限定小吃" changes from day to day or cook to cook ("今日"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: 魚丸湯
+Label: Ask the kitchen
+Reason: Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: 花生淋冰淇淋
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: FARE lists this food as a possible tree nut source (found in a typical recipe: peanut candy block). | Sesame may be hidden: FARE lists this food as a possible sesame source (found in a typical recipe: peanut candy block).
+Dish: 豆花
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 地瓜球
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 珍珠奶茶
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 愛玉檸檬
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: 滷肉飯
+Label: Avoid
+Reason: Soy is listed on the menu ("醬油" in the listed ingredient). | Wheat / gluten: this dish usually contains it (Soy sauce contains wheat). | Soy: this dish usually contains it (Soy sauce is essential for braising). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 蒜香雞
+Label: Ask the kitchen
+Reason: Soy: soy sauce is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten may be hidden: soy sauce is brewed with wheat (found in a typical recipe: soy sauce). | Wheat / gluten: wheat flour is sometimes in this dish (a typical recipe, not the menu). | Egg: egg is sometimes in this dish (a typical recipe, not the menu).
+Dish: 大腸包小腸
+Label: Ask the kitchen
+Reason: Milk may be hidden: FARE lists this food as a possible milk source (for example butter, milk powder or casein). | Wheat / gluten may be hidden: sausages often contain breadcrumbs or rusk. | Soy may be hidden: FARE lists this food as a possible soy source. | Milk may be hidden: FARE lists this food as a possible milk source (for example butter, milk powder or casein) (found in a typical recipe: glutinous rice sausage). | Wheat / gluten may be hidden: sausages often contain breadcrumbs or rusk (found in a typical recipe: glutinous rice sausage). | Soy may be hidden: FARE lists this food as a possible soy source (found in a typical recipe: glutinous rice sausage). | Milk may be hidden: FARE lists this food as a possible milk source (for example butter, milk powder or casein) (found in a typical recipe: pork sausage). | Wheat / gluten may be hidden: sausages often contain breadcrumbs or rusk (found in a typical recipe: pork sausage). | Soy may be hidden: FARE lists this food as a possible soy source (found in a typical recipe: pork sausage). | Soy: soy sauce paste is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten may be hidden: soy sauce is brewed with wheat (found in a typical recipe: soy sauce paste).
+Dish: 臭豆腐
+Label: Avoid
+Reason: Soy is listed on the menu ("豆腐" in the dish name). | Soy: this dish usually contains it (Tofu is made from soybeans). | Soy: fermented tofu is an essential part of a typical recipe for this dish.
+Dish: 蔥抓餅
+Label: Avoid
+Reason: Egg is listed on the menu ("雞蛋" in the listed ingredient). | Wheat / gluten is listed on the menu ("麵" in the listed ingredient). | Wheat / gluten: this dish usually contains it (Dough is made from wheat flour). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: 今日限定小吃
+Label: Ask the kitchen
+Reason: "今日限定小吃" changes from day to day or cook to cook ("今日"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: 魚丸湯
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 花生淋冰淇淋
+Label: Avoid
+Reason: Milk is listed on the menu ("冰淇淋" in the dish name). | Milk: this dish usually contains it (Ice cream is made from milk/dairy). | Wheat / gluten: this dish usually contains it (Lumpia wrapper used to wrap ice cream and peanuts). | Milk: ice cream is an essential part of a typical recipe for this dish.
+Dish: 豆花
+Label: Avoid
+Reason: Soy is listed on the menu ("豆花" in the dish name). | Soy: this dish usually contains it (Tofu pudding is made from soybeans). | Soy: soybean is an essential part of a typical recipe for this dish.
+Dish: 地瓜球
+Label: Avoid
+Reason: Wheat / gluten: sweet potato flour is an essential part of a typical recipe for this dish.
+Dish: 珍珠奶茶
+Label: Avoid
+Reason: Milk is listed on the menu ("奶茶" in the dish name). | Milk: this dish usually contains it (Milk or creamer is standard). | Milk: milk is an essential part of a typical recipe for this dish.
+Dish: 愛玉檸檬
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: 滷肉飯
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 蒜香雞
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 大腸包小腸
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 臭豆腐
+Label: Ask the kitchen
+Reason: Fish may be hidden: kimchi is often made with fish sauce or shrimp. | Crustaceans may be hidden: kimchi often contains salted shrimp. | Molluscs may be hidden: kimchi sometimes contains oysters.
+Dish: 蔥抓餅
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 今日限定小吃
+Label: Ask the kitchen
+Reason: "今日限定小吃" changes from day to day or cook to cook ("今日"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: 魚丸湯
+Label: Avoid
+Reason: Fish is listed on the menu ("魚" in the dish name). | Fish: this dish usually contains it (Fish is the main ingredient of fish balls). | Fish: fish paste is an essential part of a typical recipe for this dish.
+Dish: 花生淋冰淇淋
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 豆花
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 地瓜球
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 珍珠奶茶
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 愛玉檸檬
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

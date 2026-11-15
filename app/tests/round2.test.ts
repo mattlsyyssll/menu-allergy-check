@@ -40,9 +40,11 @@ describe('cause 2 (round 4: dish-specific words removed, generic technique and s
   it('round 4: the dish-name words from rounds 2-3 are gone (the cloud rating covers those dishes)', () => {
     const ask = (name: string, id: AllergyList['allergens'][number]) =>
       firstPass({ name, ingredients: [], ingredientsEnglish: [] }, L(id)).some((f) => f.kind === 'hidden');
-    for (const [name, id] of [['Beef Sate', 'soy'], ['Chicken Yakitori', 'wheat'], ['Avocado Toast', 'sesame'], ['Multigrain roll', 'sesame'], ['Phở Bò', 'peanut'], ['煎堆 Sesame ball', 'peanut'], ['Tangyuan', 'peanut']] as const) {
+    for (const [name, id] of [['Beef Sate', 'soy'], ['Chicken Yakitori', 'wheat'], ['Multigrain roll', 'sesame'], ['Phở Bò', 'peanut'], ['煎堆 Sesame ball', 'peanut'], ['Tangyuan', 'peanut']] as const) {
       expect(ask(name, id), `${name} ${id}`).toBe(false);
     }
+    // Round 6: "toast" is back for sesame, as a generic bread word (FARE: bread may contain sesame), not a dish word.
+    expect(ask('Avocado Toast', 'sesame')).toBe(true);
   });
   it('sweet pastes: the ingredient word "sesame paste" stays (generic), the dish-specific fillings are gone', () => {
     expect(recipeMark(recipe(['glutinous rice flour', 'essential'], ['sesame paste', 'common']), L('peanut'))).toBe('ask');

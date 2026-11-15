@@ -1,0 +1,15 @@
+{
+  "name": "menu-allergy-check-heldout-set-4",
+  "labels": "labels.json",
+  "case_data": "case-data.json",
+  "dirs": {"cases": "cases", "keys": "keys", "runs": "runs", "scores": "scores", "prompts": "prompts"},
+  "entry": {"templates": "../entry/page-templates.md", "text": ["../entry/OUTPUT-SPEC.md"], "rules": "../entry/rules.json"},
+  "freeze": {
+    "files": ["kit.json", "labels.json", "case-data.json", "profiles.json", "heldout.json", "ANSWER-KEYS.md", "README-SET4.md",
+              "keys", "KEYS-HASHES.txt", "menus", "cases", "prompts", "tools",
+              "../scripts", "../allergy_plugin.py", "../entry", "../labels.json", "../profiles.json"],
+    "hashfile": "FROZEN-HASHES-4.txt"
+  },
+  "replay": {"rules": []},
+  "plugin": "../allergy_plugin.py"
+}

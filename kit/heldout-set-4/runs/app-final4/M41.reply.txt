@@ -1,0 +1,137 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: 豚骨ラーメン
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 味噌バターラーメン
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 醤油らーめん
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 冷し中華
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 焼き餃子
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 揚げ出し豆腐
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 手羽先の甘辛だれ
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: チキン南蛮
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 冷奴
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 冷やしトマト
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 烏龍茶
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: 豚骨ラーメン
+Label: Ask the kitchen
+Reason: Sesame: sesame oil is sometimes in this dish (a typical recipe, not the menu).
+Dish: 味噌バターラーメン
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 醤油らーめん
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 冷し中華
+Label: Avoid
+Reason: Sesame is listed on the menu ("ごま" in the listed ingredient).
+Dish: 焼き餃子
+Label: Avoid
+Reason: Sesame: this dish usually contains it (sesame oil is standard in the filling and dipping sauce). | Sesame: sesame oil is an essential part of a typical recipe for this dish.
+Dish: 揚げ出し豆腐
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("栗" in the listed ingredient).
+Dish: 手羽先の甘辛だれ
+Label: Avoid
+Reason: Sesame is listed on the menu ("ごま" in the listed ingredient). | Sesame: this dish usually contains it (sesame seeds are standard as a topping, sesame oil often in glaze). | Sesame: sesame seed is an essential part of a typical recipe for this dish.
+Dish: チキン南蛮
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 冷奴
+Label: Ask the kitchen
+Reason: Sesame: sesame seed is sometimes in this dish (a typical recipe, not the menu).
+Dish: 冷やしトマト
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 烏龍茶
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: 豚骨ラーメン
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("ラーメン" in the dish name). | Egg: this dish usually contains it (soft-boiled marinated egg is a standard topping). | Wheat / gluten: this dish usually contains it (ramen noodles are made of wheat flour). | Soy: this dish usually contains it (soy sauce is used in tare and chashu marinade). | Soy: soy sauce is an essential part of a typical recipe for this dish. | Wheat / gluten: wheat noodle is an essential part of a typical recipe for this dish.
+Dish: 味噌バターラーメン
+Label: Avoid
+Reason: Milk is listed on the menu ("バター" in the dish name). | Wheat / gluten is listed on the menu ("ラーメン" in the dish name). | Soy is listed on the menu ("味噌" in the dish name). | Milk: this dish usually contains it (butter is a core ingredient of miso butter ramen). | Wheat / gluten: this dish usually contains it (ramen noodles contain wheat). | Soy: this dish usually contains it (miso paste is made from soybeans). | Soy: miso paste is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Wheat / gluten: wheat noodle is an essential part of a typical recipe for this dish.
+Dish: 醤油らーめん
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("麺" in the listed ingredient). | Soy is listed on the menu ("醤油" in the dish name). | Wheat / gluten: this dish usually contains it (noodles are wheat, soy sauce contains wheat). | Soy: this dish usually contains it (soy sauce is the base seasoning). | Soy: soy sauce is an essential part of a typical recipe for this dish. | Wheat / gluten: wheat noodle is an essential part of a typical recipe for this dish.
+Dish: 冷し中華
+Label: Avoid
+Reason: Egg is listed on the menu ("卵" in the listed ingredient). | Wheat / gluten is listed on the menu ("麺" in the listed ingredient). | Egg: this dish usually contains it (kinshitamago (shredded omelet) is a standard topping). | Wheat / gluten: this dish usually contains it (chuka soba noodles are made of wheat). | Wheat / gluten: wheat noodle is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: 焼き餃子
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("餃子" in the dish name). | Soy is listed on the menu ("醤油" in the listed ingredient). | Wheat / gluten: this dish usually contains it (gyoza wrappers are made of wheat flour). | Soy: this dish usually contains it (soy sauce in filling and dipping sauce). | Soy: soy sauce is an essential part of a typical recipe for this dish. | Wheat / gluten: wheat wrapper is an essential part of a typical recipe for this dish.
+Dish: 揚げ出し豆腐
+Label: Avoid
+Reason: Soy is listed on the menu ("豆腐" in the dish name). | Soy: this dish usually contains it (tofu is made from soybeans, tentsuyu contains soy sauce). | Soy: silken tofu is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 手羽先の甘辛だれ
+Label: Avoid
+Reason: Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: チキン南蛮
+Label: Avoid
+Reason: Egg is listed on the menu ("卵" in the listed ingredient). | Egg: this dish usually contains it (chicken is dipped in egg batter and tartar sauce contains hard-boiled eggs). | Wheat / gluten: this dish usually contains it (flour coating and soy sauce contain wheat). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish. | Egg: mayonnaise is an essential part of a typical recipe for this dish.
+Dish: 冷奴
+Label: Avoid
+Reason: Soy is listed on the menu ("豆腐" in the listed ingredient). | Soy: this dish usually contains it (tofu is made from soybeans, soy sauce used as seasoning). | Soy: silken tofu is an essential part of a typical recipe for this dish. | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 冷やしトマト
+Label: Ask the kitchen
+Reason: Egg: mayonnaise is commonly in this dish (a typical recipe, not the menu).
+Dish: 烏龍茶
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: 豚骨ラーメン
+Label: Ask the kitchen
+Reason: Fish may be hidden: ramen broth often uses fish stock.
+Dish: 味噌バターラーメン
+Label: Ask the kitchen
+Reason: Fish may be hidden: miso soup is usually made with fish stock (dashi).
+Dish: 醤油らーめん
+Label: Avoid
+Reason: Fish: this dish usually contains it (dashi broth usually contains fish flakes or niboshi). | Fish: dashi is an essential part of a typical recipe for this dish.
+Dish: 冷し中華
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 焼き餃子
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: dumpling fillings often contain shrimp.
+Dish: 揚げ出し豆腐
+Label: Avoid
+Reason: Fish: this dish usually contains it (tentsuyu broth is made with bonito dashi). | Fish: dashi is an essential part of a typical recipe for this dish.
+Dish: 手羽先の甘辛だれ
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: チキン南蛮
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 冷奴
+Label: Avoid
+Reason: Fish is listed on the menu ("かつお" in the listed ingredient). | Fish: this dish usually contains it (katsuobushi (bonito flakes) is a standard topping). | Fish: bonito flake is an essential part of a typical recipe for this dish.
+Dish: 冷やしトマト
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 烏龍茶
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

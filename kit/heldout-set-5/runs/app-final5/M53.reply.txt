@@ -1,0 +1,161 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Pan dulce
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Concha de Vainilla
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Empanada de Cajeta
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Polvorones
+Label: Ask the kitchen
+Reason: Peanut may be hidden: the menu mentions nuts without saying which.
+Dish: Torta de Jamón
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sope de Chorizo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Quesadilla de Flor de Calabaza
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sopa de Lima
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ensalada de Jícama
+Label: Ask the kitchen
+Reason: Peanut: common versions of this dish contain it (Often garnished with peanuts or peanut-based chili powder). | Peanut: peanut is sometimes in this dish (a typical recipe, not the menu).
+Dish: Antojito del Día
+Label: Ask the kitchen
+Reason: "Antojito del Día" changes from day to day or cook to cook ("del dia"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Café de Olla
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Champutrado
+Label: Ask the kitchen
+Reason: Peanut may be hidden: FARE lists this food as a possible peanut source (an ingredient or shared equipment). | Peanut may be hidden: FARE lists this food as a possible peanut source (an ingredient or shared equipment) (found in a typical recipe: mexican chocolate).
+Dish: Agua de Tamarindo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Pan dulce
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame.
+Dish: Concha de Vainilla
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame.
+Dish: Empanada de Cajeta
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("nuez" in the listed ingredient).
+Dish: Polvorones
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("nuez" in the listed ingredient).
+Dish: Torta de Jamón
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sope de Chorizo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Quesadilla de Flor de Calabaza
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sopa de Lima
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ensalada de Jícama
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Antojito del Día
+Label: Ask the kitchen
+Reason: "Antojito del Día" changes from day to day or cook to cook ("del dia"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Café de Olla
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Champutrado
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: FARE lists this food as a possible tree nut source. | Tree nuts may be hidden: FARE lists this food as a possible tree nut source (found in a typical recipe: mexican chocolate).
+Dish: Agua de Tamarindo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Pan dulce
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bread" in the English dish name). | Milk: this dish usually contains it (Contains butter and milk). | Egg: this dish usually contains it (Contains eggs in dough). | Wheat / gluten: this dish usually contains it (Made with wheat flour). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish.
+Dish: Concha de Vainilla
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("bread" in the English ingredient). | Milk: this dish usually contains it (Contains butter and milk). | Egg: this dish usually contains it (Contains eggs in dough). | Wheat / gluten: this dish usually contains it (Made with wheat flour). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish.
+Dish: Empanada de Cajeta
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("empanada" in the dish name). | Milk: this dish usually contains it (Cajeta is made with goat milk). | Wheat / gluten: this dish usually contains it (Made with wheat flour dough). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Polvorones
+Label: Avoid
+Reason: Milk is listed on the menu ("mantequilla" in the listed ingredient). | Milk: this dish usually contains it (Contains butter). | Wheat / gluten: this dish usually contains it (Made with wheat flour). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Torta de Jamón
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (Served in a wheat bread bolillo).
+Dish: Sope de Chorizo
+Label: Avoid
+Reason: Milk is listed on the menu ("queso" in the listed ingredient). | Milk: this dish usually contains it (Served with queso fresco or cream). | Wheat / gluten: corn masa flour is an essential part of a typical recipe for this dish. | Milk: queso fresco is an essential part of a typical recipe for this dish.
+Dish: Quesadilla de Flor de Calabaza
+Label: Avoid
+Reason: Milk is listed on the menu ("queso" in the listed ingredient). | Wheat / gluten is listed on the menu ("tortilla" in the listed ingredient). | Milk: this dish usually contains it (Contains melting cheese (queso oaxaca)). | Milk: oaxaca cheese is an essential part of a typical recipe for this dish.
+Dish: Sopa de Lima
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("tortilla" in the listed ingredient). | Wheat / gluten: tortilla strips is an essential part of a typical recipe for this dish.
+Dish: Ensalada de Jícama
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Antojito del Día
+Label: Ask the kitchen
+Reason: "Antojito del Día" changes from day to day or cook to cook ("del dia"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Café de Olla
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Champutrado
+Label: Avoid
+Reason: Wheat / gluten: corn masa flour is an essential part of a typical recipe for this dish.
+Dish: Agua de Tamarindo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Pan dulce
+Label: No listed allergen found
+Reason: No allergen from your list appears in the typical recipe.
+Dish: Concha de Vainilla
+Label: Avoid
+Reason: Molluscs is listed on the menu ("conch" in the English dish name).
+Dish: Empanada de Cajeta
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Polvorones
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Torta de Jamón
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sope de Chorizo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Quesadilla de Flor de Calabaza
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sopa de Lima
+Label: Ask the kitchen
+Reason: Fish may be hidden: broth may be made with fish.
+Dish: Ensalada de Jícama
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Antojito del Día
+Label: Ask the kitchen
+Reason: "Antojito del Día" changes from day to day or cook to cook ("del dia"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Café de Olla
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Champutrado
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Agua de Tamarindo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

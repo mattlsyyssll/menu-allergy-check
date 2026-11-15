@@ -1,0 +1,101 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: 回锅肉
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 水煮牛肉
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 口水鸡
+Label: Avoid
+Reason: Peanut is listed on the menu ("花生" in the listed ingredient). | Peanut: this dish usually contains it (crushed peanuts are a signature topping). | Peanut: peanut is an essential part of a typical recipe for this dish.
+Dish: 夫妻肺片
+Label: Avoid
+Reason: Peanut: peanut is an essential part of a typical recipe for this dish.
+Dish: 干煸四季豆
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 蒜泥白肉
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 小吃与甜品
+Label: Ask the kitchen
+Reason: The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: 今日特色菜
+Label: Ask the kitchen
+Reason: "今日特色菜" changes from day to day or cook to cook ("今日"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-B
+Dish: 回锅肉
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 水煮牛肉
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 口水鸡
+Label: Avoid
+Reason: Sesame is listed on the menu ("芝麻" in the listed ingredient). | Sesame: this dish usually contains it (sesame paste and sesame oil are essential). | Sesame: sesame paste is an essential part of a typical recipe for this dish.
+Dish: 夫妻肺片
+Label: Ask the kitchen
+Reason: Sesame: a typical version usually contains it (sesame oil and toasted sesame seeds are used), but the printed ingredients do not show it. Ask the kitchen. | Sesame: sesame seeds is commonly in this dish (a typical recipe, not the menu). | Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: 干煸四季豆
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 蒜泥白肉
+Label: Ask the kitchen
+Reason: Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: 小吃与甜品
+Label: Ask the kitchen
+Reason: Sesame may be hidden: dumpling fillings and dips often contain sesame oil. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: 今日特色菜
+Label: Ask the kitchen
+Reason: "今日特色菜" changes from day to day or cook to cook ("今日"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-C
+Dish: 回锅肉
+Label: Avoid
+Reason: Soy: this dish usually contains it (soy sauce and doubanjiang are made from soy).
+Dish: 水煮牛肉
+Label: Ask the kitchen
+Reason: Wheat / gluten: a typical version usually contains it (soy sauce and doubanjiang contain wheat), but the printed ingredients do not show it. Ask the kitchen. | Soy: a typical version usually contains it (soy sauce and bean paste contain soy), but the printed ingredients do not show it. Ask the kitchen. | Soy: soy sauce is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten may be hidden: soy sauce is brewed with wheat (found in a typical recipe: soy sauce). | Egg: egg white is commonly in this dish (a typical recipe, not the menu).
+Dish: 口水鸡
+Label: Avoid
+Reason: Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 夫妻肺片
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("面" in the listed ingredient). | Wheat / gluten: this dish usually contains it (soy sauce contains wheat). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 干煸四季豆
+Label: Ask the kitchen
+Reason: Wheat / gluten: a typical version usually contains it (soy sauce contains wheat), but the printed ingredients do not show it. Ask the kitchen. | Soy: a typical version usually contains it (soy sauce and sometimes fermented beans contain soy), but the printed ingredients do not show it. Ask the kitchen. | Soy: soy sauce is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten may be hidden: soy sauce is brewed with wheat (found in a typical recipe: soy sauce).
+Dish: 蒜泥白肉
+Label: Avoid
+Reason: Soy is listed on the menu ("酱油" in the listed ingredient). | Wheat / gluten: this dish usually contains it (soy sauce contains wheat). | Soy: this dish usually contains it (soy sauce and soybean paste contain soy). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: 小吃与甜品
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("noodle" in the English ingredient).
+Dish: 今日特色菜
+Label: Ask the kitchen
+Reason: "今日特色菜" changes from day to day or cook to cook ("今日"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+=== PROFILE-D
+Dish: 回锅肉
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 水煮牛肉
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 口水鸡
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 夫妻肺片
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 干煸四季豆
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 蒜泥白肉
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: 小吃与甜品
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: dumpling fillings often contain shrimp. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: 今日特色菜
+Label: Ask the kitchen
+Reason: "今日特色菜" changes from day to day or cook to cook ("今日"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.

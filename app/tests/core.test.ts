@@ -84,7 +84,7 @@ describe('hidden-source table -> Ask the kitchen', () => {
     ['Mole Poblano', 'mole', 'peanut'],
     ['Pesto Genovese', 'pesto', 'tree_nut'],
     ['Lamb Korma', 'korma', 'tree_nut'],
-    ['Pad Kra Pao Curry', 'curry', 'peanut'],
+    ['Massaman Curry', 'massaman', 'peanut'], // round 7: generic "curry" no longer raises peanut; named curries do
     ['Fettuccine Alfredo', 'alfredo', 'milk'],
     ['Caesar Salad', 'caesar', 'egg'],
     ['Chicken Teriyaki', 'teriyaki', 'wheat'],

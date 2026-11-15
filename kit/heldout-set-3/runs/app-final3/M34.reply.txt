@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Bánh Xèo
+Label: Ask the kitchen
+Reason: Peanut may be hidden: Southeast Asian dipping sauces are often made with peanuts.
+Dish: Bún Đặc Biệt Hôm Nay
+Label: Ask the kitchen
+Reason: "Bún Đặc Biệt Hôm Nay" changes from day to day or cook to cook ("dac biet"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Thịt Nướng
+Label: Avoid
+Reason: Peanut is listed on the menu ("đậu phộng" in the listed ingredient).
+Dish: Cá Kho Tộ
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Canh Chua Tôm
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bò Lúc Lắc
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bánh Cuốn Nóng
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Nem Nướng Cuốn
+Label: Avoid
+Reason: Peanut is listed on the menu ("đậu phộng" in the listed ingredient). | Peanut: this dish usually contains it (Ground peanuts used in the dipping sauce). | Peanut: peanut is an essential part of a typical recipe for this dish.
+Dish: Cà Phê Trứng
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bánh Flan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chè Ba Màu
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Nước Mía
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Bánh Xèo
+Label: Ask the kitchen
+Reason: Sesame may be hidden: Asian dipping sauces often contain sesame oil.
+Dish: Bún Đặc Biệt Hôm Nay
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame. | "Bún Đặc Biệt Hôm Nay" changes from day to day or cook to cook ("dac biet"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Thịt Nướng
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame. | Sesame: common versions of this dish contain it (Sesame oil or seeds often used in marinade). | Sesame: sesame oil is commonly in this dish (a typical recipe, not the menu).
+Dish: Cá Kho Tộ
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Canh Chua Tôm
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bò Lúc Lắc
+Label: Ask the kitchen
+Reason: Sesame may be hidden: stir-fries are often finished with sesame oil.
+Dish: Bánh Cuốn Nóng
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Nem Nướng Cuốn
+Label: Ask the kitchen
+Reason: Sesame: common versions of this dish contain it (Sesame seeds or oil sometimes used in sauce or meat). | Tree nuts may be hidden: some hoisin sauces contain nut paste (found in a typical recipe: hoisin sauce). | Sesame may be hidden: hoisin sauce can contain sesame (found in a typical recipe: hoisin sauce).
+Dish: Cà Phê Trứng
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bánh Flan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chè Ba Màu
+Label: Ask the kitchen
+Reason: Sesame may be hidden: chè desserts are often topped with sesame.
+Dish: Nước Mía
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Bánh Xèo
+Label: Avoid
+Reason: Soy: this dish usually contains it (Fish sauce and dipping sauce contain soy sauce).
+Dish: Bún Đặc Biệt Hôm Nay
+Label: Ask the kitchen
+Reason: "Bún Đặc Biệt Hôm Nay" changes from day to day or cook to cook ("dac biet"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Thịt Nướng
+Label: Ask the kitchen
+Reason: Wheat / gluten: common versions of this dish contain it (Soy sauce in marinade often contains wheat). | Soy: a typical version usually contains it (Soy sauce used in marinade), but the printed ingredients do not show it. Ask the kitchen. | Soy: soy sauce is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten may be hidden: soy sauce is brewed with wheat (found in a typical recipe: soy sauce).
+Dish: Cá Kho Tộ
+Label: Avoid
+Reason: Soy: this dish usually contains it (Soy sauce is essential for braising sauce). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Canh Chua Tôm
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bò Lúc Lắc
+Label: Avoid
+Reason: Soy is listed on the menu ("nước tương" in the listed ingredient). | Wheat / gluten: this dish usually contains it (Soy sauce and oyster sauce contain wheat). | Soy: this dish usually contains it (Soy sauce and oyster sauce used in stir-fry sauce). | Soy: soy sauce is an essential part of a typical recipe for this dish.
+Dish: Bánh Cuốn Nóng
+Label: Ask the kitchen
+Reason: Egg may be hidden: cakes contain egg. | Wheat / gluten may be hidden: cake contains wheat flour. | Soy: a typical version usually contains it (Fish sauce dipping sauce contains soy sauce variant), but the printed ingredients do not show it. Ask the kitchen. | Wheat / gluten may be hidden: sausages often contain breadcrumbs or rusk (found in a typical recipe: vietnamese pork sausage).
+Dish: Nem Nướng Cuốn
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: spring roll wrappers are wheat. | Wheat / gluten: common versions of this dish contain it (Hoisin sauce and rice paper wrappers may contain wheat elements). | Soy: a typical version usually contains it (Hoisin sauce and soybean paste used in dipping sauce), but the printed ingredients do not show it. Ask the kitchen. | Soy: hoisin sauce is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten may be hidden: hoisin sauce is thickened with wheat flour and often contains wheat (found in a typical recipe: hoisin sauce).
+Dish: Cà Phê Trứng
+Label: Avoid
+Reason: Milk is listed on the menu ("sữa" in the listed ingredient). | Egg is listed on the menu ("trứng" in the dish name). | Milk: this dish usually contains it (Sweetened condensed milk is essential). | Egg: this dish usually contains it (Egg yolk is essential for the foam top). | Egg: egg yolk is an essential part of a typical recipe for this dish. | Milk: sweetened condensed milk is an essential part of a typical recipe for this dish.
+Dish: Bánh Flan
+Label: Avoid
+Reason: Milk: this dish usually contains it (Milk and condensed milk used in custard). | Egg: this dish usually contains it (Whole eggs and egg yolks are essential for the custard). | Egg: egg is an essential part of a typical recipe for this dish. | Egg: egg yolk is an essential part of a typical recipe for this dish. | Milk: sweetened condensed milk is an essential part of a typical recipe for this dish. | Milk: evaporated milk is an essential part of a typical recipe for this dish.
+Dish: Chè Ba Màu
+Label: Ask the kitchen
+Reason: Milk: a typical version usually contains it (Coconut milk used for the sauce), but the printed ingredients do not show it. Ask the kitchen.
+Dish: Nước Mía
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Bánh Xèo
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("tôm" in the listed ingredient). | Fish: this dish usually contains it (Fish sauce in dipping sauce). | Crustaceans: shrimp is an essential part of a typical recipe for this dish. | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Bún Đặc Biệt Hôm Nay
+Label: Ask the kitchen
+Reason: Fish may be hidden: bun dishes are served with fish sauce dip. | "Bún Đặc Biệt Hôm Nay" changes from day to day or cook to cook ("dac biet"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Thịt Nướng
+Label: Avoid
+Reason: Fish is listed on the menu ("nước mắm" in the listed ingredient). | Fish: this dish usually contains it (Fish sauce used in marinade and dressing). | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Cá Kho Tộ
+Label: Avoid
+Reason: Fish is listed on the menu ("cá" in the dish name). | Fish: this dish usually contains it (Fish is the main ingredient and fish sauce is used). | Fish: catfish is an essential part of a typical recipe for this dish. | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Canh Chua Tôm
+Label: Avoid
+Reason: Fish is listed on the menu ("cá" in the listed ingredient). | Crustaceans is listed on the menu ("tôm" in the dish name). | Fish: this dish usually contains it (Fish sauce used for seasoning). | Crustaceans: this dish usually contains it (Shrimp is the main protein). | Crustaceans: shrimp is an essential part of a typical recipe for this dish. | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Bò Lúc Lắc
+Label: Avoid
+Reason: Molluscs: oyster sauce is an essential part of a typical recipe for this dish.
+Dish: Bánh Cuốn Nóng
+Label: Avoid
+Reason: Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Nem Nướng Cuốn
+Label: Avoid
+Reason: Fish: this dish usually contains it (Fish sauce often used in meat mix or dipping sauce variants). | Fish: fish sauce is an essential part of a typical recipe for this dish.
+Dish: Cà Phê Trứng
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Bánh Flan
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chè Ba Màu
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Nước Mía
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

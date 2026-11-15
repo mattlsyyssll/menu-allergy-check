@@ -1,0 +1,137 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Wiener Schnitzel
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Currywurst
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Weißwurst mit Brezel
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Schweinehase
+Label: Ask the kitchen
+Reason: The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Rinderroulade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kartoffelsalat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Obatzda mit Brezn
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Käsespätzle
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Apfelstrudel
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Schwarzwalder Kirschtorte
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Apfelschorle
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Wiener Schnitzel
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame. | Sesame may be hidden: bread, buns and rolls may contain sesame (found in a typical recipe: breadcrumbs).
+Dish: Currywurst
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame (found in a typical recipe: bread roll).
+Dish: Weißwurst mit Brezel
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Schweinehase
+Label: Ask the kitchen
+Reason: Sesame may be hidden: dumpling fillings and dips often contain sesame oil. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Rinderroulade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kartoffelsalat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Obatzda mit Brezn
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Käsespätzle
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Apfelstrudel
+Label: Ask the kitchen
+Reason: Tree nuts: common versions of this dish contain it (walnuts or almonds are often added to the filling). | Sesame may be hidden: bread, buns and rolls may contain sesame (found in a typical recipe: breadcrumbs). | Tree nuts: almond is sometimes in this dish (a typical recipe, not the menu).
+Dish: Schwarzwalder Kirschtorte
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Apfelschorle
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Wiener Schnitzel
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("semmel" in the listed ingredient). | Egg: this dish usually contains it (used in the egg wash for breading). | Wheat / gluten: this dish usually contains it (flour and breadcrumbs contain wheat). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: chicken egg is an essential part of a typical recipe for this dish. | Wheat / gluten: breadcrumbs is an essential part of a typical recipe for this dish.
+Dish: Currywurst
+Label: Ask the kitchen
+Reason: Wheat / gluten may be hidden: sausages often contain breadcrumbs or rusk. | Wheat / gluten may be hidden: sausages often contain breadcrumbs or rusk (found in a typical recipe: pork sausage). | Soy may be hidden: worcestershire sauce can contain soy (found in a typical recipe: worcestershire sauce). | Wheat / gluten: bread roll is commonly in this dish (a typical recipe, not the menu).
+Dish: Weißwurst mit Brezel
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("pretzel" in the English dish name). | Wheat / gluten: this dish usually contains it (pretzel is made from wheat flour). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Schweinehase
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("knödel" in the listed ingredient).
+Dish: Rinderroulade
+Label: Ask the kitchen
+Reason: Wheat / gluten: wheat flour is commonly in this dish (a typical recipe, not the menu).
+Dish: Kartoffelsalat
+Label: Ask the kitchen
+Reason: Egg: mayonnaise is sometimes in this dish (a typical recipe, not the menu).
+Dish: Obatzda mit Brezn
+Label: Avoid
+Reason: Milk is listed on the menu ("käse" in the listed ingredient). | Wheat / gluten is listed on the menu ("pretzel" in the English dish name). | Milk: this dish usually contains it (camembert, butter, and cream cheese are primary ingredients). | Wheat / gluten: this dish usually contains it (pretzel is made from wheat flour). | Milk: camembert cheese is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Käsespätzle
+Label: Avoid
+Reason: Milk is listed on the menu ("käse" in the dish name). | Wheat / gluten is listed on the menu ("spätzle" in the dish name). | Milk: this dish usually contains it (cheese and butter are essential ingredients). | Egg: this dish usually contains it (spätzle dough traditionally contains fresh eggs). | Wheat / gluten: this dish usually contains it (spätzle dough is made with wheat flour). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: chicken egg is an essential part of a typical recipe for this dish. | Milk: emmental cheese is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Apfelstrudel
+Label: Avoid
+Reason: Wheat / gluten is listed on the menu ("strudel" in the dish name). | Wheat / gluten: this dish usually contains it (strudel dough is made with wheat flour). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Wheat / gluten: breadcrumbs is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Schwarzwalder Kirschtorte
+Label: Avoid
+Reason: Milk is listed on the menu ("sahne" in the listed ingredient). | Milk: this dish usually contains it (heavy cream and butter are essential components). | Egg: this dish usually contains it (sponge cake batter requires eggs). | Wheat / gluten: this dish usually contains it (cake flour and starch contain wheat). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Egg: chicken egg is an essential part of a typical recipe for this dish. | Milk: heavy cream is an essential part of a typical recipe for this dish.
+Dish: Apfelschorle
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Wiener Schnitzel
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Currywurst
+Label: Ask the kitchen
+Reason: Fish may be hidden: many Thai and Vietnamese curries contain fish sauce or shrimp paste. | Crustaceans may be hidden: many Southeast Asian curries contain shrimp paste. | Fish may be hidden: many Thai and Vietnamese curries contain fish sauce or shrimp paste (found in a typical recipe: curry powder). | Crustaceans may be hidden: many Southeast Asian curries contain shrimp paste (found in a typical recipe: curry powder). | Fish: worcestershire sauce is commonly in this dish (a typical recipe, not the menu). | Fish may be hidden: worcestershire sauce contains anchovy (found in a typical recipe: worcestershire sauce).
+Dish: Weißwurst mit Brezel
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Schweinehase
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: dumpling fillings often contain shrimp. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Rinderroulade
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kartoffelsalat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Obatzda mit Brezn
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Käsespätzle
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Apfelstrudel
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Schwarzwalder Kirschtorte
+Label: Ask the kitchen
+Reason: Fish may be hidden: gelatin can be made from fish (found in a typical recipe: gelatin).
+Dish: Apfelschorle
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

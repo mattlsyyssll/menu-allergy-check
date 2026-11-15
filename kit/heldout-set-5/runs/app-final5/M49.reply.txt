@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Jerk Chicken Quarter
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Curry Goat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ackee and Saltfish
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Escovitch Snapper
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Oxtail Stew
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cook's Special Pot
+Label: Ask the kitchen
+Reason: "Cook's Special Pot" changes from day to day or cook to cook ("special"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Beef Patty
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Red Peas Soup
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Steamed Callaloo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gizzada
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Coconut Punch
+Label: Avoid
+Reason: Peanut is listed on the menu ("peanut" in the listed ingredient).
+Dish: Sorrel Drink
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Jerk Chicken Quarter
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Curry Goat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ackee and Saltfish
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Escovitch Snapper
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Oxtail Stew
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cook's Special Pot
+Label: Ask the kitchen
+Reason: "Cook's Special Pot" changes from day to day or cook to cook ("special"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Beef Patty
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame (found in a typical recipe: breadcrumbs).
+Dish: Red Peas Soup
+Label: Ask the kitchen
+Reason: Sesame may be hidden: dumpling fillings and dips often contain sesame oil. | Sesame may be hidden: dumpling fillings and dips often contain sesame oil (found in a typical recipe: dumpling).
+Dish: Steamed Callaloo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gizzada
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Coconut Punch
+Label: Ask the kitchen
+Reason: Tree nuts: a typical version usually contains it (contains coconut), but the printed ingredients do not show it. Ask the kitchen.
+Dish: Sorrel Drink
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Jerk Chicken Quarter
+Label: Ask the kitchen
+Reason: Soy: soy sauce is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten may be hidden: soy sauce is brewed with wheat (found in a typical recipe: soy sauce).
+Dish: Curry Goat
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ackee and Saltfish
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Escovitch Snapper
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Oxtail Stew
+Label: Ask the kitchen
+Reason: Soy may be hidden: braising liquids often contain soy sauce.
+Dish: Cook's Special Pot
+Label: Ask the kitchen
+Reason: "Cook's Special Pot" changes from day to day or cook to cook ("special"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Beef Patty
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (wheat flour in pastry crust). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Red Peas Soup
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (wheat flour in spinners (dumplings)).
+Dish: Steamed Callaloo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gizzada
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (wheat flour in pastry shell). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Coconut Punch
+Label: Avoid
+Reason: Milk is listed on the menu ("milk" in the listed ingredient). | Wheat / gluten is listed on the menu ("oat" in the listed ingredient). | Milk: this dish usually contains it (condensed milk and/or regular milk used). | Milk: condensed milk is an essential part of a typical recipe for this dish.
+Dish: Sorrel Drink
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Jerk Chicken Quarter
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Curry Goat
+Label: Ask the kitchen
+Reason: Fish may be hidden: many Thai and Vietnamese curries contain fish sauce or shrimp paste. | Crustaceans may be hidden: many Southeast Asian curries contain shrimp paste. | Fish may be hidden: many Thai and Vietnamese curries contain fish sauce or shrimp paste (found in a typical recipe: curry powder). | Crustaceans may be hidden: many Southeast Asian curries contain shrimp paste (found in a typical recipe: curry powder).
+Dish: Ackee and Saltfish
+Label: Avoid
+Reason: Fish is listed on the menu ("cod" in the listed ingredient). | Fish: this dish usually contains it (saltfish is salted cod).
+Dish: Escovitch Snapper
+Label: Avoid
+Reason: Fish is listed on the menu ("snapper" in the dish name). | Fish: this dish usually contains it (contains snapper). | Fish: snapper is an essential part of a typical recipe for this dish.
+Dish: Oxtail Stew
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cook's Special Pot
+Label: Ask the kitchen
+Reason: "Cook's Special Pot" changes from day to day or cook to cook ("special"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Beef Patty
+Label: Ask the kitchen
+Reason: Fish may be hidden: many Thai and Vietnamese curries contain fish sauce or shrimp paste (found in a typical recipe: curry powder). | Crustaceans may be hidden: many Southeast Asian curries contain shrimp paste (found in a typical recipe: curry powder).
+Dish: Red Peas Soup
+Label: Ask the kitchen
+Reason: Crustaceans may be hidden: dumpling fillings often contain shrimp. | Crustaceans may be hidden: dumpling fillings often contain shrimp (found in a typical recipe: dumpling).
+Dish: Steamed Callaloo
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Gizzada
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Coconut Punch
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sorrel Drink
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

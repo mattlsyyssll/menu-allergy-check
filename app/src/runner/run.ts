@@ -3,7 +3,7 @@
 // and offers one JSON download: per menu the kit's reply text (all four lists), the cloud log lines,
 // and a per-dish table with label and decider. Not part of the production build.
 
-import { cloudEngine, cloudConfigured, deviceAvailability, deviceEngine, warmDevice } from '../ai';
+import { cloudEngine, cloudConfigured, deviceAvailability, deviceEngine, warmDevice, CLOUD_MODEL } from '../ai';
 import { allergenIdsFromName, MARK_LABEL, parseMenuJson, type AllergyList, type CloudPayload } from '../core/core';
 import { fileToDataUrl } from '../image';
 import { runCheck, type AttemptEvent, type CloudEngine, type DeviceEngine } from '../pipeline';
@@ -30,6 +30,8 @@ interface CaseResult {
   timeouts: number;
   warnings: string[];
   cloudRequests: { at: string; profile: string; body: string; privacyFlags: string[] }[];
+  /** Every device read answer, in call order (kept so a run can be replayed with the real read). */
+  deviceReads?: string[];
   profiles: Record<string, DishRow[]>;
 }
 
@@ -46,10 +48,18 @@ let running = false;
 
 /** Held-out set 2 (M25 to M32): menus and profiles are served under /kit/set2/ (same profiles as set 1; keys are not reachable). */
 const SET2 = /^M(?:2[5-9]|3[0-2])$/;
-const menuUrl = (menu: string) => (SET2.test(menu) ? `/kit/set2/menus/${menu}.png` : `/kit/menus/${menu}.png`);
+/** Held-out set 3 (M33 to M40): served under /kit/set3/, same rules as set 2. */
+const SET3 = /^M(?:3[3-9]|40)$/;
+/** Held-out set 4 (M41 to M48): served under /kit/set4/, same rules. */
+const SET4 = /^M4[1-8]$/;
+/** Held-out set 5 (M49 to M56): served under /kit/set5/, same rules. */
+const SET5 = /^M(?:49|5[0-6])$/;
+const menuUrl = (menu: string) => (SET2.test(menu) ? `/kit/set2/menus/${menu}.png` : SET3.test(menu) ? `/kit/set3/menus/${menu}.png` : SET4.test(menu) ? `/kit/set4/menus/${menu}.png` : SET5.test(menu) ? `/kit/set5/menus/${menu}.png` : `/kit/menus/${menu}.png`);
 
 async function loadKit(): Promise<Kit> {
-  const [p, h, h2, p2] = await Promise.all([fetch('/kit/profiles.json'), fetch('/kit/heldout.json'), fetch('/kit/set2/heldout.json'), fetch('/kit/set2/profiles.json')]);
+  const [p, h, h2, p2, h3, p3, h4, p4, h5, p5] = await Promise.all([fetch('/kit/profiles.json'), fetch('/kit/heldout.json'), fetch('/kit/set2/heldout.json'), fetch('/kit/set2/profiles.json'),
+    fetch('/kit/set3/heldout.json'), fetch('/kit/set3/profiles.json'), fetch('/kit/set4/heldout.json'), fetch('/kit/set4/profiles.json'),
+    fetch('/kit/set5/heldout.json'), fetch('/kit/set5/profiles.json')]);
   if (!p.ok || !h.ok) throw new Error('Could not load /kit/profiles.json or /kit/heldout.json. Is the kit folder next to the app folder (or KIT_DIR set)?');
   const pj = await p.json();
   const hj = await h.json();
@@ -57,11 +67,30 @@ async function loadKit(): Promise<Kit> {
   const heldout = new Set<string>(hj.heldout);
   for (let n = 25; n <= 32; n++) heldout.add(`M${n}`);
   if (h2.ok) for (const m of (await h2.json()).heldout ?? []) heldout.add(String(m));
+  // Set 3 (M33-M40) is held out the same way.
+  for (let n = 33; n <= 40; n++) heldout.add(`M${n}`);
+  if (h3.ok) for (const m of (await h3.json()).heldout ?? []) heldout.add(String(m));
+  for (let n = 41; n <= 48; n++) heldout.add(`M${n}`);
+  if (h4.ok) for (const m of (await h4.json()).heldout ?? []) heldout.add(String(m));
+  for (let n = 49; n <= 56; n++) heldout.add(`M${n}`);
+  if (h5.ok) for (const m of (await h5.json()).heldout ?? []) heldout.add(String(m));
   const profiles = { ...pj.profiles };
   if (p2.ok) {
     // The set 2 profiles must be identical to set 1's; a difference is an error, not a silent switch.
     const p2j = await p2.json();
     if (JSON.stringify(p2j.profiles) !== JSON.stringify(pj.profiles)) throw new Error('Set 2 profiles.json differs from set 1 profiles.json; the runner will not guess which to use.');
+  }
+  if (p3.ok) {
+    const p3j = await p3.json();
+    if (JSON.stringify(p3j.profiles) !== JSON.stringify(pj.profiles)) throw new Error('Set 3 profiles.json differs from set 1 profiles.json; the runner will not guess which to use.');
+  }
+  if (p4.ok) {
+    const p4j = await p4.json();
+    if (JSON.stringify(p4j.profiles) !== JSON.stringify(pj.profiles)) throw new Error('Set 4 profiles.json differs from set 1 profiles.json; the runner will not guess which to use.');
+  }
+  if (p5.ok) {
+    const p5j = await p5.json();
+    if (JSON.stringify(p5j.profiles) !== JSON.stringify(pj.profiles)) throw new Error('Set 5 profiles.json differs from set 1 profiles.json; the runner will not guess which to use.');
   }
   return { profiles, generic: pj.generic_terms ?? [], heldout, development: hj.development };
 }
@@ -133,7 +162,9 @@ async function runMenu(kit: Kit, menu: string, profileIds: string[], cloudOn: bo
   const imageDataUrl = await fileToDataUrl(await imgRes.blob());
   const readOnce = new Once<[string, ((t: string) => void) | undefined], string>(async (img, onPartial) => {
     res.deviceCalls++; row.cells[2].textContent = String(res.deviceCalls);
-    return deviceEngine.readMenu(img, onPartial);
+    const text = await deviceEngine.readMenu(img, onPartial);
+    (res.deviceReads ??= []).push(text);
+    return text;
   });
   // A short read (see MIN_PLAUSIBLE_DISHES) is read again with a fresh device call, once per menu; the longer result is kept
   // for the other lists. A second list never repeats the re-read.
@@ -145,6 +176,7 @@ async function runMenu(kit: Kit, menu: string, profileIds: string[], cloudOn: bo
       rereadTried = true;
       res.deviceCalls++; row.cells[2].textContent = String(res.deviceCalls);
       const again = await deviceEngine.readMenu(img, undefined, { fresh: true });
+      (res.deviceReads ??= []).push(again);
       try {
         const first = await readOnce.get(img, undefined);
         if (parseMenuJson(again).dishes.length > parseMenuJson(first).dishes.length) readOnce.replace(again);
@@ -163,7 +195,11 @@ async function runMenu(kit: Kit, menu: string, profileIds: string[], cloudOn: bo
     logLines.push(JSON.stringify({ to: 'cloud', body }));
     res.cloudRequests.push({ at: new Date().toISOString(), profile: currentProfile, body, privacyFlags: privacyFlags(kit, body, payload.dishNames) });
     row.cells[3].textContent = String(res.cloudRequests.length);
-    return realCloud!.recipes(payload);
+    const answer = await realCloud!.recipes(payload);
+    // The answer is logged too ("from" lines; the privacy check reads only "to" lines), so a miss can be traced
+    // to the cloud rating or to the device rules, and rules can be re-checked on saved answers.
+    logLines.push(JSON.stringify({ from: 'cloud', body: answer }));
+    return answer;
   });
   const recording: CloudEngine | undefined = cloudOn && realCloud ? { recipes: (payload) => cloudOnce.get(payload) } : undefined;
 
@@ -222,6 +258,7 @@ function buildRunJson(): string {
     startedAt: startedIso,
     elapsedSeconds: Math.round((performance.now() - startedAt) / 1000),
     final: FINAL,
+    cloudModel: CLOUD_MODEL,
     cloudStepOn: results.some((r) => r.cloudRequests.length > 0) || $<HTMLInputElement>('cloud').checked,
     note: 'cases[MENU].reply_txt is <CASE>.reply.txt and cases[MENU].cloudlog_jsonl is <CASE>.cloudlog.jsonl in the kit format. Split them with scripts/split_run.py.',
     cases: Object.fromEntries(results.map((r) => [r.menu, r])),

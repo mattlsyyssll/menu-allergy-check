@@ -1,0 +1,17 @@
+I am sending a photo of a restaurant menu (the image file menus/M53.png). Please check every dish on the menu for four people who have food allergies.
+
+PROFILE-A is allergic to: peanut.
+PROFILE-B is allergic to: tree nut, sesame.
+PROFILE-C is allergic to: milk, egg, wheat, soy.
+PROFILE-D is allergic to: fish, shellfish.
+
+For every dish and for each person, tell me whether the dish is safe for them.
+
+Write the answer in exactly this form, one block per person, and one Dish, Label and Reason line group per dish (use the dish name as printed on the menu):
+
+=== PROFILE-A
+Dish: <dish name as printed>
+Label: <No listed allergen found, or Ask the kitchen, or Avoid>
+Reason: <one short line>
+
+Then the same for === PROFILE-B, === PROFILE-C and === PROFILE-D.

@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Lamb Shish Kebab
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Iskender Kebab
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lahmacun
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Peynirli Pide
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kofte Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Mixed Grill of the Day
+Label: Ask the kitchen
+Reason: "Chef's Mixed Grill of the Day" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Mercimek Corbasi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Coban Salatasi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ezme
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kunefe
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sutlac
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cay
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Lamb Shish Kebab
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame (found in a typical recipe: flatbread).
+Dish: Iskender Kebab
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame. | Sesame may be hidden: bread, buns and rolls may contain sesame (found in a typical recipe: pide bread).
+Dish: Lahmacun
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Peynirli Pide
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kofte Plate
+Label: Ask the kitchen
+Reason: Sesame may be hidden: bread, buns and rolls may contain sesame (found in a typical recipe: breadcrumb).
+Dish: Chef's Mixed Grill of the Day
+Label: Ask the kitchen
+Reason: "Chef's Mixed Grill of the Day" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Mercimek Corbasi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Coban Salatasi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ezme
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("walnut" in the listed ingredient). | Tree nuts: this dish usually contains it (contains walnuts). | Tree nuts: walnut is an essential part of a typical recipe for this dish.
+Dish: Kunefe
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("pistachio" in the listed ingredient). | Tree nuts: this dish usually contains it (pistachio topping). | Tree nuts: pistachio is an essential part of a typical recipe for this dish.
+Dish: Sutlac
+Label: Ask the kitchen
+Reason: Tree nuts: hazelnut is sometimes in this dish (a typical recipe, not the menu).
+Dish: Cay
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Lamb Shish Kebab
+Label: Ask the kitchen
+Reason: Soy may be hidden: marinades often contain soy sauce. | Milk: yogurt is sometimes in this dish (a typical recipe, not the menu).
+Dish: Iskender Kebab
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Wheat / gluten is listed on the menu ("bread" in the listed ingredient). | Milk: this dish usually contains it (butter and yogurt). | Wheat / gluten: this dish usually contains it (pide bread base). | Wheat / gluten: pide bread is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Milk: yogurt is an essential part of a typical recipe for this dish.
+Dish: Lahmacun
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (wheat flour dough). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish.
+Dish: Peynirli Pide
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Milk: this dish usually contains it (cheese topping and butter crust). | Wheat / gluten: this dish usually contains it (wheat dough). | Wheat / gluten: wheat flour is an essential part of a typical recipe for this dish. | Milk: kasheri cheese is an essential part of a typical recipe for this dish.
+Dish: Kofte Plate
+Label: Ask the kitchen
+Reason: Egg may be hidden: meatballs often use egg as a binder. | Wheat / gluten may be hidden: meatballs often contain breadcrumbs. | Wheat / gluten: breadcrumb is commonly in this dish (a typical recipe, not the menu).
+Dish: Chef's Mixed Grill of the Day
+Label: Ask the kitchen
+Reason: "Chef's Mixed Grill of the Day" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Mercimek Corbasi
+Label: Ask the kitchen
+Reason: Milk: butter is commonly in this dish (a typical recipe, not the menu). | Wheat / gluten: flour is sometimes in this dish (a typical recipe, not the menu).
+Dish: Coban Salatasi
+Label: Ask the kitchen
+Reason: Milk: feta cheese is sometimes in this dish (a typical recipe, not the menu).
+Dish: Ezme
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kunefe
+Label: Avoid
+Reason: Milk is listed on the menu ("cheese" in the listed ingredient). | Milk: this dish usually contains it (cheese filling and butter). | Wheat / gluten: this dish usually contains it (kadaif pastry made from wheat flour). | Milk: hatay cheese is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Sutlac
+Label: Avoid
+Reason: Milk is listed on the menu ("milk" in the listed ingredient). | Milk: this dish usually contains it (milk is a main ingredient). | Milk: milk is an essential part of a typical recipe for this dish.
+Dish: Cay
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Lamb Shish Kebab
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Iskender Kebab
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lahmacun
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Peynirli Pide
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kofte Plate
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Chef's Mixed Grill of the Day
+Label: Ask the kitchen
+Reason: "Chef's Mixed Grill of the Day" changes from day to day or cook to cook ("chef's"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Mercimek Corbasi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Coban Salatasi
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Ezme
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Kunefe
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Sutlac
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cay
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.

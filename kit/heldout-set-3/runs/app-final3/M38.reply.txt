@@ -1,0 +1,149 @@
+STATUS: PAGES
+=== PROFILE-A
+Dish: Chicken and Waffles
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Biscuits and Sausage Gravy
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Shrimp and Grits
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lox and Bagel
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Breakfast Burrito
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Banana Walnut French Toast
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Corned Beef Hash
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Berry Parfait
+Label: Ask the kitchen
+Reason: Peanut may be hidden: granola and trail mix often contain peanuts. | Peanut may be hidden: granola and trail mix often contain peanuts (found in a typical recipe: granola).
+Dish: Skillet of the Day
+Label: Ask the kitchen
+Reason: "Skillet of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Seasonal Melon Plate
+Label: Ask the kitchen
+Reason: "Seasonal Melon Plate" changes from day to day or cook to cook ("seasonal"), so no recipe can be trusted. Ask the kitchen what is in it today.
+Dish: Home Fries
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cold-Pressed Grapefruit Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-B
+Dish: Chicken and Waffles
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Biscuits and Sausage Gravy
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Shrimp and Grits
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Lox and Bagel
+Label: Ask the kitchen
+Reason: Sesame may be hidden: many bagels are topped with sesame seeds. | Sesame: common versions of this dish contain it (Sesame seeds are frequently used on 'everything' or sesame bagels.). | Sesame may be hidden: many bagels are topped with sesame seeds (found in a typical recipe: bagel).
+Dish: Breakfast Burrito
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Banana Walnut French Toast
+Label: Avoid
+Reason: Tree nuts is listed on the menu ("walnut" in the dish name). | Tree nuts: this dish usually contains it (Walnuts are an essential named ingredient.). | Tree nuts: walnuts is an essential part of a typical recipe for this dish.
+Dish: Corned Beef Hash
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Berry Parfait
+Label: Ask the kitchen
+Reason: Tree nuts may be hidden: granola often contains tree nuts. | Tree nuts: common versions of this dish contain it (Granola often contains almonds, pecans, or other tree nuts.). | Tree nuts may be hidden: granola often contains tree nuts (found in a typical recipe: granola).
+Dish: Skillet of the Day
+Label: Ask the kitchen
+Reason: "Skillet of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Seasonal Melon Plate
+Label: Ask the kitchen
+Reason: "Seasonal Melon Plate" changes from day to day or cook to cook ("seasonal"), so no recipe can be trusted. Ask the kitchen what is in it today.
+Dish: Home Fries
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cold-Pressed Grapefruit Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-C
+Dish: Chicken and Waffles
+Label: Avoid
+Reason: Egg: this dish usually contains it (Eggs are used in both waffle batter and chicken breading.). | Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Milk: buttermilk is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Biscuits and Sausage Gravy
+Label: Avoid
+Reason: Wheat / gluten: this dish usually contains it (Flour is essential for biscuits and thickening gravy.). | Wheat / gluten: flour is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish.
+Dish: Shrimp and Grits
+Label: Avoid
+Reason: Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Lox and Bagel
+Label: Avoid
+Reason: Milk is listed on the menu ("cream" in the listed ingredient). | Wheat / gluten is listed on the menu ("bagel" in the dish name). | Milk: this dish usually contains it (Cream cheese is a standard spread.). | Wheat / gluten: this dish usually contains it (Bagels are made from wheat flour.). | Wheat / gluten: bagel is an essential part of a typical recipe for this dish. | Milk: cream cheese is an essential part of a typical recipe for this dish.
+Dish: Breakfast Burrito
+Label: Avoid
+Reason: Milk is listed on the menu ("cheddar" in the listed ingredient). | Egg is listed on the menu ("egg" in the listed ingredient). | Wheat / gluten is listed on the menu ("flour" in the listed ingredient). | Egg: this dish usually contains it (Eggs are a primary ingredient.). | Wheat / gluten: this dish usually contains it (Flour tortillas are standard.). | Wheat / gluten: tortilla is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish.
+Dish: Banana Walnut French Toast
+Label: Avoid
+Reason: Milk is listed on the menu ("butter" in the listed ingredient). | Milk: this dish usually contains it (Milk or cream is used in the egg batter.). | Egg: this dish usually contains it (Eggs are essential for the french toast batter.). | Wheat / gluten: bread is an essential part of a typical recipe for this dish. | Egg: egg is an essential part of a typical recipe for this dish. | Milk: milk is an essential part of a typical recipe for this dish. | Milk: butter is an essential part of a typical recipe for this dish.
+Dish: Corned Beef Hash
+Label: Avoid
+Reason: Egg is listed on the menu ("egg" in the listed ingredient).
+Dish: Berry Parfait
+Label: Avoid
+Reason: Milk is listed on the menu ("yogurt" in the listed ingredient). | Milk: this dish usually contains it (Yogurt is a core ingredient.). | Milk: yogurt is an essential part of a typical recipe for this dish.
+Dish: Skillet of the Day
+Label: Ask the kitchen
+Reason: "Skillet of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Seasonal Melon Plate
+Label: Ask the kitchen
+Reason: "Seasonal Melon Plate" changes from day to day or cook to cook ("seasonal"), so no recipe can be trusted. Ask the kitchen what is in it today.
+Dish: Home Fries
+Label: Ask the kitchen
+Reason: Soy: common versions of this dish contain it (Soybean oil is commonly used for frying.).
+Dish: Cold-Pressed Grapefruit Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+=== PROFILE-D
+Dish: Chicken and Waffles
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Biscuits and Sausage Gravy
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Shrimp and Grits
+Label: Avoid
+Reason: Crustaceans is listed on the menu ("shrimp" in the dish name). | Crustaceans: this dish usually contains it (Shrimp is a core ingredient.). | Crustaceans: shrimp is an essential part of a typical recipe for this dish.
+Dish: Lox and Bagel
+Label: Avoid
+Reason: Fish is listed on the menu ("salmon" in the listed ingredient). | Fish: this dish usually contains it (Lox (cured salmon) is a primary ingredient.). | Fish: salmon is an essential part of a typical recipe for this dish.
+Dish: Breakfast Burrito
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Banana Walnut French Toast
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Corned Beef Hash
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Berry Parfait
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Skillet of the Day
+Label: Ask the kitchen
+Reason: "Skillet of the Day" changes from day to day or cook to cook ("of the day"), so no recipe can be trusted. Ask the kitchen what is in it today. | The cloud lookup could not work out the typical recipe of this dish, and a printed ingredient list may be incomplete. Ask the kitchen what is in it.
+Dish: Seasonal Melon Plate
+Label: Ask the kitchen
+Reason: "Seasonal Melon Plate" changes from day to day or cook to cook ("seasonal"), so no recipe can be trusted. Ask the kitchen what is in it today.
+Dish: Home Fries
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
+Dish: Cold-Pressed Grapefruit Juice
+Label: No listed allergen found
+Reason: No allergen from your list appears in the menu text. | No allergen from your list appears in the typical recipe.
